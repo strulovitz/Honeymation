@@ -1,11 +1,12 @@
 # Video 1: Private Mode — Script (Lego Animation)
 
 ## Overview
-- **Duration:** ~2 minutes 10 seconds
+- **Duration:** ~2 minutes 43 seconds
 - **Style:** Lego animation (3D rendered, everything is Lego)
 - **Theme:** Why companies need BeehiveOfAI — anonymization is broken, existing local AI solutions are flawed, BeehiveOfAI is the real answer
-- **Structure:** Hook, Problem, False Solution (anonymization), Bad Way 1 (CrewAI), Bad Way 2 (Petals/Exo), Good Way (BeehiveOfAI), Ending
+- **Structure:** Hook → Problem → False Solution (anonymization) → Bad Way 1 (CrewAI) → Bad Way 2 (Petals/Exo) → Good Way (BeehiveOfAI) → Good for Organization (boardroom) → Good for YOU (phone call) → End Card
 - **Color system:** GREEN = good/safe, RED = bad/danger (established early, reused throughout)
+- **Scenes:** 12 total
 
 ---
 
@@ -182,13 +183,70 @@ When the timer runs out: a COMPLETE beautiful wooden cabin. Smoke curling from t
 
 ---
 
-## SCENE 10 — Ending / Call to Action (15 seconds)
+## SCENE 10 — Good for Your Organization: The Boardroom (15 seconds)
 
-*TBD — to be designed in a future session. Ideas:*
-- *The architect admires the completed cabin*
-- *Return to the businessman from Scene 1 — now picking UP the money instead of dropping it*
-- *End card with BeehiveOfAI logo and GitHub link*
-- *Tagline: "Not another multi-agent framework. Actual distributed AI."*
+**Visual:** A Lego boardroom — long table, chairs, several Lego figures seated around it. At one end sits Alice (the boss). Bob stands at the other end, presenting. Behind Bob on the wall is a chart/graph with a line going UP (savings/profits).
+
+This scene uses **3 quick cuts mid-sentence** — the same boardroom, the same people, but their costumes change with each cut to show this applies to EVERY type of organization. The Lego costume-swap is delightful — same figures, just snap different outfits on.
+
+**Cut 1 — Hospital (5 sec):**
+Everyone is in doctor/nurse outfits. The boardroom looks like a hospital conference room.
+Doctor Bob (standing, presenting): "With BeehiveOfAI, we got the full power of AI — and not one patient record left this hospital."
+
+**Cut 2 — Business (5 sec):**
+*Mid-sentence cut.* Everyone is now in business suits. The boardroom is a corporate conference room.
+Business Bob: "Our trade secrets stayed inside our walls. No leaks. No risk."
+
+**Cut 3 — Military (5 sec):**
+*Mid-sentence cut.* Everyone is now in military uniforms. The boardroom is a military briefing room.
+Officer Bob: "Every document stayed classified. Full AI capability. Zero exposure."
+
+The chart behind Bob goes UP with each cut. The people around the table nod approvingly. Alice smiles.
+
+**Purpose:** Close the loop back to Scene 3's three arrows (privacy/confidentiality, trade secrets, security/classified). Show the viewer that BeehiveOfAI solves the problem for ALL three sectors. This is the organizational payoff.
+
+---
+
+## SCENE 11 — Good for YOU Personally: The Phone Call (20 seconds)
+
+**Visual:** Split screen — Alice on the left with a phone, Bob on the right with a phone. Bob is at HOME on his couch, relaxed, in casual clothes. This is personal, warm, intimate — one-on-one, not a boardroom.
+
+This scene uses the same **3 quick cuts mid-sentence** technique, but now the stakes are personal: Bob's career, Bob's life, Bob's reward.
+
+**Cut 1 — Hospital (7 sec):**
+Alice is a Hospital Manager (lab coat, stethoscope). Bob snaps into doctor clothes as she speaks.
+Alice: "Bob, you saved us a fortune on AI costs — we're running it on our own computers nights and weekends now. I'm promoting you to Head of Department."
+Bob's Lego smile gets a little bigger.
+
+**Cut 2 — Business (7 sec):**
+*Mid-sentence cut.* Alice is now a CEO (power suit, corner office behind her). Bob snaps into a business suit.
+Alice: "Bobby, you're the reason our data stayed safe. I'm making you Senior Partner."
+Bob's smile gets even bigger.
+
+**Cut 3 — Military (6 sec):**
+*Mid-sentence cut.* Alice is now a Four-Star General (four-star insignia on shoulders, service ribbons and ribbon devices on chest, United States military). Bob snaps into a low-rank officer uniform.
+General Alice: "For your service to this country and saving our soldiers' lives... Colonel Bob, your Hawaii vacation is approved."
+Bob does a little Lego fist-pump. His smile is the biggest yet.
+
+**Purpose:** The selfish-but-honest payoff. After the technical explanation and the organizational benefits, this is the moment where the viewer thinks: "What's in it for ME?" Answer: a promotion, a bonus, recognition, a vacation. Tangible, personal, immediate. This is what makes the viewer actually go to the GitHub page.
+
+---
+
+## SCENE 12 — Thumbs Up + End Card (8 seconds)
+
+**Visual (first 3 seconds):** Bob puts the phone down. Looks directly at the camera. Gives a big Lego thumbs up. Little Lego confetti pieces fall from above.
+
+**Visual (last 5 seconds):** Clean end card on a simple background:
+
+> **BeehiveOfAI**
+>
+> github.com/strulovitz
+>
+> *"Not another multi-agent framework. Actual distributed AI."*
+
+Optional: small QR code in the corner linking to the GitHub repo.
+
+**Purpose:** The viewer now knows what BeehiveOfAI is, why it's different, why it matters for their organization, and why it matters for them personally. The GitHub link is the call to action.
 
 ---
 
@@ -210,7 +268,10 @@ When the timer runs out: a COMPLETE beautiful wooden cabin. Smoke curling from t
 - Lego snap/pop sounds for anonymization and de-anonymization scenes
 - Construction sounds (hammering, sawing) for building scenes
 - Timer ticking sound during the three attempts
-- Cheerful resolution music for the Good Way scene
+- Cheerful resolution music starts at Scene 9 (Good Way) and builds through Scenes 10-12
+- Costume-snap sound effects for the quick cuts in Scenes 10-11 (same Lego pop sound = costume change)
+- Celebratory sound (chime/fanfare) for Bob's fist-pump in Scene 12
+- Phone ring/dial tone for the split-screen phone call in Scene 11
 
 ### Fairy Tale Structure
 The three attempts (Bad 1, Bad 2, Good) follow the classic fairy tale pattern where the first two attempts fail and the third succeeds. This is psychologically satisfying — by the third attempt, the viewer is rooting for success.

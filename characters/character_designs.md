@@ -190,3 +190,66 @@ The cabin represents the viewer's project — the work their company needs to ge
 1. **Bad Way 1 result:** Just a lonely door frame standing in an empty field
 2. **Bad Way 2 result:** Scattered pieces — a window here, a door there, some planks — nothing connects
 3. **Good Way result:** Complete beautiful cabin with chimney smoke and birds
+
+---
+
+## Bob — The Viewer's Stand-In (Scenes 10-12)
+
+**Role:** Represents the viewer — the employee who introduces BeehiveOfAI into his organization and gets rewarded for it. Appears in both the boardroom scene and the phone call scene.
+
+**Bob has 4 costume variants (same Lego face, different snap-on outfits):**
+
+1. **Casual Bob (at home):** T-shirt printed torso, jeans legs, messy hair piece. Relaxed, on the couch. This is his "real self" before the costume cuts begin.
+
+2. **Doctor Bob:** White lab coat printed torso, stethoscope, neat hair piece. Standing and presenting in a hospital boardroom.
+
+3. **Business Bob:** Dark suit and tie printed torso, slicked-back hair piece, briefcase nearby. Presenting in a corporate boardroom.
+
+4. **Officer Bob:** Military uniform printed torso (low rank initially), military cap. Presenting in a military briefing room. In Scene 11 Cut 3, he gets promoted to Colonel — his insignia visually upgrades.
+
+**AI prompt keywords:** Lego minifigure, [doctor/businessman/military officer], presenting, confident expression, 3D rendered Lego style
+
+---
+
+## Alice — The Boss (Scenes 10-11)
+
+**Role:** The authority figure who recognizes Bob's contribution. Sits at the head of the boardroom table (Scene 10) and calls Bob on the phone (Scene 11).
+
+**Alice has 3 costume variants (same Lego face, different snap-on outfits):**
+
+1. **Hospital Manager Alice:** White lab coat, stethoscope, professional hair piece (bun or short), clipboard. Seated at head of hospital conference table.
+
+2. **CEO Alice:** Power suit printed torso (dark blazer), styled hair piece, corner office visible behind her in phone scene. Confident, authoritative.
+
+3. **General Alice:** US military dress uniform, four-star insignia on shoulders, service ribbons and ribbon devices on chest, military cap or styled hair. The most imposing version — commands respect.
+
+**AI prompt keywords:** Lego minifigure, female, [hospital manager/CEO/four-star general], authoritative expression, 3D rendered Lego style
+
+---
+
+## The Boardroom (Scene 10)
+
+**Lego Design:**
+- Long rectangular Lego table with chairs around it
+- 4-6 seated Lego figures (the team) + Alice at the head + Bob standing at the other end
+- Wall behind Bob has a chart/graph with a line going UP
+- The room itself changes with the 3 cuts:
+  - Cut 1: Hospital conference room (white/blue walls, medical posters)
+  - Cut 2: Corporate boardroom (dark wood, city skyline through window)
+  - Cut 3: Military briefing room (maps on walls, flags, dark green/grey tones)
+
+---
+
+## The Phone Call Split Screen (Scene 11)
+
+**Visual layout:**
+- Screen divided in half vertically
+- LEFT side: Alice (the boss) — in her office/setting appropriate to the cut
+- RIGHT side: Bob — starts at home on couch, then costume-snaps with each cut
+- The split-screen format itself is the visual — no need for a physical phone prop to be prominent
+
+---
+
+## Lego Confetti (Scene 12)
+
+Small colorful Lego brick pieces (1x1 and 1x2 studs) in bright primary colors (red, blue, yellow, green) falling from above like confetti when Bob does his fist-pump/thumbs-up. Celebratory, fun, very Lego.
