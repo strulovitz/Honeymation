@@ -10,6 +10,8 @@ This repository contains all the creative assets for producing animated explaine
 
 All videos are made in **Lego animation style** — everything is built from Lego: characters, buildings, props, environments. Inspired by the Lego Movie franchise (Lego Star Wars, Lego Batman, etc.). All characters are Lego minifigures. All scenes are 3D-rendered Lego worlds. Generated using AI video tools (Kling, Seedance, Sora, Wan, LTX, Hailuo) via OpenArt AI.
 
+**Main tool:** [OpenArt AI — Lego Generator](https://openart.ai/generator/lego)
+
 ## Contents
 
 - `scripts/` — Video scripts and storyboards
