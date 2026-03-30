@@ -93,7 +93,7 @@
 **Clip:** `scene07_bad_way1_crewai/take01_head_transfer_foreman_worker.mp4`
 
 **Narration:**
-> "First attempt: multi-agent frameworks like CrewAI. They put all their workers on one computer with one brain."
+> "Bad way number one. CrewAI, Swarms, LangGraph. All their agents are stuck on one computer. Only one agent can think at a time."
 
 ---
 
@@ -101,7 +101,7 @@
 **Clip:** `scene07_bad_way1_crewai/take01_head_transfer_architect_sawworker.mp4`
 
 **Narration:**
-> "They take turns thinking. One works, the rest wait. It's painfully slow."
+> "The rest just wait in line. One brain, one computer. Slow. This doesn't work."
 
 ---
 
@@ -109,7 +109,7 @@
 **Clip:** `scene08_bad_way2_petals/take01_helmet_swap_foreman_worker.mp4`
 
 **Narration:**
-> "Second attempt: model splitting — Petals, Exo. They spread the AI across machines."
+> "Bad way number two. Petals, Exo. They split one AI brain across multiple computers. Each computer holds one piece."
 
 ---
 
@@ -117,7 +117,7 @@
 **Clip:** `scene08_bad_way2_petals/take01_helmet_swap_architect_sawworker.mp4`
 
 **Narration:**
-> "But each machine does a tiny piece and waits for the next. Still slow. Still broken."
+> "But each piece depends on the one before it. So every computer waits for the previous one to finish. Still slow. This doesn't work either."
 
 ---
 
