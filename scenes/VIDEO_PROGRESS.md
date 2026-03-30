@@ -34,7 +34,7 @@
 | 6 | Lightbulb idea | `scene06_lightbulb/take01_architect_idea.mp4` | DONE |
 | 7a | Bad Way 1 part 1 (CrewAI) | `scene07_bad_way1_crewai/take01_head_transfer_foreman_worker.mp4` | DONE |
 | 7b | Bad Way 1 part 2 (CrewAI) | `scene07_bad_way1_crewai/take01_head_transfer_architect_sawworker.mp4` | DONE |
-| 8a | Bad Way 2 part 1 (Petals/Exo) | - | TODO |
+| 8a | Bad Way 2 part 1 (Petals/Exo) | `scene08_bad_way2_petals/take01_helmet_swap_foreman_worker.mp4` | DONE |
 | 8b | Bad Way 2 part 2 (Petals/Exo) | - | TODO |
 | 9 | Good Way (BeehiveOfAI) | - | TODO |
 | 10 | Boardroom | - | TODO |
