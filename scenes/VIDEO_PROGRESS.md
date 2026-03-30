@@ -42,7 +42,7 @@
 | 10c | Boardroom — Military | `scene10_boardroom/take01_military_bob_alice.mp4` | DONE |
 | 11a | Phone call — Hospital | `scene11_phone_call/take01_hospital_alice_bob.mp4` | DONE |
 | 11b | Phone call — Business | `scene11_phone_call/take01_business_alice_bob.mp4` | DONE |
-| 11c | Phone call — Military | - | TODO |
+| 11c | Phone call — Military | `scene11_phone_call/take01_military_alice_bob.mp4` | DONE |
 | 12 | Thumbs up + end card | - | TODO |
 
 ## Before Scenes 7-9: New Reference Images Needed
