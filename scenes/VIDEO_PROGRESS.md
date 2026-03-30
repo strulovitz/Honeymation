@@ -40,12 +40,36 @@
 
 ## Before Scenes 7-9: New Reference Images Needed
 
-The fairy tale trio (Bad Way 1, Bad Way 2, Good Way) requires helmet color variants that don't exist yet:
+The fairy tale trio (Bad Way 1, Bad Way 2, Good Way) requires helmet/head variants for ALL 5 crew members — not just workers. In competitor systems (CrewAI, Petals/Exo), the planning and coordination layers also block and wait, not just the execution layer. So the architect and foreman must also be shown headless (Scene 7) or with red helmets (Scene 8).
 
-- [ ] Workers with **GREEN helmets** (current images only have yellow)
-- [ ] Workers with **RED helmets** (for Bad Way 2 — idle workers)
-- [ ] Workers **WITHOUT heads** (empty neck pegs — for Bad Way 1)
-- [ ] Foreman with green helmet variant
+### Full Reference Image Checklist (15 images: 5 characters × 3 variants)
+
+**GREEN helmet (for Scene 9 — BeehiveOfAI, the Good Way):**
+| # | Character | Omni Reference (upload this) | Status |
+|---|-----------|------------------------------|--------|
+| 1 | Worker 1 (hammer) | `characters/images/03_worker1_hammer.jpg` | TODO |
+| 2 | Worker 2 (saw) | `characters/images/04_worker2_saw.jpg` | TODO |
+| 3 | Worker 3 (axe) | `characters/images/05_worker3_axe.jpg` | TODO |
+| 4 | Foreman | `characters/images/02_foreman.jpg` | TODO |
+| 5 | Architect | `characters/images/01_architect.jpg` | TODO |
+
+**RED helmet (for Scene 8 — Petals/Exo, Bad Way 2 — idle/waiting):**
+| # | Character | Omni Reference (upload this) | Status |
+|---|-----------|------------------------------|--------|
+| 6 | Worker 1 (hammer) | `characters/images/03_worker1_hammer.jpg` | TODO |
+| 7 | Worker 2 (saw) | `characters/images/04_worker2_saw.jpg` | TODO |
+| 8 | Worker 3 (axe) | `characters/images/05_worker3_axe.jpg` | TODO |
+| 9 | Foreman | `characters/images/02_foreman.jpg` | TODO |
+| 10 | Architect | `characters/images/01_architect.jpg` | TODO |
+
+**NO HEAD — empty neck peg (for Scene 7 — CrewAI, Bad Way 1 — waiting for the shared brain):**
+| # | Character | Omni Reference (upload this) | Status |
+|---|-----------|------------------------------|--------|
+| 11 | Worker 1 (hammer) | `characters/images/03_worker1_hammer.jpg` | TODO |
+| 12 | Worker 2 (saw) | `characters/images/04_worker2_saw.jpg` | TODO |
+| 13 | Worker 3 (axe) | `characters/images/05_worker3_axe.jpg` | TODO |
+| 14 | Foreman | `characters/images/02_foreman.jpg` | TODO |
+| 15 | Architect | `characters/images/01_architect.jpg` | TODO |
 
 Generate these as reference images first (use Image mode, not Video), then use them as elements for the video clips.
 
