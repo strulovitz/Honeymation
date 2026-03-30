@@ -33,7 +33,7 @@
 | 5b | Doctor shocked | `scene05_deanonymization/take01_doctor_shocked.mp4` | DONE |
 | 6 | Lightbulb idea | `scene06_lightbulb/take01_architect_idea.mp4` | DONE |
 | 7a | Bad Way 1 part 1 (CrewAI) | `scene07_bad_way1_crewai/take01_head_transfer_foreman_worker.mp4` | DONE |
-| 7b | Bad Way 1 part 2 (CrewAI) | - | TODO |
+| 7b | Bad Way 1 part 2 (CrewAI) | `scene07_bad_way1_crewai/take01_head_transfer_architect_sawworker.mp4` | DONE |
 | 8a | Bad Way 2 part 1 (Petals/Exo) | - | TODO |
 | 8b | Bad Way 2 part 2 (Petals/Exo) | - | TODO |
 | 9 | Good Way (BeehiveOfAI) | - | TODO |
@@ -109,6 +109,8 @@ Generate all reference images first (use Image mode, not Video), then use them a
 6. **No timing words** — Don't say "after a few seconds" or "slowly." Just describe what happens in sequence.
 
 7. **Keep prompts SHORT** — Fewer words = less confusion. Every extra sentence is a chance for Kling to misinterpret. The successful Scene 7 Part 1 prompt was only 6 sentences.
+8. **Background/setting description goes LAST** — Put it at the end of the prompt so Kling prioritizes the character action over the scenery.
+9. **No clothing descriptions** — Kling understands who is who from the reference images. Don't waste prompt words on "suit and safety vest" or "blue overalls."
 
 ### Scene 7 Prompt That Worked (for reference)
 ```
