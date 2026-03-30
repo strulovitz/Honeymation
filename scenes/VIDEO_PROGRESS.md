@@ -41,7 +41,7 @@
 | 10b | Boardroom — Business | `scene10_boardroom/take01_business_bob_alice.mp4` | DONE |
 | 10c | Boardroom — Military | `scene10_boardroom/take01_military_bob_alice.mp4` | DONE |
 | 11a | Phone call — Hospital | `scene11_phone_call/take01_hospital_alice_bob.mp4` | DONE |
-| 11b | Phone call — Business | - | TODO |
+| 11b | Phone call — Business | `scene11_phone_call/take01_business_alice_bob.mp4` | DONE |
 | 11c | Phone call — Military | - | TODO |
 | 12 | Thumbs up + end card | - | TODO |
 
