@@ -74,7 +74,7 @@ The fairy tale trio (Bad Way 1, Bad Way 2, Good Way) requires helmet/head varian
 **STANDALONE HEAD with green helmet (for Scene 7 — the "brain" that gets passed between figures):**
 | # | Character | Omni Reference (upload this) | Status |
 |---|-----------|------------------------------|--------|
-| 16 | Standalone head + green helmet | `characters/images/33_worker1_hammer_green.jpg` | TODO |
+| 16 | Standalone head + green helmet | `characters/images/33_worker1_hammer_green.jpg` | DONE → `48_standalone_head_green.jpg` |
 
 This is the "ball" that headless figures pass to each other in Scene 7 (CrewAI). Just a Lego head with green helmet, no body — shows the hollow socket underneath where it snaps onto a neck peg.
 
