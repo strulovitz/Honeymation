@@ -66,12 +66,19 @@ The fairy tale trio (Bad Way 1, Bad Way 2, Good Way) requires helmet/head varian
 | # | Character | Omni Reference (upload this) | Status |
 |---|-----------|------------------------------|--------|
 | 11 | Worker 1 (hammer) | `characters/images/03_worker1_hammer.jpg` | DONE → `43_worker1_hammer_headless.jpg` |
-| 12 | Worker 2 (saw) | `characters/images/04_worker2_saw.jpg` | TODO |
+| 12 | Worker 2 (saw) | `characters/images/04_worker2_saw.jpg` | DONE → `44_worker2_saw_headless.jpg` |
 | 13 | Worker 3 (axe) | `characters/images/05_worker3_axe.jpg` | TODO |
 | 14 | Foreman | `characters/images/02_foreman.jpg` | TODO |
 | 15 | Architect | `characters/images/01_architect.jpg` | TODO |
 
-Generate these as reference images first (use Image mode, not Video), then use them as elements for the video clips.
+**STANDALONE HEAD with green helmet (for Scene 7 — the "brain" that gets passed between figures):**
+| # | Character | Omni Reference (upload this) | Status |
+|---|-----------|------------------------------|--------|
+| 16 | Standalone head + green helmet | `characters/images/33_worker1_hammer_green.jpg` | TODO |
+
+This is the "ball" that headless figures pass to each other in Scene 7 (CrewAI). Just a Lego head with green helmet, no body — shows the hollow socket underneath where it snaps onto a neck peg.
+
+Generate all reference images first (use Image mode, not Video), then use them as elements for the video clips.
 
 ## Lessons Learned
 - Use **symbols not text** — AI can't render text. Use padlock/vault/shield icons instead of words
