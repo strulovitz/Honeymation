@@ -48,7 +48,7 @@ The fairy tale trio (Bad Way 1, Bad Way 2, Good Way) requires helmet/head varian
 | # | Character | Omni Reference (upload this) | Status |
 |---|-----------|------------------------------|--------|
 | 1 | Worker 1 (hammer) | `characters/images/03_worker1_hammer.jpg` | DONE → `33_worker1_hammer_green.jpg` |
-| 2 | Worker 2 (saw) | `characters/images/04_worker2_saw.jpg` | TODO |
+| 2 | Worker 2 (saw) | `characters/images/04_worker2_saw.jpg` | DONE → `34_worker2_saw_green.jpg` |
 | 3 | Worker 3 (axe) | `characters/images/05_worker3_axe.jpg` | TODO |
 | 4 | Foreman | `characters/images/02_foreman.jpg` | TODO |
 | 5 | Architect | `characters/images/01_architect.jpg` | TODO |
