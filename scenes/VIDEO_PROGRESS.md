@@ -36,7 +36,7 @@
 | 7b | Bad Way 1 part 2 (CrewAI) | `scene07_bad_way1_crewai/take01_head_transfer_architect_sawworker.mp4` | DONE |
 | 8a | Bad Way 2 part 1 (Petals/Exo) | `scene08_bad_way2_petals/take01_helmet_swap_foreman_worker.mp4` | DONE |
 | 8b | Bad Way 2 part 2 (Petals/Exo) | `scene08_bad_way2_petals/take01_helmet_swap_architect_sawworker.mp4` | DONE |
-| 9 | Good Way (BeehiveOfAI) | - | TODO |
+| 9 | Good Way (BeehiveOfAI) | `scene09_good_way_beehive/take01_all_green_working.mp4` | DONE (10s) |
 | 10 | Boardroom | - | TODO |
 | 11 | Phone call | - | TODO |
 | 12 | Thumbs up + end card | - | TODO |
