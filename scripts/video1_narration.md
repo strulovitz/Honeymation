@@ -124,10 +124,12 @@
 ## SCENE 9 — The Good Way: BeehiveOfAI (10s)
 **Clip:** `scene09_good_way_beehive/take01_all_green_working.mp4`
 
-**Narration:**
-> "BeehiveOfAI does it differently. Every machine gets its own brain. They all work at the same time, on their own piece of the project. Nobody waits. Nobody is idle. The project gets done."
+**Narration (⚠️ DRAFT — NOT YET APPROVED BY NIR, review next session):**
+> "BeehiveOfAI. The right way. Every computer gets its own complete AI brain. They all work at the same time, each on its own piece of the project. Nobody waits. Nobody depends on anyone else. The project gets done."
 
 ---
+
+## ⚠️ EVERYTHING BELOW IS FIRST DRAFT — NOT YET REVIEWED WITH NIR
 
 ## SCENE 10a — Boardroom: Hospital (5s)
 **Clip:** `scene10_boardroom/take01_hospital_bob_alice.mp4`
