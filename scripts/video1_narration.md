@@ -44,7 +44,7 @@
 **Clip:** `scene04_anonymization/take01_patients_before.mp4`
 
 **Narration:**
-> "So companies strip the names off the data. They call it anonymization."
+> "So companies strip the names off the data and send it anyway. They think it's safe."
 
 ---
 
@@ -52,7 +52,7 @@
 **Clip:** `scene04_anonymization/take01_blank_patients_conveyor.mp4`
 
 **Narration:**
-> "Now the data looks safe. Nobody can tell who is who. Right?"
+> "It's not. This is the first problem we solved. Stay with me."
 
 ---
 
@@ -60,7 +60,7 @@
 **Clip:** `scene05_deanonymization/take01_attacker_snaps_identities.mp4`
 
 **Narration:**
-> "Wrong. With just a zip code, a gender, and a birth date — eighty-seven percent of people can be identified."
+> "Eighty-seven percent of people can be re-identified from just a zip code, a gender, and a birth date. Anonymization is broken."
 
 ---
 
@@ -68,7 +68,7 @@
 **Clip:** `scene05_deanonymization/take01_doctor_shocked.mp4`
 
 **Narration:**
-> "Anonymization is an illusion. If you can take Lego apart, someone can put it back together."
+> "Your other details — age, location, diagnosis — are enough to identify you. Big data connects the dots. But we sidestep this problem completely."
 
 ---
 
