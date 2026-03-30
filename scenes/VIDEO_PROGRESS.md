@@ -69,7 +69,7 @@ The fairy tale trio (Bad Way 1, Bad Way 2, Good Way) requires helmet/head varian
 | 12 | Worker 2 (saw) | `characters/images/04_worker2_saw.jpg` | DONE → `44_worker2_saw_headless.jpg` |
 | 13 | Worker 3 (axe) | `characters/images/05_worker3_axe.jpg` | DONE → `45_worker3_axe_headless.jpg` |
 | 14 | Foreman | `characters/images/02_foreman.jpg` | DONE → `46_foreman_headless.jpg` |
-| 15 | Architect | `characters/images/01_architect.jpg` | TODO |
+| 15 | Architect | `characters/images/01_architect.jpg` | DONE → `47_architect_headless.jpg` |
 
 **STANDALONE HEAD with green helmet (for Scene 7 — the "brain" that gets passed between figures):**
 | # | Character | Omni Reference (upload this) | Status |
