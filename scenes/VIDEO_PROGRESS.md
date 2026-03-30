@@ -2,13 +2,14 @@
 
 ## Settings
 
-### Video Clips
-- **Tool:** https://openart.ai/generator/lego → Video → Elements to Video
-- **Model:** Kling 3.0 Omni
-- **Aspect:** 16:9
-- **Quality:** Pro (1080p)
-- **Duration:** 5 seconds per clip
+### Video Clips (remind Nir of these settings the FIRST time we switch to Video each session)
+- **Tool:** https://openart.ai/generator/lego → switch to **Video** → select **Elements to Video**
+- **Select Model:** Kling 3.0 Omni
+- **Aspect Ratio:** Cinema 16:9 (for YouTube)
+- **Quality Mode:** Pro (1080p)
 - **Audio:** Off
+- **Duration:** 5s
+- **IMPORTANT:** Upload character images as **reference images** (NOT "start frame"!) — this tells the AI what the characters look like, not what the first frame should be
 
 ### Reference Images
 - **Tool:** https://openart.ai/generator/lego → Image
