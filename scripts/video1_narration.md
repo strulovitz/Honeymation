@@ -6,6 +6,15 @@
 - **Style:** Conversational, clear, punchy. Short sentences. Every word matters.
 - **Voice:** Confident, warm, slightly urgent in the problem sections, triumphant in the solution sections.
 
+## Narration Philosophy (MUST follow for all narration)
+1. **Be BLUNT** — every problem must be stated as "this doesn't work" or "this is broken." No subtlety, no hints, no rhetorical questions.
+2. **Promise the cure early** — viewer must always know a solution IS coming. Say "we solved this" or "stay with me" before they click away.
+3. **Name and dismiss competitors** — "CrewAI's approach doesn't work." Not a news broadcast about unsolvable problems — this is the CURE.
+4. **No jargon** — "distributed" becomes "combine your office computers." "Parallel" becomes "all at the same time." Hide the technical truth inside friendly words.
+5. **"First problem we solved"** — signal that there are MULTIPLE problems and we solve ALL of them.
+6. **Assume the viewer is an impatient idiot** — they think they're smart, they jump to wrong conclusions, they'll leave if they think "old news, no solution."
+7. **This is NOT a documentary** — this is a sales pitch for a revolutionary invention. Every sentence must either describe a problem OR promise/deliver a solution.
+
 ---
 
 ## SCENE 1 — The Hook (5s)
@@ -76,7 +85,7 @@
 **Clip:** `scene06_lightbulb/take01_architect_idea.mp4`
 
 **Narration:**
-> "So what if we run AI inside our own building instead? No data ever leaves. But how?"
+> "We invented a new way to combine all your office computers into one powerful AI. Your data never leaves the building. Sounds complicated? It's not. Let me show you."
 
 ---
 
