@@ -39,7 +39,7 @@
 | 9 | Good Way (BeehiveOfAI) | `scene09_good_way_beehive/take01_all_green_working.mp4` | DONE (10s) |
 | 10a | Boardroom — Hospital | `scene10_boardroom/take01_hospital_bob_alice.mp4` | DONE |
 | 10b | Boardroom — Business | `scene10_boardroom/take01_business_bob_alice.mp4` | DONE |
-| 10c | Boardroom — Military | - | TODO |
+| 10c | Boardroom — Military | `scene10_boardroom/take01_military_bob_alice.mp4` | DONE |
 | 11 | Phone call | - | TODO |
 | 12 | Thumbs up + end card | - | TODO |
 
