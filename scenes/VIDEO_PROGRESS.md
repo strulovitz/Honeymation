@@ -1,12 +1,22 @@
 # Video 1 — Clip Generation Progress
 
 ## Settings
+
+### Video Clips
 - **Tool:** https://openart.ai/generator/lego → Video → Elements to Video
 - **Model:** Kling 3.0 Omni
 - **Aspect:** 16:9
 - **Quality:** Pro (1080p)
 - **Duration:** 5 seconds per clip
 - **Audio:** Off
+
+### Reference Images
+- **Tool:** https://openart.ai/generator/lego → Image
+- **Model:** ChatGPT Image 1.5
+- **Proportions:** 1:1 (1024x1024)
+- **Quality:** Medium
+- **Number of images:** 4
+- **Omni Reference:** ALWAYS upload the closest existing reference image so new variants stay visually consistent with what we already have
 
 ## Completed Clips
 
