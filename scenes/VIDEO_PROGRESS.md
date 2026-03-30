@@ -60,7 +60,7 @@ The fairy tale trio (Bad Way 1, Bad Way 2, Good Way) requires helmet/head varian
 | 7 | Worker 2 (saw) | `characters/images/04_worker2_saw.jpg` | DONE → `39_worker2_saw_red.jpg` |
 | 8 | Worker 3 (axe) | `characters/images/05_worker3_axe.jpg` | DONE → `40_worker3_axe_red.jpg` |
 | 9 | Foreman | `characters/images/02_foreman.jpg` | DONE → `41_foreman_red.jpg` |
-| 10 | Architect | `characters/images/01_architect.jpg` | TODO |
+| 10 | Architect | `characters/images/01_architect.jpg` | DONE → `42_architect_red.jpg` |
 
 **NO HEAD — empty neck peg (for Scene 7 — CrewAI, Bad Way 1 — waiting for the shared brain):**
 | # | Character | Omni Reference (upload this) | Status |
