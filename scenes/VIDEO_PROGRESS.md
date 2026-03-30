@@ -43,7 +43,7 @@
 | 11a | Phone call — Hospital | `scene11_phone_call/take01_hospital_alice_bob.mp4` | DONE |
 | 11b | Phone call — Business | `scene11_phone_call/take01_business_alice_bob.mp4` | DONE |
 | 11c | Phone call — Military | `scene11_phone_call/take01_military_alice_bob.mp4` | DONE |
-| 12 | Thumbs up + end card | - | TODO |
+| 12 | Thumbs up + confetti | `scene12_end_card/take01_thumbs_up_confetti.mp4` | DONE |
 
 ## Before Scenes 7-9: New Reference Images Needed
 
