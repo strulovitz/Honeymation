@@ -122,9 +122,9 @@
 
 ---
 
-## SCENE 7 — The Money Flow: 65/30/5 (5-10s) — NEEDS UPDATE
+## SCENE 7 — The Money Flow: 65/30/5 (5-10s) — APPROVED
 
-**Visual:** A big pie chart or coin splitting animation. A gold coin drops in from the top (customer payment). It splits: big chunk (65%) slides to a group of small computers, medium chunk (30%) slides to one powerful computer, tiny sliver (5%) slides to a website icon. Then comparison bars: Uber 25%, Apple 30%, "Us" 5% — ours is visually tiny.
+**Visual:** A pizza on a table. Three groups of Pixar-style playing cards sitting around it eating. On the right: three Jack cards happily eating a big pile of pizza slices (~10 slices = 65%, the workers). In the center: one Queen card eating three slices (30%, the manager). On the left: one King card eating just one tiny slice — and looking happy about it (5%, the platform). Uber 25% / Apple 30% / Us 5% comparison added as Premiere overlay.
 
 **Narration:**
 > "When a customer pays for a job — 65% goes to the workers. That's you. 30% goes to the manager who split and combined the work. And the platform — the website that connects everyone? Only 5%. For comparison, Uber takes 25%. Apple takes 30%. The platform takes 5."
