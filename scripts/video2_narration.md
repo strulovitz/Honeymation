@@ -58,10 +58,10 @@
 
 ---
 
-## SCENE 4 — The Three Roles: Worker Bee (5-10s)
+## SCENE 4 — It's Legal + Where The Money Comes From (5-10s) — APPROVED
 
 **Narration:**
-> *(TBD — you're a worker bee, install software, click start, go to sleep, wake up with money)*
+> "But unlike torrents, this is completely legal. Here's why: companies need AI to get work done. Big cloud AI is expensive. Your computer, combined with thousands of others, creates a cheap alternative. Companies are happy to pay for it. That money goes to you."
 
 ---
 
