@@ -151,7 +151,9 @@
 
 ## SCENE 10a — Meet Sofia: The Customer (5-10s) — DRAFT
 
-**Visual:** Sofia at her messy desk, coffee cups everywhere, phone ringing, looking stressed. She opens a website on her screen, types "Analyze 200 customer reviews," sets a budget, clicks SUBMIT. She leans back — it's out of her hands now.
+**Visual:** Sofia (cute Pixar woman, late 30s, professional but tired) at a messy desk covered in coffee cups and stacked papers. She looks relieved — she just clicked submit. Above her head hovers ONE big yellow paper page with a big **?** written on it (= her job/question has been submitted). The stress is leaving her face.
+
+**Yellow paper tracker:** BIG ? above Sofia = job submitted, waiting for answer.
 
 **Narration:**
 > "Sofia runs a small marketing agency. A client needs two hundred customer reviews analyzed by Friday. She can't afford enterprise AI, and she doesn't have time to read them herself. She goes to a marketplace, submits the job, sets her budget, and clicks submit."
@@ -160,7 +162,9 @@
 
 ## SCENE 10b — Meet Jade: The Worker (5-10s) — DRAFT
 
-**Visual:** Jade's dorm room at night. She's in bed, sleeping peacefully, headphones on pillow. Her gaming laptop on the desk glows softly — a small progress bar moving, a task counter ticking up: "Task #47... processing... complete." Coins gently stacking up next to the laptop.
+**Visual:** Jade (cute Pixar woman, early 20s, casual) sleeping peacefully in her dorm room bed, headphones on pillow. Her gaming laptop on the desk glows softly. Above the laptop hover THREE small yellow pages with small **!** marks (= the split tasks have been answered). Coins gently stacking up next to the laptop.
+
+**Yellow paper tracker:** Small !!! above laptop = worker has answered her tasks.
 
 **Narration:**
 > "Jade is a college student. She installed the software on her gaming laptop last week — seventeen minutes. Tonight, while she sleeps, her laptop picks up task number forty-seven from Sofia's job and gets to work. Jade doesn't even know."
@@ -169,7 +173,11 @@
 
 ## SCENE 10c — Meet Marcus: The Manager (5-10s) — DRAFT
 
-**Visual:** Marcus in his home lab, RGB lights, multiple monitors showing dashboards. One screen shows "New job: 200 reviews" — it automatically splits into 200 small pieces. Pieces fly out to laptops all over a world map (including Jade's). Results fly back in. Marcus's computer combines them into one clean report.
+**Visual:** Marcus (cute Pixar guy, late 20s, glasses, hoodie, confident cool nerd) in his home lab with RGB lights and multiple monitors. Above his head hover THREE small yellow pages with small **?** marks (= he has split the big job into small tasks and is sending them out). He looks calm and in control.
+
+**Yellow paper tracker:** Small ??? above Marcus = job has been split into tasks, being distributed.
+
+**NOTE:** We need TWO Marcus scenes — one for splitting (small ???) and one for combining (big !). Or we can show the split in the intro and the combine in the Result scene.
 
 **Narration:**
 > "Marcus is a systems admin by day. By night, he runs a hive from his home lab. His computer received Sofia's job, split it into two hundred small tasks, sent them to laptops like Jade's all over the world, and combined all the results into one polished report."
@@ -178,7 +186,7 @@
 
 ## SCENE 10d — Meet Alex: The Platform (5-10s) — DRAFT
 
-**Visual:** Alex leaning back in his chair, laptop open, clean modern desk. His screen shows a live dashboard: transactions flowing, users connecting, a world map with activity dots. He's watching his marketplace run itself. A counter showing "Jobs this week: 2,847." He smiles.
+**Visual:** Alex (cute Pixar guy, entrepreneur type, clean desk, laptop, leaning back confidently). His screen shows a live dashboard. He's watching his marketplace run itself, smiling. No yellow papers above Alex — he doesn't touch the work. He just connects everyone. The marketplace runs through him but the work flows past him.
 
 **Narration:**
 > "And that website where Sofia submitted her job? Alex built it. He downloaded the free open-source code, set it up on his own domain, and opened a marketplace. Every transaction that flows through his platform, he earns 5%. The marketplace runs itself."
@@ -187,7 +195,9 @@
 
 ## SCENE 10e — The Result (5-10s) — DRAFT
 
-**Visual:** Split screen showing all four characters simultaneously. Sofia downloading a polished report and smiling. Jade waking up and checking her phone — "You earned $X overnight." Marcus seeing his dashboard — "Job complete. Earnings: $XX." Alex's weekly counter going up. All four are happy. Money flowing through the system.
+**Visual:** Sofia back at her desk, now smiling and relaxed. Above her head hovers ONE big yellow page with a big **!** (= her answer has arrived, job complete). She's looking at her screen, happy with the result.
+
+**Yellow paper tracker:** BIG ! above Sofia = full circle. The ? became a !. Job done.
 
 **Narration:**
 > "By morning: Sofia has her report. Jade earned money in her sleep. Marcus earned thirty percent for managing the job. Alex earned five percent for running the marketplace. Everyone wins."
