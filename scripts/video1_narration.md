@@ -121,11 +121,19 @@
 
 ---
 
-## SCENE 9 — The Good Way: BeehiveOfAI (10s)
+## SCENE 9a — The Good Way Part 1: Paint the Picture (10s)
 **Clip:** `scene09_good_way_beehive/take01_all_green_working.mp4`
 
-**Narration (⚠️ DRAFT — NOT YET APPROVED BY NIR, review next session):**
-> "BeehiveOfAI. The right way. Every computer gets its own complete AI brain. They all work at the same time, each on its own piece of the project. Nobody waits. Nobody depends on anyone else. The project gets done."
+**Narration:**
+> "BeehiveOfAI. The right way. Now imagine: before work begins, every worker gets the complete plan. Every worker has his own brain. The whistle blows, and they ALL start working at the same time. Nobody stops. Nobody walks anywhere. Nobody waits for anyone."
+
+---
+
+## SCENE 9b — The Good Way Part 2: What It Means (5s)
+**Clip:** `scene09_good_way_beehive/take02_all_green_working_5s.mp4`
+
+**Narration:**
+> "Every computer gets its own complete AI and its own piece of the project, planned in advance. They all think in parallel. The project gets done in a fraction of the time."
 
 ---
 
@@ -209,16 +217,17 @@
 | 7b | 5s | 0:55 |
 | 8a | 5s | 1:00 |
 | 8b | 5s | 1:05 |
-| 9 | 10s | 1:15 |
-| 10a | 5s | 1:20 |
-| 10b | 5s | 1:25 |
-| 10c | 5s | 1:30 |
-| 11a | 5s | 1:35 |
-| 11b | 5s | 1:40 |
-| 11c | 5s | 1:45 |
-| 12 | 8s | 1:53 |
+| 9a | 10s | 1:15 |
+| 9b | 5s | 1:20 |
+| 10a | 5s | 1:25 |
+| 10b | 5s | 1:30 |
+| 10c | 5s | 1:35 |
+| 11a | 5s | 1:40 |
+| 11b | 5s | 1:45 |
+| 11c | 5s | 1:50 |
+| 12 | 8s | 1:58 |
 
-**Estimated total: ~1 min 53 seconds**
+**Estimated total: ~1 min 58 seconds** (plus stretching for BAD WAY and GOOD WAY scenes)
 
 This is shorter than the original 2:43 target. We can extend by:
 - Adding 1-2 second transitions/pauses between scenes
