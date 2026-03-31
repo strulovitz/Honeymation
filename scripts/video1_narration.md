@@ -189,12 +189,12 @@
 **Clip:** `scene12_end_card/take01_thumbs_up_confetti.mp4`
 
 **Narration (first 3 seconds):**
-> "BeehiveOfAI. Not another multi-agent framework. Actual distributed AI."
+> "BeehiveOfAI. Not another multi-agent framework. Actual parallel distributed AI."
 
 **End card (last 5 seconds, text overlay, no narration):**
 > **BeehiveOfAI**
 > github.com/strulovitz
-> *"Not another multi-agent framework. Actual distributed AI."*
+> *"Not another multi-agent framework. Actual parallel distributed AI."*
 
 ---
 
