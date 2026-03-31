@@ -88,7 +88,7 @@
 
 ## SCENE 5b — Chess Part 2: The Helpers (10s) — APPROVED
 
-**Visual:** Same chess player, but now six helpers appear. Each gets handed a card: "PAWNS," "KNIGHTS," "BISHOPS," etc. They each walk to a separate small room/booth. All six rooms light up simultaneously — everyone thinking at the same time.
+**Visual:** Six cute Pixar characters sitting in separate small rooms/booths side by side. Each one has ONE chess piece hovering still above their head (like a lightbulb) — focused, calm. The original chess player is visible in the center, relaxed, no more spinning pieces above his head. Everyone working at the same time. Just the final state — no walking or handing out needed.
 
 **Narration:**
 > "Now imagine you have six helpers. You give each one a piece type. You take pawns, you take knights, you take bishops. Each helper goes to a separate room. They all think at the same time. Together, they explore far more possibilities than you ever could alone."
