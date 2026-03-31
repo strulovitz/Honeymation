@@ -43,7 +43,7 @@
 
 ## SCENE 3 — It's Legal + Where The Money Comes From (5-10s) — APPROVED
 
-**Visual:** Left side of screen: one big strong Pixar-style monitor with a face and big arms, lifting one big dumbbell weight alone (= expensive cloud AI doing the job). Right side: three small monitors with faces and small arms, together lifting the same big dumbbell weight above their heads (= many small computers doing the same job together, cheaper). They're equal in strength. Then coins are tossed to the small monitors — they look happy. A green "LEGAL" stamp appears.
+**Visual:** Left side: one big strong Pixar-style monitor with face and big arms, lifting a big dumbbell (= expensive cloud AI). Right side: three small monitors with faces and small arms, together lifting the same big dumbbell above their heads (= cheaper alternative). In the middle: a Pixar businessman facing the small monitors with his back turned to the big monitor, tossing money/coins to the happy small monitors. The big monitor is sad — he got rejected because he's too expensive. Green "LEGAL" stamp appears.
 
 **Narration:**
 > "But unlike torrents, this is completely legal. Here's why: companies need AI to get work done. Big cloud AI is expensive. Your computer, combined with thousands of others, creates a cheap alternative. Companies are happy to pay for it. That money goes to you."
