@@ -106,7 +106,7 @@
 
 ## SCENE 5d — Chess Part 4: Real Business Problems (10s) — APPROVED
 
-**Visual:** The chess board transforms into a business desk. The six rooms become fifty computer screens, each showing different work: one writes formal text, one writes playful text, one writes technical text. All working simultaneously. A counter showing "10... 100... 1000 computers" scaling up.
+**Visual:** A Pixar businessman standing in the center, taller than the monitors around him. Two cute monitors on each side (4 total). He places/throws one page of paper on top of each monitor — distributing the work. Each monitor is happily working on their one page. Text overlays added later in Premiere Pro to show different "seeds" (FORMAL, PLAYFUL, TECHNICAL, etc.).
 
 **Narration:**
 > "This works for any business problem. Analyze two hundred customer reviews? Split them across fifty computers. Write fifty product descriptions? Give each computer a different starting angle — formal, playful, technical — they all write at the same time. And it scales effortlessly."
