@@ -244,7 +244,9 @@
 
 ## SCENE 11c — Marcus's Reward (5s) — DRAFT
 
-**Visual:** Marcus showing his roommate his earnings dashboard on his phone. The roommate's jaw drops. Marcus shrugs casually, grinning.
+**Visual:** Marcus handing his roommate a fat stack of cash (his half of the rent). The roommate's jaw drops. Marcus shrugs casually, grinning. Universal visual — everyone understands cash.
+
+**Reference images needed:** Marcus (same as Scene 10c), Marcus's roommate.
 
 **Narration:**
 > "Last month, my hive earned me more than my side of the rent. My roommate thinks I'm a genius."
