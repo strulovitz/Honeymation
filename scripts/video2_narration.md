@@ -34,7 +34,7 @@
 
 ## SCENE 2 — The Opportunity (5-10s) — APPROVED
 
-**Visual:** Globe/world map with hundreds of small computers lighting up and connecting with glowing lines — like a network forming. Think of the classic torrent swarm visualization but prettier, Pixar-style. The small dots merge into one big glowing brain.
+**Visual:** A big colorful Earth ball (blue oceans, green continents, like a beach ball). Several cute Pixar-style computer monitors with faces and arms are scattered around the ball, happily tossing CDs/DVDs to each other across the globe. They're having fun — smiling, catching, throwing. It looks like a game.
 
 **Narration:**
 > "You know how torrents work — millions of small computers, together, more powerful than any big server. Now imagine the same thing, but for AI. That's real. That exists. And your computer can be part of it."
