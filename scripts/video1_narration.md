@@ -89,35 +89,35 @@
 
 ---
 
-## SCENE 7a — Bad Way 1 Part 1: CrewAI (5s)
+## SCENE 7a — Bad Way 1 Part 1: Paint the Picture (5s+)
 **Clip:** `scene07_bad_way1_crewai/take01_head_transfer_foreman_worker.mp4`
 
 **Narration:**
-> "Bad way number one. CrewAI, Swarms, LangGraph. All their agents are stuck on one computer. Only one agent can think at a time."
+> "Bad way number one. Imagine five workers, but only one brain. One puts it on, does his job. Takes it off, passes it to the next. Everyone else just stands there."
 
 ---
 
-## SCENE 7b — Bad Way 1 Part 2: CrewAI (5s)
+## SCENE 7b — Bad Way 1 Part 2: What It Means (5s)
 **Clip:** `scene07_bad_way1_crewai/take01_head_transfer_architect_sawworker.mp4`
 
 **Narration:**
-> "The rest just wait in line. One brain, one computer. Slow. This doesn't work."
+> "That's CrewAI, Swarms, LangGraph. All their agents share one computer, one brain. Only one thinks at a time. The rest wait. Doesn't work."
 
 ---
 
-## SCENE 8a — Bad Way 2 Part 1: Petals/Exo (5s)
+## SCENE 8a — Bad Way 2 Part 1: Paint the Picture (5s+)
 **Clip:** `scene08_bad_way2_petals/take01_helmet_swap_foreman_worker.mp4`
 
 **Narration:**
-> "Bad way number two. Petals, Exo. They split one AI brain across multiple computers. Each computer holds one piece."
+> "Bad way number two. Now each worker has his own brain, but he works for a moment, stops, walks all the way across the room to hand off his piece, walks all the way back, works a little more. Most of the time — just walking."
 
 ---
 
-## SCENE 8b — Bad Way 2 Part 2: Petals/Exo (5s)
+## SCENE 8b — Bad Way 2 Part 2: What It Means (5s)
 **Clip:** `scene08_bad_way2_petals/take01_helmet_swap_architect_sawworker.mp4`
 
 **Narration:**
-> "But each piece depends on the one before it. So every computer waits for the previous one to finish. Still slow. This doesn't work either."
+> "That's Petals and Exo. They split one AI brain across computers. Each piece waits for the previous one. The slow network between them kills everything. Doesn't work either."
 
 ---
 
