@@ -255,7 +255,9 @@
 
 ## SCENE 11d — Alex's Reward (5-10s) — DRAFT
 
-**Visual:** Alex's dashboard zooming out — the numbers are big. Thousands of jobs per week. He started with a laptop and $10 for a domain. Now his marketplace is a real business. Final shot: Alex's marketplace logo next to the eBay and Uber logos — same level.
+**Visual:** Alex on his private yacht with his beautiful girlfriend, both in swimwear, drinking chilled champagne. Alex has a cigar and a satellite phone — he's on a call, winner smile, just got news of another business success. They're anchored near an exotic private island. Luxury everywhere. On the side of the yacht: a BEE logo (first brand reveal — "BeehiveOfAI" suddenly sounds like a billion-dollar company). This is what "free code + $10 domain + 5% of every transaction" can become.
+
+**Reference images needed:** Alex (same as 10d), Alex's girlfriend, the yacht with bee logo.
 
 **Narration:**
 > "Alex started with free code and a ten-dollar domain name. His marketplace now handles thousands of jobs a week. Five percent of every transaction. He's building the next eBay — of AI."
