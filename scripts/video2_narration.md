@@ -115,7 +115,7 @@
 
 ## SCENE 6 — How Easy + How Safe (10-15s) — APPROVED
 
-**Visual:** A gaming setup (recognizable to viewers). A friendly install wizard — two icons being dragged into place (Ollama + HoneycombOfAI). A big "START" button being clicked. Person walks away. Computer quietly working, small green pulse. Timer showing "17 minutes" for the whole setup.
+**Visual:** A cute Pixar monitor in the center wearing gaming headphones (with microphone) and holding a wireless gaming controller — instantly reads as "gaming PC." From the left, a page of paper with writing on it slides into the monitor (input). From the right, a page of paper with writing slides out of the monitor (output). Text in, text out — simple and clear. Above the monitor: GitHub Octocat logo added as overlay in Premiere Pro (= open-source, legit). Clock overlay "17:00" also added in Premiere.
 
 **Narration:**
 > "If your computer can play games, it can do this. You install a free local AI — it's not an agent, it doesn't take over your computer, it doesn't go online. You ask it a text question, it gives back a text answer. That's all it does. Our program is open-source — you can read every line of code and see it's legit. Install both, click start, walk away. Seventeen minutes."
