@@ -23,10 +23,10 @@
 
 ---
 
-## SCENE 2 — The Opportunity (5s)
+## SCENE 2 — The Opportunity (5-10s) — APPROVED
 
 **Narration:**
-> *(TBD — your computer sits idle, it could be earning)*
+> "You know how torrents work — millions of small computers, together, more powerful than any big server. Now imagine the same thing, but for AI. That's real. That exists. And your computer can be part of it."
 
 ---
 
