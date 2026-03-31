@@ -65,17 +65,10 @@
 
 ---
 
-## SCENE 5 — The Three Roles: Queen Bee (5-10s)
+## SCENE 5 — How It Actually Works: The Three Roles (5-10s) — APPROVED
 
 **Narration:**
-> *(TBD — someone with a powerful computer splits the big job, sends pieces to workers, combines results)*
-
----
-
-## SCENE 6 — The Three Roles: Beekeeper (5s)
-
-**Narration:**
-> *(TBD — the customer who needs AI work done cheaper and faster)*
+> "Three roles make this work. The customer submits a big job. A powerful computer splits it into small pieces — like the chess player handing out piece types. Your computer gets one small piece, does it, sends it back. The powerful computer combines all the pieces into one finished result. The customer gets their work done. Everyone gets paid."
 
 ---
 
