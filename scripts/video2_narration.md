@@ -79,10 +79,10 @@
 
 ---
 
-## SCENE 8 — How Easy It Is (5s)
+## SCENE 7 — How Easy + How Safe (10-15s) — APPROVED
 
 **Narration:**
-> *(TBD — seventeen minutes to set up)*
+> "If your computer can play games, it can do this. You install a free local AI — it's not an agent, it doesn't take over your computer, it doesn't go online. You ask it a text question, it gives back a text answer. That's all it does. Our program is open-source — you can read every line of code and see it's legit. Install both, click start, walk away. Seventeen minutes."
 
 ---
 
