@@ -86,10 +86,10 @@
 
 ---
 
-## SCENE 9 — Success Story (5-10s)
+## SCENE 8 — Growth Path: From Worker to Manager (10-15s) — APPROVED
 
 **Narration:**
-> *(TBD — like Maria from the book, real example)*
+> "And that's just the beginning. The same software can also run as the splitter and combiner — the powerful computer that manages the whole job. That's where the real money is. Workers get 65% split between all of them. The manager gets 30% all to himself. It takes more knowledge — like running a cloud server — but it's the same software. No extra cost. You start as a worker tonight. If you want more, you grow into a manager."
 
 ---
 
