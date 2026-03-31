@@ -18,7 +18,7 @@
 ## Characters
 - **Sofia** — late 30s, warm, professional. Small marketing agency owner. Messy desk, coffee cups. The CUSTOMER.
 - **Jade** — early 20s, headphones around neck, casual. College student, dorm room, gaming laptop. The WORKER.
-- **Marcus** — late 20s, glasses, hoodie, confident cool nerd. Home lab with RGB lights, multiple monitors. The MANAGER.
+- **Marcus** — late 20s, glasses, hoodie, confident cool nerd. Normal desk, ONE laptop, relaxed at home. Rents a cloud server. The MANAGER.
 - **Alex** — entrepreneur type, clean desk, laptop, leaning back confidently. Started with nothing, building an empire. The PLATFORM.
 
 ---
@@ -176,14 +176,25 @@
 
 ## SCENE 10c — Meet Marcus: The Manager (5-10s) — DRAFT
 
-**Visual:** Marcus (cute Pixar guy, late 20s, glasses, hoodie, confident cool nerd) in his home lab with RGB lights and multiple monitors. Above his head hover THREE small yellow pages with small **?** marks (= he has split the big job into small tasks and is sending them out). He looks calm and in control.
+**Visual:** Marcus (cute Pixar guy, late 20s, glasses, hoodie, confident cool nerd) sitting at a normal desk with ONE laptop, relaxed — at home, maybe couch or kitchen table. Nothing fancy, no home lab. Above his head hover THREE small yellow pages with small **?** marks (= he split the big job into small tasks).
 
-**Yellow paper tracker:** Small ??? above Marcus = job has been split into tasks, being distributed.
+**Yellow paper tracker (optimistic):** Big **?** transforms into three small **?** marks.
+**Yellow paper tracker (pessimistic):** Just three small **?** above Marcus.
 
-**NOTE:** We need TWO Marcus scenes — one for splitting (small ???) and one for combining (big !). Or we can show the split in the intro and the combine in the Result scene.
+---
+
+## SCENE 10c2 — Marcus Combines the Results (5-10s) — DRAFT
 
 **Narration:**
-> "Marcus is a systems admin by day. By night, he runs a hive from his home lab. His computer received Sofia's job, split it into two hundred small tasks, sent them to laptops like Jade's all over the world, and combined all the results into one polished report."
+> "When all the workers finish, Marcus's server collects the answers and combines them into one polished report. Marcus didn't lift a finger. His cloud server did everything."
+
+**Visual:** Same Marcus, same laptop, same relaxed pose. Above his head hovers ONE big yellow page with a big **!** mark (= he combined all the answers into one final result).
+
+**Yellow paper tracker (optimistic):** Three small **!** merge into one big **!**.
+**Yellow paper tracker (pessimistic):** Just one big **!** above Marcus.
+
+**Narration:**
+> "Marcus is a programmer by day. On the side, he rents a cloud server for a few dollars a month and runs our software on it. When Sofia's job arrives, his server splits it into small tasks, and sends one to each worker — including Jade's laptop."
 
 ---
 
