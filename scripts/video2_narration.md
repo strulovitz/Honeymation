@@ -70,7 +70,7 @@
 
 ## SCENE 4c — Good Way: Distributed Parallel AI (5-10s) — APPROVED
 
-**Visual:** Calm, peaceful scene. A computer running quietly (no fire, no smoke, no noise). A small friendly AI icon on screen — just a text bubble in, text bubble out. Green checkmarks appearing: "low power," "no strangers' code," "no money at risk." Coins gently flowing in.
+**Visual:** Our cute Pixar monitor from Scene 1, now cozy in a TV armchair wearing slippers, relaxed at home. He's reading a newspaper and solving the crossword puzzle with a pencil — calm, comfortable, effortless. A jar of coins next to him slowly filling up. MAXIMUM contrast with the previous two scenes (pickaxe smashing, fire and crashing stocks). This is what "light work" looks like.
 
 **Narration:**
 > "We don't do any of that. Your computer runs a small, free AI that answers text questions. Light work. Low power. No strangers' code. No money at risk. Real companies pay for real work. That money goes to you."
