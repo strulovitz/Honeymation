@@ -222,7 +222,9 @@
 
 ## SCENE 11a — Sofia's Reward (5s) — DRAFT
 
-**Visual:** Sofia on a video call with her client, who is smiling and giving thumbs up. A contract appears on screen. Sofia pumps her fist.
+**Visual:** Sofia at her desk, but now the desk is clean (her life improved). She's shaking hands with a happy client across the desk. Simple, one moment.
+
+**Reference images needed:** Sofia, Sofia's client.
 
 **Narration:**
 > "That report saved my client's product launch. They just signed a year-long contract."
