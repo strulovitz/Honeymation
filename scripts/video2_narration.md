@@ -16,10 +16,10 @@
 
 ---
 
-## SCENE 1 — The Hook (5s)
+## SCENE 1 — The Hook (5s) — APPROVED
 
 **Narration:**
-> *(TBD — needs to grab attention, about making money)*
+> "Every night, your computer is sitting there doing nothing. It could be making you money."
 
 ---
 
