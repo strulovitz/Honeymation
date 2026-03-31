@@ -30,38 +30,38 @@
 
 ---
 
-## SCENE 3a — Chess Part 1: The Problem (10s) — APPROVED
+## SCENE 3 — It's Legal + Where The Money Comes From (5-10s) — APPROVED
+
+**Narration:**
+> "But unlike torrents, this is completely legal. Here's why: companies need AI to get work done. Big cloud AI is expensive. Your computer, combined with thousands of others, creates a cheap alternative. Companies are happy to pay for it. That money goes to you."
+
+---
+
+## SCENE 4a — Chess Part 1: The Problem (10s) — APPROVED
 
 **Narration:**
 > "Imagine you're playing chess alone. You need to find the best move. You sit there, thinking through every possibility — pawns, knights, bishops, rooks, queen. One brain, so many options. You can only think about so many moves before your time runs out."
 
 ---
 
-## SCENE 3b — Chess Part 2: The Helpers (10s) — APPROVED
+## SCENE 4b — Chess Part 2: The Helpers (10s) — APPROVED
 
 **Narration:**
 > "Now imagine you have six helpers. You give each one a piece type. You take pawns, you take knights, you take bishops. Each helper goes to a separate room. They all think at the same time. Together, they explore far more possibilities than you ever could alone."
 
 ---
 
-## SCENE 3c — Chess Part 3: You Choose, Next Move (10s) — APPROVED
+## SCENE 4c — Chess Part 3: You Choose, Next Move (10s) — APPROVED
 
 **Narration:**
 > "Each one comes back with his best move. You pick the winner. Next turn? You show them all the new board, and they do it again. Every turn, six brains. Every turn, a better move."
 
 ---
 
-## SCENE 3d — Chess Part 4: Real Business Problems (10s) — APPROVED
+## SCENE 4d — Chess Part 4: Real Business Problems (10s) — APPROVED
 
 **Narration:**
 > "This works for any business problem. Analyze two hundred customer reviews? Split them across fifty computers. Write fifty product descriptions? Give each computer a different starting angle — formal, playful, technical — they all write at the same time. And it scales effortlessly."
-
----
-
-## SCENE 4 — It's Legal + Where The Money Comes From (5-10s) — APPROVED
-
-**Narration:**
-> "But unlike torrents, this is completely legal. Here's why: companies need AI to get work done. Big cloud AI is expensive. Your computer, combined with thousands of others, creates a cheap alternative. Companies are happy to pay for it. That money goes to you."
 
 ---
 
