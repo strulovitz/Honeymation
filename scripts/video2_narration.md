@@ -37,63 +37,77 @@
 
 ---
 
-## SCENE 4a — Chess Part 1: The Problem (10s) — APPROVED
+## SCENE 4 — GPU Rental Is Not The Answer (10-15s) — APPROVED
+
+**Narration:**
+> "Maybe you've heard of GPU rental — platforms that rent out your graphics card for AI or rendering. They run your GPU at full blast, 24/7. Your electricity bill goes up. Your hardware wears out. Strangers run their code on your machine. And you need an expensive graphics card to even start. We don't do any of that. Your computer runs a small, free AI that answers text questions. Light work. Low power. No strangers' code. Any computer."
+
+---
+
+## SCENE 5a — Chess Part 1: The Problem (10s) — APPROVED
 
 **Narration:**
 > "Imagine you're playing chess alone. You need to find the best move. You sit there, thinking through every possibility — pawns, knights, bishops, rooks, queen. One brain, so many options. You can only think about so many moves before your time runs out."
 
 ---
 
-## SCENE 4b — Chess Part 2: The Helpers (10s) — APPROVED
+## SCENE 5b — Chess Part 2: The Helpers (10s) — APPROVED
 
 **Narration:**
 > "Now imagine you have six helpers. You give each one a piece type. You take pawns, you take knights, you take bishops. Each helper goes to a separate room. They all think at the same time. Together, they explore far more possibilities than you ever could alone."
 
 ---
 
-## SCENE 4c — Chess Part 3: You Choose, Next Move (10s) — APPROVED
+## SCENE 5c — Chess Part 3: You Choose, Next Move (10s) — APPROVED
 
 **Narration:**
 > "Each one comes back with his best move. You pick the winner. Next turn? You show them all the new board, and they do it again. Every turn, six brains. Every turn, a better move."
 
 ---
 
-## SCENE 4d — Chess Part 4: Real Business Problems (10s) — APPROVED
+## SCENE 5d — Chess Part 4: Real Business Problems (10s) — APPROVED
 
 **Narration:**
 > "This works for any business problem. Analyze two hundred customer reviews? Split them across fifty computers. Write fifty product descriptions? Give each computer a different starting angle — formal, playful, technical — they all write at the same time. And it scales effortlessly."
 
 ---
 
-## SCENE 5 — How It Actually Works: The Three Roles (5-10s) — APPROVED
+## SCENE 6 — How It Actually Works: The Three Roles (5-10s) — APPROVED
 
 **Narration:**
 > "Three roles make this work. The customer submits a big job. A powerful computer splits it into small pieces — like the chess player handing out piece types. Your computer gets one small piece, does it, sends it back. The powerful computer combines all the pieces into one finished result. The customer gets their work done. Everyone gets paid."
 
 ---
 
-## SCENE 6 — The Money Flow: 65/30/5 (5-10s) — APPROVED
+## SCENE 7 — The Money Flow: 65/30/5 (5-10s) — APPROVED
 
 **Narration:**
 > "When a customer pays for a job — 65% goes to the workers. That's you. 30% goes to the powerful computer that managed the job. And the platform? Only 5%. For comparison, Uber takes 25%. Apple takes 30%. We take 5."
 
 ---
 
-## SCENE 7 — How Easy + How Safe (10-15s) — APPROVED
+## SCENE 8 — How Easy + How Safe (10-15s) — APPROVED
 
 **Narration:**
 > "If your computer can play games, it can do this. You install a free local AI — it's not an agent, it doesn't take over your computer, it doesn't go online. You ask it a text question, it gives back a text answer. That's all it does. Our program is open-source — you can read every line of code and see it's legit. Install both, click start, walk away. Seventeen minutes."
 
 ---
 
-## SCENE 8 — Growth Path: From Worker to Manager (10-15s) — APPROVED
+## SCENE 9 — Growth Path: From Worker to Manager (10-15s) — APPROVED
 
 **Narration:**
 > "And that's just the beginning. The same software can also run as the splitter and combiner — the powerful computer that manages the whole job. That's where the real money is. Workers get 65% split between all of them. The manager gets 30% all to himself. It takes more knowledge — like running a cloud server — but it's the same software. No extra cost. You start as a worker tonight. If you want more, you grow into a manager."
 
 ---
 
-## SCENE 10 — End Card + Cross-Link (5-8s) — APPROVED
+## SCENE 10 — Call to Action (5-10s)
+
+**Narration:**
+> *(TBD — push viewer to actually do it tonight)*
+
+---
+
+## SCENE 11 — End Card + Cross-Link (5-8s) — APPROVED
 
 **Narration:**
 > "BeehiveOfAI. Actual parallel distributed AI."
