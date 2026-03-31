@@ -209,9 +209,11 @@
 
 ## SCENE 10e — The Result (5-10s) — DRAFT
 
-**Visual:** Sofia back at her desk, now smiling and relaxed. Above her head hovers ONE big yellow page with a big **!** (= her answer has arrived, job complete). She's looking at her screen, happy with the result.
+**Visual (two clips, split-screen each):**
 
-**Yellow paper tracker:** BIG ! above Sofia = full circle. The ? became a !. Job done.
+**10e-1 (5s):** Split screen. Left half: Sofia at her desk, smiling, relaxed. Big yellow **!** hovering above her (= job complete, full circle from the **?** in Scene 10a). Right half: Jade waking up, checking her phone, coins stacked next to her laptop. Both happy. The everyday wins.
+
+**10e-2 (5s):** Split screen. Left half: Marcus at his kitchen table, smiling at his laptop. Right half: Alex by the pool, sipping cocktail. Both happy. The ambitious wins. Ends on the dream.
 
 **Narration:**
 > "By morning: Sofia has her report. Jade earned money in her sleep. Marcus earned thirty percent for managing the job. Alex earned five percent for running the marketplace. Everyone wins."
