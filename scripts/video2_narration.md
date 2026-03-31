@@ -72,10 +72,10 @@
 
 ---
 
-## SCENE 7 — The Money Flow: 65/30/5 (5-10s)
+## SCENE 6 — The Money Flow: 65/30/5 (5-10s) — APPROVED
 
 **Narration:**
-> *(TBD — who pays whom, the split, compare with Uber 25% / Apple 30% / us only 5%)*
+> "When a customer pays for a job — 65% goes to the workers. That's you. 30% goes to the powerful computer that managed the job. And the platform? Only 5%. For comparison, Uber takes 25%. Apple takes 30%. We take 5."
 
 ---
 
