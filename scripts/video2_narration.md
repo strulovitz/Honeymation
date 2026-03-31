@@ -131,9 +131,9 @@
 
 ---
 
-## SCENE 8 — Growth Path: Ladder of Ambition (10-15s) — NEEDS REWRITE
+## SCENE 8 — Growth Path: Ladder of Ambition (10-15s) — APPROVED
 
-**Visual:** A ladder or staircase with four steps, each step glowing brighter. Step 1 (bottom): a laptop icon labeled "Worker — earn while you sleep." Step 2: a powerful computer labeled "Manager — earn 30% per job." Step 3: a website/globe icon labeled "Platform — run the marketplace." Each step shows bigger money amounts. The viewer climbs the ladder.
+**Visual:** A staircase with three steps. On the bottom step: a cute Pixar laptop with a face (= worker, small, everyone has one). On the middle step: a desktop tower server with a face (= manager, more powerful, serious). On the top step: a globe/grid of the world wide web with a face (= platform, you run the whole marketplace). Each step is bigger and grander. The progression is clear: small → big → global. Labels added as Premiere overlays.
 
 **Narration:**
 > "Start as a worker tonight — your laptop earns while you sleep. Learn the system, become a manager — the same software, bigger earnings, 30% of every job all to yourself. Go even bigger — download the code, run your own marketplace, take 5% of every transaction. Same technology. Three levels. You choose how high you climb."
