@@ -264,19 +264,12 @@
 
 ---
 
-## SCENE 12 — Call to Action (5-10s) — TBD
+## SCENE 12 — Call to Action (5-10s) — APPROVED
 
-**Visual:** The viewer's own bedroom at night (same as Scene 1, but now the computer screen shows the software running and coins floating up). Sunrise through the window — morning comes, the viewer checks their phone: "You earned $X overnight." A QR code or URL appears.
+**Visual:** Same monitor from Scene 1 — same dark bedroom. But now instead of lighting a cigar with a $100 bill (lazy, wasting money), he's wearing a jogging headband, slightly blushed from effort, holding a dumbbell in each hand, working out with a smile. He's healthy, active, earning. Full circle callback — the viewer instantly sees the transformation. Dumbbells also call back to Scene 3.
 
 **Narration:**
-> *(TBD — see notes below)*
-
-### What is a Call to Action?
-In Video 1, we didn't have an explicit CTA — the boardroom/phone scenes were the emotional payoff, and the end card with the URL was the implicit "go check this out." But Video 1 targets decision-makers who will do their own research.
-
-Video 2 targets regular people who need a PUSH. A CTA is the "go do it NOW" moment:
-- "Download the software tonight at [URL]"
-- "Your computer is going to sit idle again tonight. Or it could be working for you."
+> "Your computer is going to sit idle again tonight. Or it could start working for you. The software is free. The setup takes seventeen minutes. Which step of the ladder will you reach?"
 - "Seventeen minutes. That's all it takes."
 
 We should write this AFTER all other scenes are finalized, since the CTA should mirror the hook and pay off the whole video.
