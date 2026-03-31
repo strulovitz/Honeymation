@@ -121,15 +121,15 @@
 
 ---
 
-## SCENE 9a — The Good Way Part 1: Paint the Picture (10s)
+## SCENE 9a — Good Way: Distributed Parallel AI — Paint the Picture (10s)
 **Clip:** `scene09_good_way_beehive/take01_all_green_working.mp4`
 
 **Narration:**
-> "BeehiveOfAI. The right way. Now imagine: before work begins, every worker gets the complete plan. Every worker has his own brain. The whistle blows, and they ALL start working at the same time. Nobody stops. Nobody walks anywhere. Nobody waits for anyone."
+> "The right way. Distributed parallel AI. Now imagine: before work begins, every worker gets the complete plan. Every worker has his own brain. The whistle blows, and they ALL start working at the same time. Nobody stops. Nobody walks anywhere. Nobody waits for anyone."
 
 ---
 
-## SCENE 9b — The Good Way Part 2: What It Means (5s)
+## SCENE 9b — Good Way: Distributed Parallel AI — What It Means (5s)
 **Clip:** `scene09_good_way_beehive/take02_all_green_working_5s.mp4`
 
 **Narration:**
