@@ -25,7 +25,7 @@
 
 ## SCENE 1 — The Hook (5s) — APPROVED
 
-**Visual:** Dark bedroom at night. A computer monitor glowing, screen saver on. Nobody using it. Maybe a clock showing 2:00 AM. Money icons or dollar signs subtly floating up from the screen.
+**Visual:** A cute Pixar-style computer monitor with a bored face, sitting alone in a dark room at night, casually lighting a cigar using a burning $100 bill. He looks completely unbothered — this is just another boring night for him.
 
 **Narration:**
 > "Every night, your computer is sitting there doing nothing. It could be making you money."
