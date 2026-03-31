@@ -233,7 +233,9 @@
 
 ## SCENE 11b — Jade's Reward (5s) — DRAFT
 
-**Visual:** Jade at a campus bookstore, paying with her phone. The screen shows her balance — earned from her laptop. She walks out with a stack of textbooks, smiling.
+**Visual:** Jade at a campus bookstore, walking out happily with a stack of textbooks, paying with her phone. Simple, one moment — a student who can afford her books now.
+
+**Reference images needed:** Jade (same as Scene 10b).
 
 **Narration:**
 > "My laptop paid for my textbooks this semester. I didn't do anything."
