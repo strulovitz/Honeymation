@@ -162,9 +162,12 @@
 
 ## SCENE 10b — Meet Jade: The Worker (5-10s) — DRAFT
 
-**Visual:** Jade (cute Pixar woman, early 20s, casual) sleeping peacefully in her dorm room bed, headphones on pillow. Her gaming laptop on the desk glows softly. Above the laptop hover THREE small yellow pages with small **!** marks (= the split tasks have been answered). Coins gently stacking up next to the laptop.
+**Visual:** Jade (cute Pixar woman, early 20s, casual) sleeping peacefully in her dorm room bed, headphones on pillow. Her gaming laptop on the desk glows softly. Coins gently stacking up next to the laptop.
 
-**Yellow paper tracker:** Small !!! above laptop = worker has answered her tasks.
+**Yellow paper tracker (optimistic — try first):** Small **?** above laptop transforms into small **!** (task received → task answered).
+**Yellow paper tracker (pessimistic — fallback):** Just small **!** above laptop (final state only).
+
+**Reference images needed:** Big yellow page with ?, big yellow page with !, small yellow page with ?, small yellow page with ! (may be same paper at different sizes).
 
 **Narration:**
 > "Jade is a college student. She installed the software on her gaming laptop last week — seventeen minutes. Tonight, while she sleeps, her laptop picks up task number forty-seven from Sofia's job and gets to work. Jade doesn't even know."
