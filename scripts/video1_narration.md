@@ -137,8 +137,6 @@
 
 ---
 
-## ⚠️ EVERYTHING BELOW IS FIRST DRAFT — NOT YET REVIEWED WITH NIR
-
 ## SCENE 10a — Boardroom: Hospital (5s)
 **Clip:** `scene10_boardroom/take01_hospital_bob_alice.mp4`
 
