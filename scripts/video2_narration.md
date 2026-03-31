@@ -79,7 +79,7 @@
 
 ## SCENE 5a — Chess Part 1: The Problem (10s) — APPROVED
 
-**Visual:** A cute Pixar character sitting alone at a chess board, head in hands, sweating. Thought bubbles showing dozens of possible moves, overwhelming. A clock ticking down.
+**Visual:** A cute Pixar human character sitting alone at a chess board, stressed, sweating. Above his head, five chess pieces (pawn, knight, bishop, rook, queen) are rotating around his head — too many to focus on, overwhelming. A chess clock is ticking down. He's alone and can't handle it all.
 
 **Narration:**
 > "Imagine you're playing chess alone. You need to find the best move. You sit there, thinking through every possibility — pawns, knights, bishops, rooks, queen. One brain, so many options. You can only think about so many moves before your time runs out."
