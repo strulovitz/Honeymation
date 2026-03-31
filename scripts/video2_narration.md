@@ -52,7 +52,7 @@
 
 ## SCENE 4a — Bad Way #1: Hardware Rental (10s) — APPROVED
 
-**Visual:** A sad computer on fire (exaggerated Pixar style). Fan spinning wildly, smoke coming out, electricity meter spinning fast, coins trickling out slowly (pennies). A thermometer showing extreme heat. Loud visual = vacuum cleaner icon with sound waves.
+**Visual:** A dark gold mine. Gold nuggets on the walls have "B" (Bitcoin) on them. A Pixar-style miner with a pickaxe is hammering away — but not at the rock. He's hammering on a poor cute monitor with a face, who is cracking and breaking from the hits, in pain. The monitor is being destroyed for someone else's profit. At the end — a single tiny penny drops out. The monitor looks broken and defeated.
 
 **Narration:**
 > "There are other ways to earn from your computer. Crypto mining. GPU rental. Bandwidth sharing. They all run your hardware at full blast, 24/7. Your electricity bill goes up. Your computer sounds like a vacuum cleaner. Strangers run their code on your machine. And after all that — you earn pennies."
