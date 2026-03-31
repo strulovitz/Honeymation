@@ -1,0 +1,121 @@
+# Video 2: Public Mode — Narration Script
+
+## Overview
+- **Target duration:** ~2-3 min (TBD as scenes are finalized)
+- **Visual style:** Cute Pixar 3D animation (NOT Lego — no head-removal needed in this video)
+- **Audience:** Regular people at home who want to make money from their idle computers
+- **Style:** Same narration philosophy as Video 1 — blunt, idiot-proof, every word matters.
+- **Voice:** Warm, excited about the opportunity, confident.
+
+## Narration Philosophy (same as Video 1)
+1. **Be BLUNT** — no subtlety, no hints, no rhetorical questions.
+2. **Promise the cure early** — viewer must know money IS coming.
+3. **No jargon** — hide technical truth inside friendly words.
+4. **Assume the viewer is an impatient idiot** — short sentences, every word matters.
+5. **This is a sales pitch** — every sentence must either describe an opportunity or deliver a solution.
+
+---
+
+## SCENE 1 — The Hook (5s)
+
+**Narration:**
+> *(TBD — needs to grab attention, about making money)*
+
+---
+
+## SCENE 2 — The Opportunity (5s)
+
+**Narration:**
+> *(TBD — your computer sits idle, it could be earning)*
+
+---
+
+## SCENE 3a — Chess Part 1: The Problem (10s) — APPROVED
+
+**Narration:**
+> "Imagine you're playing chess alone. You need to find the best move. You sit there, thinking through every possibility — pawns, knights, bishops, rooks, queen. One brain, so many options. You can only think about so many moves before your time runs out."
+
+---
+
+## SCENE 3b — Chess Part 2: The Helpers (10s) — APPROVED
+
+**Narration:**
+> "Now imagine you have six helpers. You give each one a piece type. You take pawns, you take knights, you take bishops. Each helper goes to a separate room. They all think at the same time. Together, they explore far more possibilities than you ever could alone."
+
+---
+
+## SCENE 3c — Chess Part 3: You Choose, Next Move (10s) — APPROVED
+
+**Narration:**
+> "Each one comes back with his best move. You pick the winner. Next turn? You show them all the new board, and they do it again. Every turn, six brains. Every turn, a better move."
+
+---
+
+## SCENE 3d — Chess Part 4: Real Business Problems (10s) — APPROVED
+
+**Narration:**
+> "This works for any business problem. Analyze two hundred customer reviews? Split them across fifty computers. Write fifty product descriptions? Give each computer a different starting angle — formal, playful, technical — they all write at the same time. And it scales effortlessly."
+
+---
+
+## SCENE 4 — The Three Roles: Worker Bee (5-10s)
+
+**Narration:**
+> *(TBD — you're a worker bee, install software, click start, go to sleep, wake up with money)*
+
+---
+
+## SCENE 5 — The Three Roles: Queen Bee (5-10s)
+
+**Narration:**
+> *(TBD — someone with a powerful computer splits the big job, sends pieces to workers, combines results)*
+
+---
+
+## SCENE 6 — The Three Roles: Beekeeper (5s)
+
+**Narration:**
+> *(TBD — the customer who needs AI work done cheaper and faster)*
+
+---
+
+## SCENE 7 — The Money Flow: 65/30/5 (5-10s)
+
+**Narration:**
+> *(TBD — who pays whom, the split, compare with Uber 25% / Apple 30% / us only 5%)*
+
+---
+
+## SCENE 8 — How Easy It Is (5s)
+
+**Narration:**
+> *(TBD — seventeen minutes to set up)*
+
+---
+
+## SCENE 9 — Success Story (5-10s)
+
+**Narration:**
+> *(TBD — like Maria from the book, real example)*
+
+---
+
+## SCENE 10 — End Card + Cross-Link (5-8s) — APPROVED
+
+**Narration:**
+> "BeehiveOfAI. Actual parallel distributed AI."
+
+**Cross-link narration:**
+> "This technology can also get you promoted at work — by saving your company a fortune. Check out our Private Mode video."
+
+**End card (text overlay, no narration):**
+> **BeehiveOfAI**
+> github.com/strulovitz
+> *"Actual parallel distributed AI."*
+
+---
+
+## ALSO: Update Video 1 ending with cross-link
+
+**Video 1 Scene 12 — add after tagline:**
+> "You can also make money from this technology at home, from your personal computer, for free. Check out our Public Mode video."
