@@ -19,7 +19,7 @@
 - **Sofia** — late 30s, warm, professional. Small marketing agency owner. Messy desk, coffee cups. The CUSTOMER.
 - **Jade** — early 20s, headphones around neck, casual. College student, dorm room, gaming laptop. The WORKER.
 - **Marcus** — late 20s, glasses, hoodie, confident cool nerd. Normal desk, ONE laptop, relaxed at home. Rents a cloud server. The MANAGER.
-- **Alex** — entrepreneur type, clean desk, laptop, leaning back confidently. Started with nothing, building an empire. The PLATFORM.
+- **Alex** — young guy, designer clothes, sunglasses, poolside at luxury mansion. Red sports car, cocktail, Forbes magazine. Started with free code + $10 domain, now living la dolce vita. The PLATFORM.
 
 ---
 
@@ -200,7 +200,7 @@
 
 ## SCENE 10d — Meet Alex: The Platform (5-10s) — DRAFT
 
-**Visual:** Alex (cute Pixar guy, entrepreneur type, clean desk, laptop, leaning back confidently). His screen shows a live dashboard. He's watching his marketplace run itself, smiling. No yellow papers above Alex — he doesn't touch the work. He just connects everyone. The marketplace runs through him but the work flows past him.
+**Visual:** Alex (young Pixar guy, designer clothes, sunglasses) lounging by the pool of a luxury mansion. Palm trees, blue sky. A red sports car parked nearby. A fancy cocktail in his hand. A laptop sits on the lounge chair beside him — he's not even looking at it, the money comes in automatically. A beautiful woman in a swimsuit on the lounge chair next to him. A Forbes magazine on the small table. He's living la dolce vita. No yellow papers — he doesn't touch the work. This is what running the marketplace looks like.
 
 **Narration:**
 > "And that website where Sofia submitted her job? Alex built it. He downloaded the free open-source code, set it up on his own domain, and opened a marketplace. Every transaction that flows through his platform, he earns 5%. The marketplace runs itself."
