@@ -97,7 +97,7 @@
 
 ## SCENE 5c — Chess Part 3: You Choose, Next Move (10s) — APPROVED
 
-**Visual:** The six helpers come back, each holding up a chess piece with a gold star (their best move). The main player looks at all six, picks one, makes the move. Then — new board position shown to all helpers, they go back to their rooms again. Cycle repeats. Fast montage.
+**Visual:** Five human-sized chess pieces (pawn, knight, bishop, rook, queen) standing in a line like a Miss Universe pageant. Each wears a beauty pageant sash/ribbon with a gold medal. The human chess player stands in front of them, looking at each one, and points at the winner. The chosen piece looks proud. It's a beauty contest of best moves.
 
 **Narration:**
 > "Each one comes back with his best move. You pick the winner. Next turn? You show them all the new board, and they do it again. Every turn, six brains. Every turn, a better move."
