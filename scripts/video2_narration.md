@@ -61,7 +61,7 @@
 
 ## SCENE 4b — Bad Way #2: AI Agents (10s) — APPROVED
 
-**Visual:** A robot sitting at a desk, confidently clicking buttons. But the screen shows RED: stock charts crashing, error messages, a big invoice "$$$$ API COSTS". A gavel coming down (legal liability). The robot gives a thumbs up while everything around it is on fire (the "this is fine" meme energy).
+**Visual:** A Pixar-style robot sitting at a desk, confidently clicking buttons with a big smile. But the screen shows RED: stock charts crashing, error messages, a big invoice "$$$$ API COSTS." Money is flying OUT everywhere. A gavel comes down (legal liability). The robot gives a cheerful thumbs up while everything around it is on fire — "this is fine" meme energy. He has no idea he's losing your money.
 
 **Narration:**
 > "Or maybe you've heard about AI agents that trade stocks or run a business for you while you sleep. In reality, most people lose money. API costs run into thousands. The AI marks broken work as done. And when it makes a mistake — legally, that's on you. Not passive. Not safe."
