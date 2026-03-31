@@ -142,7 +142,7 @@
 
 ## SCENE 9 — Trust + Competition (5-10s) — DRAFT
 
-**Visual:** Multiple marketplace websites side by side, like competing storefronts. One has "Alex's AI Market — 5%," another has "Sam's AI Hub — 4%," another has "Luna's AI Exchange — 5%." All built from the same open-source code (shown as identical blueprints). A GitHub logo glowing in the background.
+**Visual:** Three identical Pixar-style lemonade stands side by side, each run by a different cute kid. The stands look the same (= same open-source code, easy to set up). A Pixar businessman stands in the middle, looking left and right, undecided which one to buy from. The kids are competing for his attention. Competition keeps everyone honest.
 
 **Narration:**
 > "Every marketplace runs on the same free, open-source code. Don't trust one? Switch to another. Or download the code and start your own. Competition keeps every marketplace honest. Nobody can overcharge you — because anyone can compete with them tomorrow."
