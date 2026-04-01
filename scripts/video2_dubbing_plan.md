@@ -231,8 +231,8 @@ Well within the 30,000 char limit. Plenty of room for retakes.
 
 | Scene | Audio File | Status |
 |-------|-----------|--------|
-| 1 | | TODO |
-| 2 | | TODO |
+| 1 | scene01_hook.mp3 | DONE |
+| 2 | scene02_opportunity.mp3 | DONE |
 | 3 | | TODO |
 | 4a | | TODO |
 | 4b | | TODO |
