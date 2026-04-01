@@ -215,13 +215,17 @@ This technology can also get you promoted at work — by saving your company a f
 
 Well within the 30,000 char limit. Plenty of room for retakes.
 
-## Voice Options to Consider
-- **Main narrator:** Warm, confident, excited male voice. Friend explaining a great opportunity — not a salesman.
-- **Scene 11a (Sofia):** First person — need a female voice matching Sofia (late 30s, professional, warm)
-- **Scene 11b (Jade):** First person — need a female voice matching Jade (early 20s, casual, young)
-- **Scene 11c (Marcus):** First person — need a male voice matching Marcus (late 20s, cool nerd, confident)
-- **Scene 11d:** Back to main narrator
-- Find matching ElevenLabs voices for each character when we reach those scenes
+## Voice Selection
+- **Main narrator:** **Amelia — Enthusiastic and Expressive** (ElevenLabs voice library)
+- **Scene 11a (Sofia):** First person — need a different female voice (late 30s, professional, warm). TBD.
+- **Scene 11b (Jade):** First person — need a different female voice (early 20s, casual, young). TBD.
+- **Scene 11c (Marcus):** First person — need a male voice (late 20s, cool nerd, confident). TBD.
+- **Scene 11d:** Back to Amelia (main narrator)
+
+## ElevenLabs Settings
+- **Stability:** 0.3-0.5 (low — more emotion/variation)
+- **Style Exaggeration:** ON
+- **Model:** Multilingual v2 (or latest available)
 
 ## Dubbing Progress
 
