@@ -216,7 +216,7 @@ This technology can also get you promoted at work — by saving your company a f
 Well within the 30,000 char limit. Plenty of room for retakes.
 
 ## Voice Selection
-- **Main narrator:** **Amelia — Enthusiastic and Expressive** (ElevenLabs voice library)
+- **Main narrator:** **Jessa — Easygoing and Effortless** (ElevenLabs, free tier voice). "Easygoing, conversational and real."
 - **Scene 11a (Sofia):** First person — need a different female voice (late 30s, professional, warm). TBD.
 - **Scene 11b (Jade):** First person — need a different female voice (early 20s, casual, young). TBD.
 - **Scene 11c (Marcus):** First person — need a male voice (late 20s, cool nerd, confident). TBD.
