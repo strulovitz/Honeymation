@@ -19,6 +19,15 @@
 - **Number of images:** 4
 - **Omni Reference:** ALWAYS upload the closest existing reference image so new variants stay visually consistent with what we already have
 
+### Character Prompt Template (MUST use for ALL character images)
+```
+Cute Pixar 3D animated character — [description]. Full body visible from top of head to bottom of feet. Character takes up about 70% of the image height. Lots of empty white space above and below. Plain white background. Pixar movie quality, soft lighting, 3D rendered.
+```
+- **"Full body visible from top of head to bottom of feet"** — prevents cropping at knees/feet
+- **"70% of image height"** — enough detail without getting cut off (100% = head/feet cropped)
+- **"Lots of empty white space above and below"** — extra safety against cropping
+- NEVER skip these lines — without them, characters get cropped and look inconsistent
+
 ## Completed Clips
 
 | # | Scene | Clip File | Status |
