@@ -137,3 +137,40 @@ Lego animation, 3D rendered Lego style. A wooden door frame stands alone in a gr
 - Reuse prop images across scenes (door-only and scattered fragments)
 - Part 1: Foreman + Hammer Worker
 - Part 2: Architect + Saw Worker (or Axe Worker)
+
+## Video 2 — Clip Generation Progress
+
+### COMPLETED CLIPS (Scenes 1-10d):
+| Scene | Clip | Status |
+|-------|------|--------|
+| 1 | Monitor lighting cigar in dark bedroom | DONE |
+| 2 | Monitors tossing CDs around Earth | DONE |
+| 3 | Big vs small monitors, businessman pays | DONE |
+| 4a | Miner smashing monitor in gold mine | DONE |
+| 4b | Robot cheerfully destroying everything | DONE |
+| 4c | Monitor relaxing in armchair, coins filling | DONE |
+| 5a | Chess player stressed, pieces spinning | DONE |
+| 5b | Chess helpers in booths, player relaxed | DONE |
+| 5c | Chess pieces pageant, pick winner | DONE |
+| 5d | Businessman distributing papers to monitors | DONE |
+| 6 | Gaming monitor, paper in paper out | DONE |
+| 7 | Playing cards eating pizza 65/30/5 | DONE |
+| 8 | Laptop/server/globe on Olympic podium | DONE |
+| 9 | Businessman choosing lemonade stands | DONE |
+| 10a | Sofia submits job, big ? appears | DONE |
+| 10b | Jade sleeping, laptop earns coins (small ? → !) | DONE |
+| 10c | Marcus splits big ? into small ?'s | DONE |
+| 10c2 | Marcus combines small !'s into big ! | DONE |
+| 10d | Alex living the dream by pool | DONE |
+
+### REMAINING CLIPS (correct order — DO NOT change):
+| # | Scene | Description |
+|---|-------|-------------|
+| 1 | 11a | Sofia's reward — handshake with client at clean desk |
+| 2 | 11b | Jade's reward — pays at campus bookstore |
+| 3 | 11c | Marcus's reward — hands cash to roommate |
+| 4 | 11d | Alex's reward — yacht with girlfriend, champagne |
+| 5 | 12 | Call to action — monitor working out with dumbbells |
+| 6 | 13 | End card + cross-link |
+
+**NOTE:** No split-screen scenes (10e was removed). Reward scenes (11a-11d) each show the individual character's payoff. Do NOT add 10e back.
