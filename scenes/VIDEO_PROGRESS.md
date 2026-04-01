@@ -164,14 +164,14 @@ Lego animation, 3D rendered Lego style. A wooden door frame stands alone in a gr
 | 10d | Alex living the dream by pool | DONE |
 | 11a | Sofia's reward — handshake with client | DONE |
 | 11b | Jade's reward — pays at campus bookstore | DONE |
+| 11c | Marcus's reward — hands cash to roommate | DONE |
+| 11d | Alex's reward — yacht with girlfriend, champagne | DONE |
+| 12 | Call to action — monitor working out with dumbbells | DONE |
 
-### REMAINING CLIPS (correct order — DO NOT change):
-| # | Scene | Description | References to upload |
-|---|-------|-------------|---------------------|
-| 1 | 11c | Marcus's reward — hands cash to roommate | Marcus (53) + Marcus roommate (54) + Marcus home (74) |
-| 2 | 11d | Alex's reward — yacht with girlfriend, champagne | Alex (55) + Alex girlfriend (56) + Yacht (68) |
-| 3 | 12 | Call to action — monitor working out with dumbbells in dark bedroom | Monitor (49) + Dark bedroom (69) |
-| 4 | 13 | End card + cross-link | Text overlay in Premiere Pro |
+### REMAINING:
+| # | Scene | Description | Notes |
+|---|-------|-------------|-------|
+| 1 | 13 | End card + cross-link | Text overlay in Premiere Pro — no Kling clip needed |
 
 **NOTE:** No split-screen scenes (10e was removed). Reward scenes (11a-11d) each show the individual character's payoff. Do NOT add 10e back.
 
