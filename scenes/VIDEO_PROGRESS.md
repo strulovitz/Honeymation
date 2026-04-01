@@ -27,6 +27,7 @@ Cute Pixar 3D animated character — [description]. Full body visible from top o
 - **"70% of image height"** — enough detail without getting cut off (100% = head/feet cropped)
 - **"Lots of empty white space above and below"** — extra safety against cropping
 - NEVER skip these lines — without them, characters get cropped and look inconsistent
+- **CRITICAL:** Use this template EXACTLY as written. Do NOT change "70%" to any other number. Do NOT rephrase the lines. The exact wording is what makes OpenArt render consistent characters. When it was rephrased (e.g. "small in the frame, 60%"), it broke.
 
 ## Completed Clips
 
