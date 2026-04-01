@@ -7,7 +7,7 @@ Use this prompt when continuing work on Honeymation from any machine. Copy-paste
 ## Full Context Prompt (paste this to get any Claude Code instance up to speed)
 
 ```
-I'm Nir (strulovitz on GitHub). I'm working on Honeymation — an animated explainer video for my open-source distributed AI platform BeehiveOfAI (github.com/strulovitz/BeehiveOfAI).
+I'm Nir (strulovitz on GitHub). I'm working on Honeymation — animated explainer videos for my open-source distributed AI platform BeehiveOfAI (github.com/strulovitz/BeehiveOfAI).
 
 Please read these files from the Honeymation repo to get full context:
 1. scripts/video1_private_mode.md — the complete 12-scene script
@@ -38,31 +38,43 @@ KEY DECISIONS ALREADY MADE (do not revisit these):
 
 - TOOL: OpenArt AI (I have a subscription) for image and video generation (Kling, Seedance, Sora, Wan, LTX, Hailuo).
 
-CURRENT STATUS: The complete script and character designs are written. No visual assets have been generated yet.
+CURRENT STATUS (updated 2026-04-01):
+
+VIDEO 1 (Private Mode, Lego style): ALL DONE — 21 clips, all narration approved.
+
+VIDEO 2 (Public Mode, Pixar 3D style): IN PROGRESS
+- Script: COMPLETE (13 scenes in scripts/video2_narration.md)
+- Reference images: ALL DONE (characters 49-80, props 66a-81)
+- Video clips: 21 of 25 scenes DONE (Scenes 1-10d, 11a, 11b)
+- REMAINING (4 clips, in this exact order):
+  1. Scene 11c — Marcus's reward: hands cash to roommate
+     References: Marcus (53) + Marcus roommate (54) + Marcus home (74)
+  2. Scene 11d — Alex's reward: yacht with girlfriend, champagne
+     References: Alex (55) + Alex girlfriend (56) + Yacht (68)
+  3. Scene 12 — Call to action: monitor working out with dumbbells in dark bedroom
+     References: Monitor (49) + Dark bedroom (69)
+  4. Scene 13 — End card + cross-link (text overlay in Premiere Pro)
+
+AFTER all clips are done:
+- TTS narration via ElevenLabs
+- Assembly in Adobe Premiere Pro 2022
+- Text overlays for labels, percentages, etc.
 
 What I'd like to work on now: [TELL CLAUDE WHAT YOU WANT TO DO]
 ```
 
 ---
 
-## Quick Resume Prompts (for specific tasks)
+## Quick Resume Prompt — Continue Video 2 Clips
 
-### To start generating character images:
 ```
-Read the Honeymation repo (scripts/video1_private_mode.md and characters/character_designs.md). The script and designs are complete. I want to start generating character reference images using OpenArt AI. Help me craft the best prompts for each character, starting with the construction crew (Architect, Foreman, 3 Workers) since they appear in the most scenes. Remember: everything is Lego minifigure style, 3D rendered.
-```
+Read the Honeymation repo — especially scenes/VIDEO_PROGRESS.md and scripts/video2_narration.md. Video 2 is almost done. Read VIDEO_PROGRESS.md for the exact remaining clips and which reference images to use. Continue from where we left off. When I say "continue" after downloading a clip, save it to the repo, commit, push, and give me the next Kling prompt. Always check my Downloads for the latest file. Assume downloads are good unless I complain.
 
-### To start generating scene-by-scene clips:
-```
-Read the Honeymation repo (scripts/video1_private_mode.md and characters/character_designs.md). I have character reference images ready. Now I want to generate short video clips scene by scene using OpenArt AI. Help me craft video generation prompts for each scene, starting with Scene 1 (businessman dropping cash). Remember: everything is Lego animation style.
-```
-
-### To work on the ending scenes:
-```
-Read the Honeymation repo, especially Scenes 10-12 in scripts/video1_private_mode.md and the Alice/Bob character designs. I want to refine the ending scenes — the boardroom (Scene 10), the phone call (Scene 11), and the end card (Scene 12). These are the emotional payoff of the whole video.
-```
-
-### To refine the script or add narration timing:
-```
-Read scripts/video1_private_mode.md from the Honeymation repo. The 12-scene script is complete. I want to [add exact narration text / adjust timing / add transition details / write the voiceover script]. Help me refine it.
+IMPORTANT RULES:
+- Character prompt template (70%, white bg, full body) is ONLY for standalone character reference images
+- Scene/environment prompts should fill the frame with rich backgrounds, NO white background
+- Kling prompts: short, start+end state only, no story context Kling can't know, no timing words, no clothing descriptions
+- Say "identical" not "same" for duplicate objects
+- For foreground+background: use white-bg character as one ref, scene as another ref, specify foreground/background in prompt
+- Max 7 reference images per generation on OpenArt
 ```

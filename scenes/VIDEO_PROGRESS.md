@@ -162,15 +162,21 @@ Lego animation, 3D rendered Lego style. A wooden door frame stands alone in a gr
 | 10c | Marcus splits big ? into small ?'s | DONE |
 | 10c2 | Marcus combines small !'s into big ! | DONE |
 | 10d | Alex living the dream by pool | DONE |
+| 11a | Sofia's reward — handshake with client | DONE |
+| 11b | Jade's reward — pays at campus bookstore | DONE |
 
 ### REMAINING CLIPS (correct order — DO NOT change):
-| # | Scene | Description |
-|---|-------|-------------|
-| 1 | 11a | Sofia's reward — handshake with client at clean desk |
-| 2 | 11b | Jade's reward — pays at campus bookstore |
-| 3 | 11c | Marcus's reward — hands cash to roommate |
-| 4 | 11d | Alex's reward — yacht with girlfriend, champagne |
-| 5 | 12 | Call to action — monitor working out with dumbbells |
-| 6 | 13 | End card + cross-link |
+| # | Scene | Description | References to upload |
+|---|-------|-------------|---------------------|
+| 1 | 11c | Marcus's reward — hands cash to roommate | Marcus (53) + Marcus roommate (54) + Marcus home (74) |
+| 2 | 11d | Alex's reward — yacht with girlfriend, champagne | Alex (55) + Alex girlfriend (56) + Yacht (68) |
+| 3 | 12 | Call to action — monitor working out with dumbbells in dark bedroom | Monitor (49) + Dark bedroom (69) |
+| 4 | 13 | End card + cross-link | Text overlay in Premiere Pro |
 
 **NOTE:** No split-screen scenes (10e was removed). Reward scenes (11a-11d) each show the individual character's payoff. Do NOT add 10e back.
+
+### Kling Prompt Rules for Video 2 (Pixar style):
+- Do NOT mention story context that Kling can't know (e.g. "her laptop paid for these" — Kling will try to add a laptop)
+- Do NOT say "same" for two identical objects — say "identical" instead (prevents Kling thinking it's one object in two places)
+- For scenes with foreground character + background scene: upload white-background character as one reference and the scene as another reference, and specify "in the foreground" / "in the background" in the prompt
+- All other Video 1 Kling rules still apply (max 2 characters, short prompts, start+end state only, no timing words, no clothing descriptions)
