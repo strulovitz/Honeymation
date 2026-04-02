@@ -233,27 +233,26 @@ Well within the 30,000 char limit. Plenty of room for retakes.
 |-------|-----------|--------|
 | 1 | scene01_hook.mp3 | DONE |
 | 2 | scene02_opportunity.mp3 | DONE |
-| 3 | | TODO |
-| 4a | | TODO |
-| 4b | | TODO |
-| 4c | | TODO |
-| 5a | | TODO |
-| 5b | | TODO |
-| 5c | | TODO |
-| 5d | | TODO |
-| 6 | | TODO |
-| 7 | | TODO |
-| 8 | | TODO |
-| 9 | | TODO |
-| 10a | | TODO |
-| 10b | | TODO |
-| 10c | | TODO |
-| 10c2 | | TODO |
-| 10d | | TODO |
-| 11a | | TODO |
-| 11b | | TODO |
-| 11c | | TODO |
-| 11d | | TODO |
-| 12 | | TODO |
-| 13 | | TODO |
-| 13-crosslink | | TODO |
+| 3 | scene03_legal.mp3 | DONE |
+| 4a | scene04a_hardware_rental.mp3 | DONE |
+| 4b | scene04b_ai_agents.mp3 | DONE |
+| 4c | scene04c_good_way.mp3 | DONE |
+| 5a | scene05a_chess_problem.mp3 | DONE |
+| 5b | scene05b_chess_helpers.mp3 | DONE |
+| 5c | scene05c_chess_choose.mp3 | DONE |
+| 5d | scene05d_chess_business.mp3 | DONE |
+| 6 | scene06_easy_safe.mp3 | DONE |
+| 7 | scene07_money_flow.mp3 | DONE |
+| 8 | scene08_growth_path.mp3 | DONE |
+| 9 | scene09_trust_competition.mp3 | DONE |
+| 10a | scene10a_sofia.mp3 | DONE |
+| 10b | scene10b_jade.mp3 | DONE |
+| 10c | scene10c_marcus.mp3 | DONE |
+| 10c2 | scene10c2_marcus_combines.mp3 | DONE |
+| 10d | scene10d_alex.mp3 | DONE |
+| 11a | scene11a_sofia_reward.mp3 | DONE |
+| 11b | scene11b_jade_reward.mp3 | DONE |
+| 11c | scene11c_marcus_reward.mp3 | DONE |
+| 11d | scene11d_alex_reward.mp3 | DONE |
+| 12 | scene12_call_to_action.mp3 | DONE |
+| 13 | scene13_end_card.mp3 | DONE |
