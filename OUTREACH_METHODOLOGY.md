@@ -41,6 +41,7 @@ We have revolutionary technology: actual distributed parallel AI where each mach
 7. Do NOT hang on their literal every word or quote them back to themselves — understand the CONCEPT of what interests them and direct our arrow at that target
 8. The subject line alone must make them unable to NOT open the email
 9. **The subject line MUST contain a taste of the ACTUAL INVENTION** — give them a concrete glimpse of what's revolutionary about what we built. NEVER write a generic subject like "I have something for your site" or "there's a category missing" — that's what every spam email says. The reader must know from the subject line WHAT exciting new thing we have. Differentiate us! Show the meat, not the wrapper. If someone else could send the same subject line about their own project, it's not specific enough.
+10. **The subject line must signal NEW INVENTION** — use words like "a new way" or "a new kind of" so the reader immediately knows this is something that didn't exist before, not just another tool or another video. Without this signal, it sounds like every other email they get.
 
 ### PHASE 3: FIRST PARAGRAPH
 9. Must hook IMMEDIATELY with THEIR identity and mission — show deep understanding of what they do and connect it to something genuinely relevant
