@@ -82,6 +82,8 @@ When writing to reporters, correspondents, editors, and media people (NOT YouTub
 
 19g. **Do NOT focus on open source / GitHub** — reporters don't care about repos. Mention it briefly if at all. Focus on the IDEA, the INVENTION, the STORY.
 
+19h. **Always end with a link to the book** — before closing the letter, include a link to a friendly non-technical book that explains from a personal perspective how this project was made. This gives reporters the deeper story and background they need. The link is: https://github.com/strulovitz/TheDistributedAIRevolution/blob/main/README.md
+
 ---
 
 ## LANGUAGE RULES
