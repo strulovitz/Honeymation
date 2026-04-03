@@ -64,6 +64,24 @@ We have revolutionary technology: actual distributed parallel AI where each mach
 18c. **The subject line should hint at the exciting video content** — not just text claims. The reader should know there's a short exciting video waiting for them.
 18d. **Keep the letter shorter** — don't write a whole technical story when a video can show it better. Give enough to make them excited, then point them to the video. The letter's job is to get them to click play, not to explain everything in text.
 
+### PHASE 6: REPORTER / CORRESPONDENT / EDITOR SPECIFIC RULES
+
+When writing to reporters, correspondents, editors, and media people (NOT YouTubers):
+
+19a. **Present Nir as a YouTuber, NOT a developer** — "I'm a YouTuber who invented a new idea in AI" positions Nir as a person with a story. "Developer" makes them think "product pitch for free press" → delete. YouTuber = content creator = relatable, non-threatening, has visual content they can use.
+
+19b. **Say "invented" NOT "built"** — HUGE difference. "Built" sounds like code and Python. "Invented" sounds like a story worth covering. Reporters cover inventions, not GitHub repos. Say "invented a new idea in AI" — this positions it as an IDEA, a concept. That's what reporters write about.
+
+19c. **Say "audience" NOT "readers"** — covers TV, print, online, podcasts, all media formats.
+
+19d. **Describe the videos as "short Pixar/Lego style animated videos"** — this immediately tells a non-technical person the content is FUN, ACCESSIBLE, and VISUAL. It removes the fear of "oh no, I'll have to understand technical AI stuff." A reporter sees "Pixar/Lego animated" and thinks "oh I can actually watch this."
+
+19e. **Frame it as a STORY for their audience** — not a product, not a tool, not code. An invention. A new idea. Something their audience would find interesting.
+
+19f. **Do NOT say "fellow YouTuber"** — they are NOT YouTubers. Just say "I'm a YouTuber" to establish identity.
+
+19g. **Do NOT focus on open source / GitHub** — reporters don't care about repos. Mention it briefly if at all. Focus on the IDEA, the INVENTION, the STORY.
+
 ---
 
 ## LANGUAGE RULES
