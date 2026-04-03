@@ -71,17 +71,21 @@ We have revolutionary technology: actual distributed parallel AI where each mach
 
 21. **No generic greetings** — use their real name if 100% confirmed, their channel name if not. NEVER "Hey" or "Hi there" or "Hello" with no name — that screams copy-paste mass email and they will not read past it.
 
-22. **Never lie or exaggerate** — accuracy matters. Wrong video lengths, wrong claims, wrong attributions = instant credibility death.
+22. **Be polite and respectful — opening AND closing:**
+    - Opening: Start with a warm, respectful greeting — "Hi [Name]," or "Dear [Name]," — show them respect, don't just slap their name on a line by itself like a command
+    - Closing: End politely — "Thank you for your time," or "With appreciation," or "Best regards," followed by Nir. Do NOT just end with a bare "Nir" — that's cold and disrespectful. These are people we respect and admire, show it.
+
+23. **Never lie or exaggerate** — accuracy matters. Wrong video lengths, wrong claims, wrong attributions = instant credibility death.
 
 ---
 
 ## WHAT TO NEVER INCLUDE
 
-23. **Never include boring implementation details** — percentage splits (65/30/5), architecture minutiae, configuration details, technical specs. Nobody cares. Focus ONLY on what's revolutionary and never been done before.
+24. **Never include boring implementation details** — percentage splits (65/30/5), architecture minutiae, configuration details, technical specs. Nobody cares. Focus ONLY on what's revolutionary and never been done before.
 
-24. **Never make it sound like copy-paste** — every letter must be clearly handcrafted for this one person. Generic sections that could apply to anyone are forbidden.
+25. **Never make it sound like copy-paste** — every letter must be clearly handcrafted for this one person. Generic sections that could apply to anyone are forbidden.
 
-25. **Never quote their specific old content back at them literally** — they don't remember what they said months ago and it doesn't define their life. Understand their CONCEPT, their MINDSET, what drives them TODAY.
+26. **Never quote their specific old content back at them literally** — they don't remember what they said months ago and it doesn't define their life. Understand their CONCEPT, their MINDSET, what drives them TODAY.
 
 ---
 
