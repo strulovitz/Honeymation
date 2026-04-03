@@ -54,9 +54,14 @@ We have revolutionary technology: actual distributed parallel AI where each mach
 ### PHASE 5: TONE AND IDENTITY
 14. **We are offering THEM value** — a potential video topic, a story, an insight, ammunition for their channel. We are NOT begging for crumbs.
 15. **Confident tone throughout** — no pity, no begging, no "no need to reply," no "sorry to bother you," no self-deprecation, no downplaying what we built
-16. **We come as a fellow creator** — peer to peer, not fan to celebrity, not developer pitching a product
+16. **We come as a FELLOW YOUTUBER** — when writing to YouTubers, Nir is a fellow YouTuber, NOT a developer pitching a product. We tried the developer angle and it did not work. The tone is: "I'm a fellow creator, I made something super exciting, and I think this will really interest you."
 17. **Never kill the energy** — we have something genuinely revolutionary, the letter must match that energy
 18. **Never sound pitiful** — "I genuinely don't know if they're any good" is TERRIBLE. We KNOW they're good. We built something nobody else has.
+
+### PHASE 5.5: VIDEO-FIRST APPROACH
+18b. **YouTubers watch videos, they don't read essays** — mention the short friendly YouTube videos early and prominently, including in the subject line. A YouTuber will click a video link much faster than they'll read a wall of text. Let the video do the heavy lifting — hook them into watching it, and the video itself will catch them.
+18c. **The subject line should hint at the exciting video content** — not just text claims. The reader should know there's a short exciting video waiting for them.
+18d. **Keep the letter shorter** — don't write a whole technical story when a video can show it better. Give enough to make them excited, then point them to the video. The letter's job is to get them to click play, not to explain everything in text.
 
 ---
 
