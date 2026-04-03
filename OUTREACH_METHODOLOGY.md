@@ -85,7 +85,7 @@ When writing to reporters, correspondents, editors, and media people (NOT YouTub
 19h. **Always end with a link to the book** — before closing the letter, include a link to a friendly non-technical book that explains from a personal perspective how this project was made. This gives reporters the deeper story and background they need. The link is: https://github.com/strulovitz/TheDistributedAIRevolution/blob/main/README.md
 
 19i. **USE THIS EXACT SUBJECT LINE for ALL reporters/correspondents/editors (anyone whose work is writing text, not a technical coder):**
-Subject: I'm a YouTuber who invented a new approach to AI — instead of one all-powerful model, many small ones working in parallel — and I explained it in a short Pixar/Lego animated video
+Subject: I'm a YouTuber who invented a new approach to distributed AI — instead of one all-powerful model, many small ones working in parallel — and I explained it in a short Pixar/Lego animated video
 This subject line is PERFECT. Do NOT change it. Do NOT customize it per person. Use it EXACTLY as written for every non-technical media person.
 
 ---
