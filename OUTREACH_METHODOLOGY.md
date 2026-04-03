@@ -121,6 +121,7 @@ We have revolutionary technology: actual distributed parallel AI where each mach
 
 ## ALREADY CONTACTED — DO NOT WRITE TO THESE PEOPLE AGAIN
 
+### Before 2026-04-03
 1. Bijan Bowen
 2. Wes Roth
 3. Matthew Berman
@@ -131,7 +132,68 @@ We have revolutionary technology: actual distributed parallel AI where each mach
 8. Dylan Jorgensen
 9. Sabine Hossenfelder
 10. Neil deGrasse Tyson
-11. AI Explained
+
+### On 2026-04-03
+11. AI Explained (Philip) — hype-free AI journalism, skeptic/debunker angle
+12. Matt Wolfe — tool hunter, FutureTools.io, "Airbnb for computing power" angle
+13. Skill Leap AI (Saj Adib) — practical AI teacher for entrepreneurs, "no cloud fees" angle
+14. Two Minute Papers (Károly Zsolnai-Fehér) — research wonder, novel architecture angle
+15. Veritasium (Derek Muller) — misconception buster, "everyone assumes X but actually Y" angle
+16. 3Blue1Brown (Grant Sanderson) — visual elegance, "puzzle pieces + parallel artists" analogy
+17. Computerphile (Sean Riley / Brady Haran) — academic CS, "third type of parallelism" angle, emailed numberphile@gmail.com + Instagram DM to Brady
+18. Rob Miles AI (Robert Miles) — AI safety, "many small controllable LLMs instead of one all-powerful god" angle
+19. NetworkChuck (Chuck Keith) — letter WRITTEN but NOT YET SENT (ran out of daily email lookups)
+
+---
+
+## STILL TO CONTACT — NEXT SESSION
+
+### Priority (large audiences, strong fit):
+1. **NetworkChuck (Chuck Keith)** — 2.8M subs. Letter already written. Hands-on homelab builder, "Run your own AI (but private)." Already built Mac Studio cluster with pipeline parallelism and hit the wall. Our approach is the one he hasn't tried. His audience would BUILD this themselves. SEND FIRST.
+2. **ColdFusion (Dagogo Altraide)** — 4.8M subs. Documentary-style tech breakthroughs. "New invention nobody has tried" is his format.
+3. **Fireship (Jeff Delaney)** — 3.5M subs. Fast-paced dev explainers. Developer audience would build on our open source code.
+
+### Secondary:
+4. **David Bombal** — 2.5M subs. Cybersecurity + networking + privacy. "Data can't leave the building" angle.
+5. **Yannic Kilcher** — 250K subs. AI research paper breakdowns. Architectural novelty angle.
+6. **bycloud** — 185K subs. AI research + open source tutorials. Would want to clone repo and try it.
+7. **Sentdex (Harrison Kinsley)** — 1.3M subs. Python AI coding tutorials. Hands-on, would set it up live.
+
+### Lower priority (less direct fit):
+8. **Tina Huang** — data science, accessibility focus
+9. **Alex Finn** — no-code AI apps, tutorials
+
+---
+
+## WHAT MAKES A GREAT LETTER — LESSONS FROM 2026-04-03
+
+### Letters that were rated PERFECT by Nir:
+- **Veritasium** — because the MISCONCEPTION framing mapped perfectly to Derek's core method. Every line spoke to how HIS mind works. The structure (misconception → why it fails → counter-intuitive truth) mirrored his own video format.
+- **Rob Miles** — because we pitched the SAFETY PHILOSOPHY angle (many small controllable LLMs instead of one all-powerful god AI) rather than just data privacy features.
+- **Computerphile** — because we used proper CS terminology (model parallelism, pipeline parallelism, task-level parallelism) and framed it as a whiteboard topic for Dr. Mike Pound.
+
+### Common mistakes that got corrected:
+- Starting with "Hey" with no name (copy-paste energy)
+- Being pitiful/begging ("I genuinely don't know if they're any good")
+- Subject lines that are generic ("I have something for your site")
+- Subject lines that don't show the ACTUAL INVENTION
+- Subject lines that don't signal NEW ("a new way", "a new kind of")
+- Using jargon without simple human explanation
+- Including boring details (percentage splits, architecture specs)
+- Saying "manager" without clarifying it's an AI, not a human
+- Wrong video lengths (said "2 minutes" when videos are 3 and 6 minutes)
+- Writing too long when a video can show it better
+- Quoting their literal past content instead of understanding their CONCEPT
+- Not being polite in greeting and closing
+- Not framing Nir as a fellow YouTuber (developer angle doesn't work)
+
+### The winning approach in every great letter:
+1. Understand what conceptually drives THIS person every single day
+2. Find the intersection: what WE have that THEY would find irresistible
+3. Subject line: taste of the actual new invention + why it matters TO THEM
+4. First paragraph: connect THEIR mission to what we're bringing
+5. Body: explain simply, let videos do heavy lifting, every line must WOW
+6. Close: frame it as THEIR opportunity (video topic, story, content for their audience)
 
 ---
 
@@ -141,3 +203,4 @@ We have revolutionary technology: actual distributed parallel AI where each mach
 - Every person on the list is precious. Make the most of each one.
 - If the letter wouldn't make YOU want to click and read, it's not good enough.
 - Think hard and long before writing. Do not be lazy. Every word matters.
+- YouTube only allows ~10 email lookups per day. Plan accordingly.
