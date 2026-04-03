@@ -157,8 +157,8 @@ This subject line is PERFECT. Do NOT change it. Do NOT customize it per person. 
 9. Sabine Hossenfelder
 10. Neil deGrasse Tyson
 
-### On 2026-04-03
-11. AI Explained (Philip) — hype-free AI journalism, skeptic/debunker angle
+### YouTubers — On 2026-04-03
+11. AI Explained — hype-free AI journalism, skeptic/debunker angle
 12. Matt Wolfe — tool hunter, FutureTools.io, "Airbnb for computing power" angle
 13. Skill Leap AI (Saj Adib) — practical AI teacher for entrepreneurs, "no cloud fees" angle
 14. Two Minute Papers (Károly Zsolnai-Fehér) — research wonder, novel architecture angle
@@ -166,26 +166,107 @@ This subject line is PERFECT. Do NOT change it. Do NOT customize it per person. 
 16. 3Blue1Brown (Grant Sanderson) — visual elegance, "puzzle pieces + parallel artists" analogy
 17. Computerphile (Sean Riley / Brady Haran) — academic CS, "third type of parallelism" angle, emailed numberphile@gmail.com + Instagram DM to Brady
 18. Rob Miles AI (Robert Miles) — AI safety, "many small controllable LLMs instead of one all-powerful god" angle
-19. NetworkChuck (Chuck Keith) — letter WRITTEN but NOT YET SENT (ran out of daily email lookups)
+19. NetworkChuck (Chuck Keith) — letter WRITTEN but NOT YET SENT (ran out of daily YouTube email lookups)
+
+### Reporters/Editors — On 2026-04-03
+20. Cade Metz (NYT) — cade.metz@nytimes.com — "Genius Makers" author, mavericks angle
+21. Hadas Gold (CNN) — hadas.gold@cnn.com — CNN AI correspondent, Israeli-born, global AI race angle
+22. Tiernan Ray (The Technology Letter / ZDNet) — tiernan@thetechnologyletter.com — tried local AI and found it "brutal," our system fixes that
+23. Rachel Metz (Bloomberg) — rmetz17@bloomberg.net — 7 years covering AI, "harder than expected" angle
+24. Madhumita Murgia (Financial Times) — madhumita.murgia@ft.com — "Code Dependent" author, "power must be decentralised" thesis
+25. Laurens Verhagen (de Volkskrant) — laurens.verhagen@volkskrant.nl — called Sam Altman "wolf in sheep's clothing," European data sovereignty angle
+26. Shirin Ghaffary (Bloomberg) — sghaffary@bloomberg.net — Q&AI newsletter, FTC "critical inputs controlled by few companies" angle
+27. Jeremy Kahn (Fortune) — jeremy.kahn@fortune.com — "Mastering AI" author, "Eye on AI" newsletter, winner-take-all markets angle
+28. Murad Hemmadi (The Logic) — murad.hemmadi@thelogic.co — Canadian AI sovereignty, "own AI so nobody can turn it off" angle
+29. Jordan Novet (CNBC) — jordan.novet@versantmedia.com — $80B Microsoft spend, $700B industry spend, "what if you don't need any of it" angle
+30. Thomas Claburn (The Register) — tclaburn@sitpub.com — AI privacy/ethics, "nothing to harvest because nothing goes anywhere" angle
+31. Nilay Patel (The Verge) — nilay@theverge.com — "Google Zero," platform capture, "removes the platform entirely" angle
+32. Mauro Orru (WSJ) — mauro.orru@wsj.com — EU AI gigafactories, Jensen Huang, "sovereignty without billions" angle
+33. Gerrit De Vynck (Washington Post) — gerrit.devynck@washpost.com — "intimate access to your data," CUSTOM letter: less autonomous not more, text-in text-out workers
+34. Kevin Schaul (Washington Post) — kevin.schaul@washpost.com — coder-journalist, data visualization, "since you actually read code" angle
+35. Shira Ovide (Washington Post) — shira.ovide@washpost.com — "maybe zilch" economic impact, AI spending causing shortages angle
+36. Geoffrey Fowler (Washington Post) — geoffrey.fowler@washpost.com — AI privacy settings columnist, CUSTOM letter: less autonomous not more, text-in text-out workers
+37. Kashmir Hill (NYT) — kashmir.hill@nytimes.com — "Your Face Belongs to Us," CUSTOM letter: medical records/client files leak during AI use
+38. Kevin Roose (NYT) — Kevin.Roose@nytimes.com — "Futureproof" author, writing AGI race book, "stepped off the racetrack" angle
+39. TechCrunch tips — tips@techcrunch.com — TECHNICAL letter with proper explanation of multi-agent vs pipeline parallelism vs our task-level parallelism
+40. Zoë Schiffer (WIRED) — zoe_schiffer@wired.com — "Extremely Hardcore" author, corporate power + labor angle
+41. Louise Matsakis (WIRED) — louise_matsakis@wired.com — US-China AI divide, CUSTOM letter: our invention tips scales toward China (best small models)
+42. Michael Calore (WIRED) — mike@wired.com — consumer tech, "BitTorrent for AI," idle computers earn money angle
 
 ---
 
-## STILL TO CONTACT — NEXT SESSION
+## STILL TO CONTACT — NEXT SESSION (2026-04-04)
 
-### Priority (large audiences, strong fit):
-1. **NetworkChuck (Chuck Keith)** — 2.8M subs. Letter already written. Hands-on homelab builder, "Run your own AI (but private)." Already built Mac Studio cluster with pipeline parallelism and hit the wall. Our approach is the one he hasn't tried. His audience would BUILD this themselves. SEND FIRST.
-2. **ColdFusion (Dagogo Altraide)** — 4.8M subs. Documentary-style tech breakthroughs. "New invention nobody has tried" is his format.
-3. **Fireship (Jeff Delaney)** — 3.5M subs. Fast-paced dev explainers. Developer audience would build on our open source code.
+### YouTubers — SEND FIRST (ran out of YouTube email lookups on 04-03):
+1. **NetworkChuck (Chuck Keith)** — 2.8M subs. Letter ALREADY WRITTEN in conversation. Hands-on homelab builder. SEND FIRST — just need his email.
+2. **ColdFusion (Dagogo Altraide)** — 4.8M subs. Documentary-style tech breakthroughs.
+3. **Fireship (Jeff Delaney)** — 3.5M subs. Fast-paced dev explainers. Developer audience.
+4. **David Bombal** — 2.5M subs. Cybersecurity + networking + privacy.
+5. **Yannic Kilcher** — 250K subs. AI research paper breakdowns.
+6. **bycloud** — 185K subs. AI research + open source tutorials.
+7. **Sentdex (Harrison Kinsley)** — 1.3M subs. Python AI coding tutorials.
+8. **Tina Huang** — data science, accessibility focus.
+9. **Alex Finn** — no-code AI apps, tutorials.
 
-### Secondary:
-4. **David Bombal** — 2.5M subs. Cybersecurity + networking + privacy. "Data can't leave the building" angle.
-5. **Yannic Kilcher** — 250K subs. AI research paper breakdowns. Architectural novelty angle.
-6. **bycloud** — 185K subs. AI research + open source tutorials. Would want to clone repo and try it.
-7. **Sentdex (Harrison Kinsley)** — 1.3M subs. Python AI coding tutorials. Hands-on, would set it up live.
+### Reporters/Editors — TO DO on 2026-04-04:
+10. **Zoe Kleinman** — hello@zoekleinman.com
+11. **Charlie (The Atlantic)** — charlie@theatlantic.com
+12. **Clare Duffy (CNN)** — clare.duffy@cnn.com
+13. **Seth Fiegerman (Bloomberg)** — sfiegerman@bloomberg.net
+14. **Samantha Kelly (Bloomberg)** — SKelly389@bloomberg.net
 
-### Lower priority (less direct fit):
-8. **Tina Huang** — data science, accessibility focus
-9. **Alex Finn** — no-code AI apps, tutorials
+---
+
+## LETTER TEMPLATES — YouTubers vs Reporters
+
+### YOUTUBER LETTER TEMPLATE:
+
+**Subject line:** CUSTOM per person. Must contain: taste of the actual invention + "a new way/new kind of" + what matters to THIS specific YouTuber. Include mention of short video. Each YouTuber gets a unique subject line tailored to their interests.
+
+**Body structure:**
+1. "Hi [Name]," — polite greeting
+2. "I'm a fellow YouTuber and I've been working on something that I think [connects to what THEY specifically care about]"
+3. Explain what's wrong with current approaches (in simple terms tailored to their level — more technical for CS channels, more conceptual for popular science)
+4. Explain our invention clearly — stronger local LLM as automated manager, independent tasks, each machine its own complete LLM, true parallel execution
+5. Two modes with video links:
+   - Private Mode: https://www.youtube.com/watch?v=o8R58VuJFx8 (3 min)
+   - Public Mode: https://www.youtube.com/watch?v=PTnAqZCAClw (6 min)
+6. Open source link: https://github.com/strulovitz
+7. Frame it as THEIR opportunity — video topic, content for their audience
+8. Polite closing: "With appreciation, Nir" or "Thank you for your time, Nir"
+
+**Key rules:** Say "fellow YouTuber." Subject line is CUSTOM per person. Lead with the invention from the first paragraph — never start with boring setup that sounds like "install a local LLM." Open source link is important for technical audiences.
+
+---
+
+### REPORTER/EDITOR LETTER TEMPLATE:
+
+**Subject line:** FIXED — same for ALL reporters/editors/correspondents:
+"I'm a YouTuber who invented a new approach to distributed AI — instead of one all-powerful model, many small ones working in parallel — and I explained it in a short Pixar/Lego animated video"
+
+**Body structure:**
+1. "Hi [Name]," — polite greeting
+2. "I'm a YouTuber who recently invented a new idea in AI, and I think [it connects to / your audience would find interesting] — especially given [what THEY specifically cover]"
+3. Connect to THEIR recent reporting or thesis (1-2 sentences showing we read their work)
+4. "The AI industry is [doing X]. I went in the opposite direction."
+5. Explain our invention — many small independent AI models, each on its own ordinary computer, stronger AI coordinates them, no cloud, no data leaving the building
+6. Two modes:
+   - Private Mode description + link (3 min)
+   - Public Mode description + link (6 min)
+7. "I made two short Pixar/Lego style animated videos to explain how it works — no technical jargon, just the idea"
+8. Frame it as a STORY for their audience — connect back to their beat
+9. Book link: "I also wrote a short, non-technical book that tells the personal story behind how this project was made — if you'd like the deeper background: https://github.com/strulovitz/TheDistributedAIRevolution/blob/main/README.md"
+10. "With appreciation, Nir Strulovitz" (full name for reporters)
+
+**Key rules:** Say "I'm a YouTuber" (NOT "fellow YouTuber"). Say "invented" (NOT "built"). Say "audience" (NOT "readers"). Describe videos as "Pixar/Lego style." Always include book link. Do NOT focus on open source/GitHub (reporters don't care). Sign with FULL NAME (Nir Strulovitz).
+
+---
+
+### SPECIAL CASES — when to deviate from templates:
+- **Privacy-focused reporters** (Gerrit De Vynck, Geoffrey Fowler): Emphasize that our LLMs are LESS autonomous, not more. Simple text-in text-out workers. User chooses and trusts the manager. Only limited task answers leave the machine. Open source and transparent. NOT the same as the standard template.
+- **Medical/data leak focused** (Kashmir Hill): Lead with hospitals uploading patient records to cloud AI, law firms uploading client files. Our system keeps all of that inside the building.
+- **China-focused** (Louise Matsakis): Lead with how China dominates small/medium LLMs (Qwen, DeepSeek, GLM-5) because chip restrictions forced innovation. Our invention tips scales toward China because distributed AI favors small efficient models.
+- **Technical audiences** (TechCrunch, Computerphile): Use proper CS terminology. Explain multi-agent (shared CPU, sequential execution), pipeline parallelism (Petals, Exo — layers split across machines, relay race, slowest machine bottleneck), and our task-level parallelism clearly and ACCURATELY.
 
 ---
 
@@ -195,6 +276,13 @@ This subject line is PERFECT. Do NOT change it. Do NOT customize it per person. 
 - **Veritasium** — because the MISCONCEPTION framing mapped perfectly to Derek's core method. Every line spoke to how HIS mind works. The structure (misconception → why it fails → counter-intuitive truth) mirrored his own video format.
 - **Rob Miles** — because we pitched the SAFETY PHILOSOPHY angle (many small controllable LLMs instead of one all-powerful god AI) rather than just data privacy features.
 - **Computerphile** — because we used proper CS terminology (model parallelism, pipeline parallelism, task-level parallelism) and framed it as a whiteboard topic for Dr. Mike Pound.
+
+### Additional lessons from reporter letters (2026-04-03 evening):
+- **Cade Metz** was the first perfect reporter letter — the "mavericks going in the opposite direction" framing
+- **Madhumita Murgia** was the best match — her book thesis IS our architecture ("power must be decentralised")
+- **Louise Matsakis** needed a COMPLETELY different angle — not "nobody needs infrastructure" but "China wins because they make the best small models and our invention makes small models the winning strategy"
+- **For consumer-focused reporters** (Michael Calore): lead with the INVENTION from sentence one, never start with boring "install a local LLM" setup. Use "BitTorrent for AI" and "disciplined army vs anarchy of agents" framings.
+- **For privacy reporters who cover AI agents** (Gerrit, Geoffrey): our LLMs are the OPPOSITE of agents — basic text-in text-out, user chooses the manager, only limited task answers leave the machine, open source transparent software, NOT a company that sells your data or trains on it
 
 ### Common mistakes that got corrected:
 - Starting with "Hey" with no name (copy-paste energy)
