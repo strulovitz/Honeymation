@@ -84,9 +84,15 @@ When writing to reporters, correspondents, editors, and media people (NOT YouTub
 
 19h. **Always end with a link to the book** — before closing the letter, include a link to a friendly non-technical book that explains from a personal perspective how this project was made. This gives reporters the deeper story and background they need. The link is: https://github.com/strulovitz/TheDistributedAIRevolution/blob/main/README.md
 
-19i. **USE THIS EXACT SUBJECT LINE for ALL reporters/correspondents/editors (anyone whose work is writing text, not a technical coder):**
-Subject: I'm a YouTuber who invented a new approach to distributed AI — instead of one all-powerful model, many small ones working in parallel — and I explained it in a short Pixar/Lego animated video
-This subject line is PERFECT. Do NOT change it. Do NOT customize it per person. Use it EXACTLY as written for every non-technical media person.
+19i. **USE THESE TWO FIXED SUBJECT LINES for ALL reporters/correspondents/editors (anyone whose work is writing text, not a technical coder) — ALTERNATE between them, 50/50:**
+
+**Subject Line A (Nir's):**
+Subject: I invented something new: like BitTorrent/Bitcoin - but for AI! When the 1st car was invented, people preferred a faster horse; Don't bet on a horse!
+
+**Subject Line B (Claude's):**
+Subject: I invented the BitTorrent of AI — instead of one giant model, hundreds of small ones working in parallel — and made a short animated video explaining it
+
+**RULE:** Alternate strictly — first reporter gets A, second gets B, third gets A, fourth gets B, and so on. Track which subject line was used for each person. Do NOT customize these per person. Use them EXACTLY as written.
 
 ---
 
@@ -241,8 +247,9 @@ This subject line is PERFECT. Do NOT change it. Do NOT customize it per person. 
 
 ### REPORTER/EDITOR LETTER TEMPLATE:
 
-**Subject line:** FIXED — same for ALL reporters/editors/correspondents:
-"I'm a YouTuber who invented a new approach to distributed AI — instead of one all-powerful model, many small ones working in parallel — and I explained it in a short Pixar/Lego animated video"
+**Subject line:** FIXED — ALTERNATE between these two for ALL reporters/editors/correspondents (A, B, A, B...):
+- **A (Nir's):** "I invented something new: like BitTorrent/Bitcoin - but for AI! When the 1st car was invented, people preferred a faster horse; Don't bet on a horse!"
+- **B (Claude's):** "I invented the BitTorrent of AI — instead of one giant model, hundreds of small ones working in parallel — and made a short animated video explaining it"
 
 **Body structure:**
 1. "Hi [Name]," — polite greeting
