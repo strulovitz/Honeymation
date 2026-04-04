@@ -34,14 +34,19 @@ We have revolutionary technology: actual distributed parallel AI where each mach
 2. Build a personality profile IN THE CONVERSATION ONLY — understand what conceptually drives them, how their mind works, what they care about every single day
 3. **NEVER save personal profiles, research, or letters about real people to GitHub** — this is conversation-only work. Saving psychological profiles of real people to a public repo looks creepy and manipulative. We only contact each person once.
 
-### PHASE 2: SUBJECT LINE
-4. The subject line must be IRRESISTIBLE for THIS SPECIFIC person
-5. Find the intersection: where what WE can give meets what THEY want to get — and put THAT in the subject
-6. Speak to their DAILY mindset and core identity — what they think about every day, not some specific thing they said once months ago
-7. Do NOT hang on their literal every word or quote them back to themselves — understand the CONCEPT of what interests them and direct our arrow at that target
-8. The subject line alone must make them unable to NOT open the email
-9. **The subject line MUST contain a taste of the ACTUAL INVENTION** — give them a concrete glimpse of what's revolutionary about what we built. NEVER write a generic subject like "I have something for your site" or "there's a category missing" — that's what every spam email says. The reader must know from the subject line WHAT exciting new thing we have. Differentiate us! Show the meat, not the wrapper. If someone else could send the same subject line about their own project, it's not specific enough.
-10. **The subject line must signal NEW INVENTION** — use words like "a new way" or "a new kind of" so the reader immediately knows this is something that didn't exist before, not just another tool or another video. Without this signal, it sounds like every other email they get.
+### PHASE 2: SUBJECT LINE — FIXED ALTERNATING FOR EVERYONE (YouTubers + Reporters + Everyone)
+
+**Custom subject lines did NOT work.** Out of ~20 YouTubers with custom subject lines, only 2 replied (Fahd Mirza and AI Revolution) and both only wanted ~$5000 for a sponsored segment — zero genuine interest in the invention. Custom subjects are dead.
+
+**USE THESE TWO FIXED SUBJECT LINES FOR ALL OUTREACH — alternate A, B, A, B strictly:**
+
+**Subject Line A (Nir's):**
+Subject: I invented something new: like BitTorrent/Bitcoin - but for AI! When the 1st car was invented, people preferred a faster horse; Don't bet on a horse!
+
+**Subject Line B (Claude's):**
+Subject: I invented the BitTorrent of AI — instead of one giant model, hundreds of small ones working in parallel — and made a short animated video explaining it
+
+**RULE:** First person gets A, second gets B, third gets A, and so on. Track which was used. Do NOT customize. Do NOT deviate. Use EXACTLY as written.
 
 ### PHASE 3: FIRST PARAGRAPH
 9. Must hook IMMEDIATELY with THEIR identity and mission — show deep understanding of what they do and connect it to something genuinely relevant
@@ -84,15 +89,7 @@ When writing to reporters, correspondents, editors, and media people (NOT YouTub
 
 19h. **Always end with a link to the book** — before closing the letter, include a link to a friendly non-technical book that explains from a personal perspective how this project was made. This gives reporters the deeper story and background they need. The link is: https://github.com/strulovitz/TheDistributedAIRevolution/blob/main/README.md
 
-19i. **USE THESE TWO FIXED SUBJECT LINES for ALL reporters/correspondents/editors (anyone whose work is writing text, not a technical coder) — ALTERNATE between them, 50/50:**
-
-**Subject Line A (Nir's):**
-Subject: I invented something new: like BitTorrent/Bitcoin - but for AI! When the 1st car was invented, people preferred a faster horse; Don't bet on a horse!
-
-**Subject Line B (Claude's):**
-Subject: I invented the BitTorrent of AI — instead of one giant model, hundreds of small ones working in parallel — and made a short animated video explaining it
-
-**RULE:** Alternate strictly — first reporter gets A, second gets B, third gets A, fourth gets B, and so on. Track which subject line was used for each person. Do NOT customize these per person. Use them EXACTLY as written.
+19i. **Subject lines for reporters:** Use the same FIXED ALTERNATING subject lines as everyone else — see PHASE 2 above. The alternating A/B rule applies to ALL outreach (YouTubers, reporters, editors, everyone).
 
 ---
 
@@ -227,7 +224,7 @@ Subject: I invented the BitTorrent of AI — instead of one giant model, hundred
 
 ### YOUTUBER LETTER TEMPLATE:
 
-**Subject line:** CUSTOM per person. Must contain: taste of the actual invention + "a new way/new kind of" + what matters to THIS specific YouTuber. Include mention of short video. Each YouTuber gets a unique subject line tailored to their interests.
+**Subject line:** FIXED — ALTERNATE between the two fixed subject lines (A, B, A, B...) same as reporters. See PHASE 2 above. Custom subject lines are DEAD — they did not work.
 
 **Body structure:**
 1. "Hi [Name]," — polite greeting
@@ -241,15 +238,13 @@ Subject: I invented the BitTorrent of AI — instead of one giant model, hundred
 7. Frame it as THEIR opportunity — video topic, content for their audience
 8. Polite closing: "With appreciation, Nir" or "Thank you for your time, Nir"
 
-**Key rules:** Say "fellow YouTuber." Subject line is CUSTOM per person. Lead with the invention from the first paragraph — never start with boring setup that sounds like "install a local LLM." Open source link is important for technical audiences.
+**Key rules:** Say "fellow YouTuber." Subject line is FIXED ALTERNATING (see Phase 2). Lead with the invention from the first paragraph — never start with boring setup that sounds like "install a local LLM." Open source link is important for technical audiences.
 
 ---
 
 ### REPORTER/EDITOR LETTER TEMPLATE:
 
-**Subject line:** FIXED — ALTERNATE between these two for ALL reporters/editors/correspondents (A, B, A, B...):
-- **A (Nir's):** "I invented something new: like BitTorrent/Bitcoin - but for AI! When the 1st car was invented, people preferred a faster horse; Don't bet on a horse!"
-- **B (Claude's):** "I invented the BitTorrent of AI — instead of one giant model, hundreds of small ones working in parallel — and made a short animated video explaining it"
+**Subject line:** FIXED ALTERNATING — same A/B rotation as everyone else. See PHASE 2 above.
 
 **Body structure:**
 1. "Hi [Name]," — polite greeting
