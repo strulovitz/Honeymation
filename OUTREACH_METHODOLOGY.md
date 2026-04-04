@@ -293,7 +293,9 @@ These are NEW outreach channels beyond media. Ordered by PRIORITY — do them in
 ### PRIORITY 1: MILITARY / DEFENSE / INTELLIGENCE ORGANIZATIONS
 **Why:** They have the strictest data sovereignty requirements on Earth. They CANNOT send classified data to cloud AI. Our Private Mode — where nothing leaves the building — solves their #1 problem. Even if they build their own version, the buzz points back to us.
 
-**Target organizations:**
+**KEY INSIGHT:** The US military already has preferential access to OpenAI, Anthropic, Google through government contracts. The Pentagon is NOT our most important target. EVERY OTHER COUNTRY'S intelligence and military services are the real opportunity — because if they use American frontier AI, they are essentially sending their top secrets through American servers. Our Private Mode is their escape from American tech dependency. This is a SOVEREIGNTY argument, not just a privacy argument.
+
+**PHASE 1 — United States (contact first, but they are less likely to need us):**
 - US Army
 - US Air Force
 - US Navy
@@ -302,12 +304,82 @@ These are NEW outreach channels beyond media. Ordered by PRIORITY — do them in
 - NSA
 - DARPA (Defense Advanced Research Projects Agency — they fund exactly this kind of innovation)
 - US Cyber Command
-- UK GCHQ
-- UK Ministry of Defence
-- Israeli IDF / Unit 8200 / Israel National Cyber Directorate
-- NATO CCDCOE (Cooperative Cyber Defence Centre)
+- US Department of Homeland Security (DHS)
 
-**Action:** Write tailored letters to each. Find public contact points, innovation offices, technology scouting divisions. Many have public "submit your technology" portals.
+**PHASE 2 — These are the ACTUALLY IMPORTANT ones (no American big-tech privilege):**
+
+**United Kingdom:**
+- MI5 (Security Service — domestic intelligence)
+- MI6 / SIS (Secret Intelligence Service — foreign intelligence)
+- GCHQ (Government Communications Headquarters — signals intelligence)
+- UK Ministry of Defence (MoD)
+- DSTL (Defence Science and Technology Laboratory)
+- NCSC (National Cyber Security Centre)
+
+**France:**
+- DGSE (Direction Générale de la Sécurité Extérieure — foreign intelligence, like CIA)
+- DGSI (Direction Générale de la Sécurité Intérieure — domestic intelligence, like FBI)
+- DRM (Direction du Renseignement Militaire — military intelligence)
+- ANSSI (Agence Nationale de la Sécurité des Systèmes d'Information — cyber security)
+- French Ministry of the Armed Forces / DGA (Direction Générale de l'Armement)
+
+**Germany:**
+- BND (Bundesnachrichtendienst — foreign intelligence, like CIA)
+- BfV (Bundesamt für Verfassungsschutz — domestic intelligence, like FBI)
+- MAD (Militärischer Abschirmdienst — military counterintelligence)
+- BSI (Bundesamt für Sicherheit in der Informationstechnik — cyber security)
+- German Federal Ministry of Defence (BMVg)
+
+**Israel:**
+- Mossad (foreign intelligence)
+- Shin Bet / Shabak (domestic intelligence)
+- IDF Unit 8200 (signals intelligence)
+- Israel National Cyber Directorate (INCD)
+- MAFAT (Administration for the Development of Weapons and Technological Infrastructure)
+
+**Japan:**
+- Cabinet Intelligence and Research Office (CIRO — Japan's main intelligence agency)
+- Defense Intelligence Headquarters (DIH)
+- National center of Incident readiness and Strategy for Cybersecurity (NISC)
+- Japan Ministry of Defense / ATLA (Acquisition, Technology & Logistics Agency)
+- National Police Agency (NPA)
+
+**South Korea:**
+- NIS (National Intelligence Service — like CIA)
+- DIA (Defense Intelligence Agency equivalent)
+- Korea Internet & Security Agency (KISA)
+- Ministry of National Defense
+- ADD (Agency for Defense Development)
+
+**Australia:**
+- ASIS (Australian Secret Intelligence Service — foreign intelligence, like MI6)
+- ASIO (Australian Security Intelligence Organisation — domestic, like MI5)
+- ASD (Australian Signals Directorate — signals intelligence, like NSA)
+- Australian Cyber Security Centre (ACSC)
+- Department of Defence / DST Group (Defence Science and Technology)
+
+**Canada:**
+- CSIS (Canadian Security Intelligence Service — like MI5/FBI)
+- CSE (Communications Security Establishment — signals intelligence, like NSA)
+- Canadian Centre for Cyber Security (CCCS)
+- Department of National Defence (DND)
+- DRDC (Defence Research and Development Canada)
+
+**NATO & EU:**
+- NATO CCDCOE (Cooperative Cyber Defence Centre of Excellence)
+- NATO Communications and Information Agency (NCIA)
+- EU ENISA (European Union Agency for Cybersecurity)
+- Europol (European Cybercrime Centre)
+
+**China (separate approach — may need Mandarin translation):**
+- Ministry of State Security (MSS)
+- PLA Strategic Support Force (信息支援部队)
+- CNITSEC (China Information Technology Security Evaluation Center)
+- Note: China already has strong domestic AI (DeepSeek, Qwen, GLM) but our distributed architecture could interest their military for different reasons — decentralization = harder to attack/disable
+
+**The pitch to ALL non-US countries:** "Every time your intelligence services use American cloud AI, your classified data flows through American servers controlled by American companies with American government contracts. Our open-source system runs entirely on YOUR hardware, inside YOUR buildings, under YOUR control. Nothing leaves your jurisdiction."
+
+**Action:** Research each country's innovation/technology scouting portals, defense procurement contacts, and cyber security agencies. Write tailored letters — the sovereignty angle is the core of every letter, customized with each country's specific concerns and recent news about their AI independence efforts.
 
 ### PRIORITY 2: HOSPITALS / HEALTHCARE ORGANIZATIONS
 **Why:** Hospitals handle the most sensitive data imaginable — patient records, diagnoses, treatment plans. They NEED AI but they CANNOT send patient data to the cloud (HIPAA in US, GDPR in Europe). Our Private Mode is a perfect fit. Offer to set up the system for FREE as a case study.
