@@ -217,10 +217,41 @@ When writing to reporters, correspondents, editors, and media people (NOT YouTub
 12. **Seth Fiegerman (Bloomberg, Managing Editor AI)** — sfiegerman@bloomberg.net — SENT. Subject Line B (Claude's). Trillion-dollar bubble + infrastructure cost angle.
 13. **Samantha Kelly (Bloomberg, Consumer Tech, Next Innovation podcast)** — SKelly389@bloomberg.net — SENT. Subject Line A (Nir's). "New use for your home PC" + earn money/save money angle.
 
-### TOTAL SENT ON 2026-04-04: 8 YouTubers + 5 Reporters = 13 people
+### US Defense/Intelligence agencies sent on 2026-04-04:
+14. **US Army** — multiple emails + contact form attempted (form broken for non-US)
+15. **US Air Force** — multiple emails + 1000-char form
+16. **US Navy (ONR)** — onrpublicaffairs@navy.mil + nssc_public_affairs@navy.mil
+17. **FBI** — npo@fbi.gov + public.affairs@fbi.gov
+18. **CIA** — publicaffairs@cia.gov + 2500-char contact form
+19. **NSA** — nsapao@nsa.gov
+20. **DARPA** — outreach@darpa.mil + 1973-char contact form
+21. **DHS** — MediaInquiry@hq.dhs.gov
+22. **CISA** — CISAMedia@cisa.dhs.gov + Contact@mail.cisa.dhs.gov
+23. **US Cyber Command** — 1000-char contact form
+
+### UK Defense/Intelligence agencies sent on 2026-04-04:
+24. **DSTL** — dstlpress@dstl.gov.uk (full letter)
+25. **UK Ministry of Defence** — newsdesk@mod.gov.uk (full letter)
+26. **GCHQ** — pressoffice@gchq.gsi.gov.uk (full letter)
+27. **MI5** — 1786-char contact form
+28. **MI6** — contact form at sis.gov.uk
+29. **NCSC** — contact form at ncsc.gov.uk
+
+### TOTAL SENT ON 2026-04-04: 8 YouTubers + 5 Reporters + 10 US agencies + 6 UK agencies = 29 contacts
 
 ### YouTuber letter saved for tomorrow (need email lookup):
 - **Louis Rossmann** — Letter COMPLETE, saved in local text file on Desktop. Subject Line B (Claude's). Right-to-repair → right-to-compute angle. Need YouTube email lookup.
+
+### TOMORROW (2026-04-05) PRIORITIES:
+1. Louis Rossmann — YouTube email lookup + send
+2. France agencies (DGSE, DGSI, ANSSI, DGA) — find emails, send non-US letter
+3. Germany agencies (BND, BfV, BSI, BMVg) — find emails, send non-US letter
+4. Japan agencies (CIRO, DIH, NISC, ATLA) — find emails, send non-US letter
+5. South Korea agencies (NIS, KISA, ADD) — find emails, send non-US letter
+6. Australia agencies (ASIS, ASIO, ASD) — find emails, send non-US letter
+7. Canada agencies (CSIS, CSE, CCCS, DRDC) — find emails, send non-US letter
+8. NATO + EU agencies — find emails, send non-US letter
+9. More YouTubers from new groups (Jeff Geerling, Rob Braxman, Chris Titus Tech)
 
 ---
 
@@ -339,12 +370,7 @@ These are NEW outreach channels beyond media. Ordered by PRIORITY — do them in
 - BSI (Bundesamt für Sicherheit in der Informationstechnik — cyber security)
 - German Federal Ministry of Defence (BMVg)
 
-**Israel:**
-- Mossad (foreign intelligence)
-- Shin Bet / Shabak (domestic intelligence)
-- IDF Unit 8200 (signals intelligence)
-- Israel National Cyber Directorate (INCD)
-- MAFAT (Administration for the Development of Weapons and Technological Infrastructure)
+**Israel:** SKIP — Nir is Israeli, they never listened in the past, and the country is in the middle of a war. Not worth the effort.
 
 **Japan:**
 - Cabinet Intelligence and Research Office (CIRO — Japan's main intelligence agency)
