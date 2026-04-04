@@ -210,12 +210,17 @@ When writing to reporters, correspondents, editors, and media people (NOT YouTub
 7. **Sentdex (Harrison Kinsley)** — SENT. Subject Line B (Claude's).
 8. **Tina Huang** — SENT. Subject Line A (Nir's).
 
-### Reporters/Editors — TO DO on 2026-04-04 (emails already known, no YouTube lookups needed):
-1. **Zoe Kleinman** — hello@zoekleinman.com
-2. **Charlie (The Atlantic)** — charlie@theatlantic.com
-3. **Clare Duffy (CNN)** — clare.duffy@cnn.com
-4. **Seth Fiegerman (Bloomberg)** — sfiegerman@bloomberg.net
-5. **Samantha Kelly (Bloomberg)** — SKelly389@bloomberg.net
+### Reporters/Editors sent on 2026-04-04 (Subject Line used noted):
+9. **Zoe Kleinman (BBC News, Technology Editor)** — hello@zoekleinman.com — SENT. Subject Line A (Nir's). BBC general public audience angle.
+10. **Charlie Warzel (The Atlantic, Galaxy Brain)** — charlie@theatlantic.com — SENT. Subject Line B (Claude's). Privacy Project + power dynamics angle.
+11. **Clare Duffy (CNN, Terms of Service podcast)** — clare.duffy@cnn.com — SENT. Subject Line A (Nir's). DeepSeek + consumer impact angle.
+12. **Seth Fiegerman (Bloomberg, Managing Editor AI)** — sfiegerman@bloomberg.net — SENT. Subject Line B (Claude's). Trillion-dollar bubble + infrastructure cost angle.
+13. **Samantha Kelly (Bloomberg, Consumer Tech, Next Innovation podcast)** — SKelly389@bloomberg.net — SENT. Subject Line A (Nir's). "New use for your home PC" + earn money/save money angle.
+
+### TOTAL SENT ON 2026-04-04: 8 YouTubers + 5 Reporters = 13 people
+
+### YouTuber letter saved for tomorrow (need email lookup):
+- **Louis Rossmann** — Letter COMPLETE, saved in local text file on Desktop. Subject Line B (Claude's). Right-to-repair → right-to-compute angle. Need YouTube email lookup.
 
 ---
 
