@@ -388,6 +388,52 @@ These are NEW outreach channels beyond media. Ordered by PRIORITY — do them in
 
 **The pitch to ALL non-US countries:** "Every time your intelligence services use American cloud AI, your classified data flows through American servers controlled by American companies with American government contracts. Our open-source system runs entirely on YOUR hardware, inside YOUR buildings, under YOUR control. Nothing leaves your jurisdiction."
 
+---
+
+### FULL LETTER — NON-US VERSION (for all countries except USA)
+
+Use this letter for UK, France, Germany, Israel, Japan, South Korea, Australia, Canada, NATO, EU, and all other non-US organisations. Send via email or paste into contact forms. For forms with character limits, ask Claude to make a shorter version.
+
+```
+Subject: Notification of a new disruptive technology in distributed AI — relevant to national security and data sovereignty
+
+Dear Sir or Madam,
+
+I am writing to notify you of a new invention in artificial intelligence that has direct implications for your national security and classified data protection.
+
+Currently, organisations that want to use advanced AI must send their data through servers controlled by American big tech companies — OpenAI, Google, and Anthropic. These are American corporations operating under American jurisdiction, with existing US government contracts. Every prompt, every document, every question that your personnel type into these AI systems flows through American corporate infrastructure. This means that any nation using these services is routing its sensitive data — knowingly or unknowingly — through foreign servers that are subject to foreign laws and foreign intelligence agreements.
+
+I have invented and built an open-source distributed AI system that eliminates this dependency entirely. The system allows any organisation to run powerful AI entirely on its own hardware, inside its own facilities, within its own borders, with zero data ever leaving the building.
+
+How it works: a stronger local AI model acts as an automated coordinator — it takes the user's prompt, breaks it into fully independent sub-tasks, and distributes each sub-task to a separate machine on the internal network. Each machine runs its own complete AI model and processes its sub-task independently. There is zero communication between worker machines. When all sub-tasks are complete, the coordinator combines the results into a single answer.
+
+This means a defence agency, an intelligence service, or any classified environment can use advanced AI capabilities — document analysis, translation, summarisation, planning, research, and coding — without any data passing through external servers, cloud infrastructure, or foreign companies. Nothing leaves your jurisdiction. Nothing touches foreign corporate infrastructure. The system runs on ordinary computers that your organisation already owns.
+
+I am sending this notification to defence and intelligence organisations across all friendly nations. Each country now has the ability to run advanced AI processing entirely within its own borders, on its own hardware, under its own control — without routing a single byte through foreign servers.
+
+The system is fully functional, open source, and available for inspection:
+
+Open source code: https://github.com/strulovitz
+
+Short animated video — Private Mode (how organisations run AI without data leaving their walls): https://www.youtube.com/watch?v=o8R58VuJFx8 (3 minutes and 8 seconds)
+
+Short animated video — Public Mode (distributed AI across many machines): https://www.youtube.com/watch?v=PTnAqZCAClw (6 minutes and 23 seconds)
+
+Both videos are also available on my Facebook page (Nir Strulovitz) in case of any access issues with YouTube.
+
+Non-technical book explaining the full concept and personal story: https://github.com/strulovitz/TheDistributedAIRevolution/blob/main/README.md
+
+I am actively seeking paid collaboration — as a consultant or external contractor based abroad — with any friendly country or organisation interested in developing improvements, adaptations, or new applications based on this architecture. I work remotely and am available immediately.
+
+Contact:
+- Email: nir.strulovitz@gmail.com
+- Mobile: +972-54-475-2626
+- GitHub: https://github.com/strulovitz
+
+Respectfully,
+Nir Strulovitz
+```
+
 **Action:** Find the general public contact email or open contact form for each organization. Write a NOTIFICATION letter (not an application). Send to all. The sovereignty angle is the core of every letter. NO portals, NO innovation programs, NO registration — simple emails and open forms ONLY.
 
 ### PRIORITY 2: HOSPITALS / HEALTHCARE ORGANIZATIONS
