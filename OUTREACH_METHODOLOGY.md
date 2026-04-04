@@ -198,25 +198,86 @@ When writing to reporters, correspondents, editors, and media people (NOT YouTub
 
 ---
 
-## STILL TO CONTACT — NEXT SESSION (2026-04-04)
+## SENT ON 2026-04-04
 
-### YouTubers — SEND FIRST (ran out of YouTube email lookups on 04-03):
-1. **NetworkChuck (Chuck Keith)** — 2.8M subs. Letter ALREADY WRITTEN in conversation. Hands-on homelab builder. SEND FIRST — just need his email.
-2. **ColdFusion (Dagogo Altraide)** — 4.8M subs. Documentary-style tech breakthroughs.
-3. **Fireship (Jeff Delaney)** — 3.5M subs. Fast-paced dev explainers. Developer audience.
-4. **David Bombal** — 2.5M subs. Cybersecurity + networking + privacy.
-5. **Yannic Kilcher** — 250K subs. AI research paper breakdowns.
-6. **bycloud** — 185K subs. AI research + open source tutorials.
-7. **Sentdex (Harrison Kinsley)** — 1.3M subs. Python AI coding tutorials.
-8. **Tina Huang** — data science, accessibility focus.
-9. **Alex Finn** — no-code AI apps, tutorials.
+### YouTubers sent on 2026-04-04 (Subject Line used noted):
+1. **NetworkChuck (Chuck Keith)** — chuck@networkchuck.com — SENT, got auto-reply from Mikayla Walker (exec assistant, out for Good Friday). Custom subject line (before A/B rule).
+2. **ColdFusion (Dagogo Altraide)** — SENT. Subject Line A (Nir's).
+3. **Fireship (Jeff Delaney)** — SENT. Subject Line B (Claude's).
+4. **David Bombal** — SENT. Subject Line A (Nir's).
+5. **Yannic Kilcher** — SENT. Subject Line B (Claude's).
+6. **bycloud (@bycloudai)** — SENT. Subject Line A (Nir's). NOTE: @ByCloud (59 subs) is WRONG channel. Correct handle is @bycloudai.
+7. **Sentdex (Harrison Kinsley)** — SENT. Subject Line B (Claude's).
+8. **Tina Huang** — SENT. Subject Line A (Nir's).
 
-### Reporters/Editors — TO DO on 2026-04-04:
-10. **Zoe Kleinman** — hello@zoekleinman.com
-11. **Charlie (The Atlantic)** — charlie@theatlantic.com
-12. **Clare Duffy (CNN)** — clare.duffy@cnn.com
-13. **Seth Fiegerman (Bloomberg)** — sfiegerman@bloomberg.net
-14. **Samantha Kelly (Bloomberg)** — SKelly389@bloomberg.net
+### Reporters/Editors — TO DO on 2026-04-04 (emails already known, no YouTube lookups needed):
+1. **Zoe Kleinman** — hello@zoekleinman.com
+2. **Charlie (The Atlantic)** — charlie@theatlantic.com
+3. **Clare Duffy (CNN)** — clare.duffy@cnn.com
+4. **Seth Fiegerman (Bloomberg)** — sfiegerman@bloomberg.net
+5. **Samantha Kelly (Bloomberg)** — SKelly389@bloomberg.net
+
+---
+
+## FULL YOUTUBER TARGET LIST — NEW GROUPS (compiled 2026-04-04)
+
+These are YouTubers beyond the typical "AI tech" category. Organized by GROUP so we can target different audiences. Each group has a specific ANGLE that makes our invention relevant to THEIR audience.
+
+**IMPORTANT:** Never contact Google-owned channels or anyone at Alphabet/Google. They have every incentive to suppress a system that says "you don't need our cloud." This includes Google DeepMind Blog, Google AI Blog, etc.
+
+### GROUP 1: PRIVACY / DIGITAL FREEDOM YouTubers
+**Angle:** "Nothing leaves the building" IS their entire worldview. Their audiences are paranoid about cloud AI sending data to corporations.
+
+1. **Rob Braxman** — ~500K subs. Calls himself "the internet privacy guy," warns about surveillance constantly.
+2. **Techlore** — ~300K subs. Privacy tools, alternatives to big tech.
+3. **The Hated One** — ~800K subs. Anti-surveillance, anti-big-tech documentaries.
+
+### GROUP 2: RIGHT TO REPAIR / ANTI-CORPORATE YouTubers
+**Angle:** "Use your own hardware, don't depend on corporations" is their religion. Our philosophy is their philosophy applied to AI.
+
+4. **Louis Rossmann** — ~2M subs. THE biggest anti-corporate, right-to-repair, pro-independence voice on YouTube. HATES tech monopolies. Sees distributed AI as the same fight he's been fighting for years. Reachable — reads his emails. TOP PRIORITY.
+
+### GROUP 3: HOMELAB / SELF-HOSTING YouTubers
+**Angle:** Their audiences literally have clusters of computers sitting at home doing nothing. They are the perfect Worker Bees.
+
+5. **Jeff Geerling** — ~1M subs. Raspberry Pi clusters, self-hosting, home servers. His audience has the EXACT hardware for this. TOP PRIORITY.
+6. **TechnoTim** — ~500K subs. Homelab builds, Docker, self-hosting everything.
+7. **Lawrence Systems** — ~300K subs. Networking, firewalls, self-hosted infrastructure.
+
+### GROUP 4: POPULAR SCIENCE YouTubers
+**Angle:** They cover paradigm shifts for general audiences. "BitTorrent but for AI" is the kind of concept they can visualize and explain. Long shot but massive payoff.
+
+8. **Kurzgesagt** — ~22M subs. Has done AI videos, loves visualizing complex systems. Plans content months ahead. Long shot but insane reach.
+9. **SmarterEveryDay (Destin Sandlin)** — ~10M subs. Covers engineering, curious about how things work, loves clever solutions.
+10. **Vsauce (Michael Stevens)** — ~20M subs. "What if" questions about distributed intelligence could fit his style.
+11. **Mark Rober** — ~50M subs. Engineering/entertainment. Biggest reach possible.
+12. **MinutePhysics** — ~6M subs. Short visual explainers, could work for a simple "here's a new idea" format.
+
+### GROUP 5: LINUX / FREE SOFTWARE YouTubers
+**Angle:** Open source is their identity. Their audiences run Linux, avoid proprietary software, and would LOVE an open-source distributed AI system.
+
+13. **Chris Titus Tech** — ~1.5M subs. Linux, open source, anti-Microsoft. TOP PRIORITY.
+14. **The Linux Experiment** — ~300K subs. Linux desktop, open source alternatives.
+15. **Brodie Robertson** — ~200K subs. Linux news and opinion.
+
+### GROUP 6: BUSINESS / DISRUPTION / ECONOMICS YouTubers
+**Angle:** "What if the $700 billion AI infrastructure spend is unnecessary?" The Airbnb-for-computing angle is a business model story.
+
+16. **Patrick Boyle** — ~1M subs. Finance/economics, covers tech disruption, very smart and dry.
+17. **Slidebean** — ~1M subs. Startup analysis, disruption stories, "company that changed everything" format.
+
+### GROUP 7: PODCAST HOSTS (massive reach)
+**Angle:** Deep long-form conversations. Having Nir as a guest would be enormous exposure.
+
+18. **Lex Fridman** — ~5M subs. Interviews AI researchers, deep conversations. Long shot but massive payoff.
+19. **Dwarkesh Patel** — ~500K subs. Deep technical interviews about AI, computing, civilization.
+
+### TOP 5 PRIORITIES FROM NEW GROUPS (best ROI):
+1. **Louis Rossmann** — perfect philosophical match, reachable, 2M audience that HATES big tech monopolies
+2. **Jeff Geerling** — his audience literally has clusters of small computers at home
+3. **Rob Braxman** — privacy-first audience, "nothing leaves the building" is his dream
+4. **Chris Titus Tech** — Linux/open source, 1.5M subs, anti-corporate
+5. **Lex Fridman** — long shot but massive payoff if he bites
 
 ---
 
