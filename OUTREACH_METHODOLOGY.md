@@ -286,6 +286,93 @@ These are YouTubers beyond the typical "AI tech" category. Organized by GROUP so
 
 ---
 
+## OUTREACH BEYOND YOUTUBERS AND REPORTERS (compiled 2026-04-04)
+
+These are NEW outreach channels beyond media. Ordered by PRIORITY — do them in this order.
+
+### PRIORITY 1: MILITARY / DEFENSE / INTELLIGENCE ORGANIZATIONS
+**Why:** They have the strictest data sovereignty requirements on Earth. They CANNOT send classified data to cloud AI. Our Private Mode — where nothing leaves the building — solves their #1 problem. Even if they build their own version, the buzz points back to us.
+
+**Target organizations:**
+- US Army
+- US Air Force
+- US Navy
+- FBI
+- CIA
+- NSA
+- DARPA (Defense Advanced Research Projects Agency — they fund exactly this kind of innovation)
+- US Cyber Command
+- UK GCHQ
+- UK Ministry of Defence
+- Israeli IDF / Unit 8200 / Israel National Cyber Directorate
+- NATO CCDCOE (Cooperative Cyber Defence Centre)
+
+**Action:** Write tailored letters to each. Find public contact points, innovation offices, technology scouting divisions. Many have public "submit your technology" portals.
+
+### PRIORITY 2: HOSPITALS / HEALTHCARE ORGANIZATIONS
+**Why:** Hospitals handle the most sensitive data imaginable — patient records, diagnoses, treatment plans. They NEED AI but they CANNOT send patient data to the cloud (HIPAA in US, GDPR in Europe). Our Private Mode is a perfect fit. Offer to set up the system for FREE as a case study.
+
+**Target:**
+- Major hospital systems (Mayo Clinic, Cleveland Clinic, Johns Hopkins, Mass General, NHS trusts in UK)
+- Hospital IT/innovation departments
+- Healthcare AI conferences
+- Medical privacy advocacy organizations
+- Health IT trade publications (Healthcare IT News, HIMSS)
+
+**Action:** Write letters offering FREE setup of Private Mode as a pilot/case study. The case study itself becomes a story reporters would cover.
+
+### PRIORITY 3: PRIVACY / ANTI-SURVEILLANCE COMMUNITIES
+**Why:** There are HUGE communities of people who deeply distrust government and corporate surveillance. They are not all technical, but they are passionate, organized, and they SHARE things with each other. They would see our system as exactly what they've been waiting for.
+
+**Target communities and leaders:**
+- EFF (Electronic Frontier Foundation) — eff.org
+- Privacy-focused subreddits: r/privacy (2M+ members), r/privacytoolsIO, r/degoogle, r/selfhosted
+- Signal community / privacy messenger communities
+- Tor Project community
+- Proton Mail / Proton community forums
+- Free Software Foundation (FSF)
+- Cypherpunk mailing lists
+- Libertarian tech communities
+- Infosec Twitter / privacy Twitter communities
+- Surveillance Self-Defense communities
+- "Digital rights" organizations in each country
+- Prepper/survivalist communities (they overlap heavily with anti-surveillance)
+
+**Action:** Find their forums, subreddits, Discord servers, mailing lists, and leaders. Write posts explaining our system in terms of what THEY care about: privacy, independence, no data harvested, open source, no corporate dependency.
+
+### PRIORITY 4: REDDIT BETA TESTERS + PUBLIC CHALLENGE
+**Why:** Our Reddit beta tester community can help us with two things: (1) a live demonstration showing the system working across multiple machines, and (2) a public challenge to OpenAI/Google — "my network of home computers vs. your cloud API."
+
+**Action:**
+- Write a Reddit post to beta testers asking for help with a coordinated live demo
+- Include the public challenge angle — even if OpenAI never responds, the CHALLENGE ITSELF is a headline
+- Film the demo, publish results, use it as proof in all future outreach
+
+### PRIORITY 5: TEDX TALKS / CONFERENCE SPEAKING / UNIVERSITY LECTURES
+**Why:** When YOU are the speaker on a stage, you're not a random person emailing — you're an expert who was invited. Lectures can be via video conference.
+
+**Target:**
+- TEDx events (every city has them, always looking for speakers with novel ideas)
+- AI/tech conferences: PyCon, Open Source Summit, FOSDEM, AI World, local AI meetups
+- University CS departments — partner with professors to use BeehiveOfAI as a teaching tool in distributed systems courses
+
+**Action:** Write pitch letters to TEDx organizers, conference program committees, and CS professors at universities worldwide.
+
+### PRIORITY 6: DISCORD COMMUNITIES + PRODUCT HUNT
+**Why:** Discord is where technical communities live NOW. Product Hunt is free and designed for exactly this — launching new products.
+
+**Target Discord servers:**
+- Ollama Discord
+- LM Studio Discord
+- LocalLLaMA Discord
+- Self-hosted Discord communities
+- Linux/FOSS Discord servers
+- AI-focused Discord servers
+
+**Product Hunt:** FREE to launch. Create a page with video, description, and let the community upvote. Product Hunt's audience is early adopters who actively WANT to find new things.
+
+---
+
 ## LETTER TEMPLATES — YouTubers vs Reporters
 
 ### YOUTUBER LETTER TEMPLATE:
