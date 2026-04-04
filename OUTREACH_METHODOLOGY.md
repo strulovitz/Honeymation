@@ -295,6 +295,15 @@ These are NEW outreach channels beyond media. Ordered by PRIORITY — do them in
 
 **KEY INSIGHT:** The US military already has preferential access to OpenAI, Anthropic, Google through government contracts. The Pentagon is NOT our most important target. EVERY OTHER COUNTRY'S intelligence and military services are the real opportunity — because if they use American frontier AI, they are essentially sending their top secrets through American servers. Our Private Mode is their escape from American tech dependency. This is a SOVEREIGNTY argument, not just a privacy argument.
 
+**APPROACH — CRITICAL RULES (do NOT deviate):**
+1. **We do NOT apply through innovation portals, SBIR programs, pitch competitions, or any "process."** We tried these 100 times. They never work. We are not begging for their help.
+2. **We ONLY use general public contact emails or completely open contact forms.** Like "the general email of the whole army." Nothing that requires registration, accounts, or multi-step processes.
+3. **The tone is NOTIFICATION, not APPLICATION.** We are notifying them of a new disruptive defense technology. We are not asking them to evaluate us or fund us.
+4. **The letter states clearly:** This notification is being sent to all friendly nations. Each country will now have the ability to keep its secrets protected from big tech (they will understand this means American big tech, and that a huge part of their data mining capability will be disrupted).
+5. **The letter offers collaboration:** Nir is looking to work in collaboration with anyone interested in developing new ideas and improvements on this system and similar inventions. (They will understand by themselves that they want him on THEIR payroll, not another country's.)
+6. **We do NOT beg, do NOT self-deprecate, do NOT ask for favors.** We come as an inventor notifying defense establishments of a disruptive technology. Period.
+7. **Contact method: simple general email addresses or open contact forms ONLY.** No portals, no registration, no processes.
+
 **PHASE 1 — United States (contact first, but they are less likely to need us):**
 - US Army
 - US Air Force
@@ -379,7 +388,7 @@ These are NEW outreach channels beyond media. Ordered by PRIORITY — do them in
 
 **The pitch to ALL non-US countries:** "Every time your intelligence services use American cloud AI, your classified data flows through American servers controlled by American companies with American government contracts. Our open-source system runs entirely on YOUR hardware, inside YOUR buildings, under YOUR control. Nothing leaves your jurisdiction."
 
-**Action:** Research each country's innovation/technology scouting portals, defense procurement contacts, and cyber security agencies. Write tailored letters — the sovereignty angle is the core of every letter, customized with each country's specific concerns and recent news about their AI independence efforts.
+**Action:** Find the general public contact email or open contact form for each organization. Write a NOTIFICATION letter (not an application). Send to all. The sovereignty angle is the core of every letter. NO portals, NO innovation programs, NO registration — simple emails and open forms ONLY.
 
 ### PRIORITY 2: HOSPITALS / HEALTHCARE ORGANIZATIONS
 **Why:** Hospitals handle the most sensitive data imaginable — patient records, diagnoses, treatment plans. They NEED AI but they CANNOT send patient data to the cloud (HIPAA in US, GDPR in Europe). Our Private Mode is a perfect fit. Offer to set up the system for FREE as a case study.
