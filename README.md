@@ -25,8 +25,12 @@ All videos are made in **Lego animation style** — everything is built from Leg
 ### Video 1: Private Mode — COMPLETE
 How organizations use BeehiveOfAI to run distributed AI entirely inside their building — no data ever leaves. Covers the anonymization illusion, the competitive landscape (CrewAI, Petals/Exo), and why BeehiveOfAI's approach is different. All 21 clips done (Lego style).
 
-### Video 2: Public Mode — IN PROGRESS
-How individuals earn money by contributing their home computer's processing power to the network. Pixar 3D style (not Lego). 4 characters: Sofia (customer), Jade (worker), Marcus (manager), Alex (platform). All reference images done. Video clips: 21 of 25 scenes done, 4 remaining (11c, 11d, 12, 13).
+### Video 2: Public Mode — COMPLETE
+How individuals earn money by contributing their home computer's processing power to the network. Pixar 3D style (not Lego). 4 characters: Sofia (customer), Jade (worker), Marcus (manager), Alex (platform). All clips done. Published on YouTube.
+
+### YouTube Links
+- **Private Mode (Organizations):** https://www.youtube.com/watch?v=o8R58VuJFx8 (3 min)
+- **Public Mode (Everyone):** https://www.youtube.com/watch?v=PTnAqZCAClw (6 min)
 
 ## Related Repositories
 

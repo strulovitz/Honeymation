@@ -168,12 +168,11 @@ Lego animation, 3D rendered Lego style. A wooden door frame stands alone in a gr
 | 11d | Alex's reward — yacht with girlfriend, champagne | DONE |
 | 12 | Call to action — monitor working out with dumbbells | DONE |
 
-### REMAINING:
-| # | Scene | Description | Notes |
-|---|-------|-------------|-------|
-| 1 | 13 | End card + cross-link | Text overlay in Premiere Pro — no Kling clip needed |
+### ALL CLIPS COMPLETE — BOTH VIDEOS PUBLISHED ON YOUTUBE
+- **Video 1 (Private Mode):** https://www.youtube.com/watch?v=o8R58VuJFx8 (3 min)
+- **Video 2 (Public Mode):** https://www.youtube.com/watch?v=PTnAqZCAClw (6 min)
 
-**NOTE:** No split-screen scenes (10e was removed). Reward scenes (11a-11d) each show the individual character's payoff. Do NOT add 10e back.
+Scene 13 (end card + cross-link) was done as text overlay in Premiere Pro.
 
 ### Kling Prompt Rules for Video 2 (Pixar style):
 - Do NOT mention story context that Kling can't know (e.g. "her laptop paid for these" — Kling will try to add a laptop)

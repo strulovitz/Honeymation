@@ -38,27 +38,16 @@ KEY DECISIONS ALREADY MADE (do not revisit these):
 
 - TOOL: OpenArt AI (I have a subscription) for image and video generation (Kling, Seedance, Sora, Wan, LTX, Hailuo).
 
-CURRENT STATUS (updated 2026-04-01):
+CURRENT STATUS (updated 2026-04-05):
 
-VIDEO 1 (Private Mode, Lego style): ALL DONE — 21 clips, all narration approved.
+VIDEO 1 (Private Mode, Lego style): COMPLETE — published on YouTube
+https://www.youtube.com/watch?v=o8R58VuJFx8 (3 min)
 
-VIDEO 2 (Public Mode, Pixar 3D style): IN PROGRESS
-- Script: COMPLETE (13 scenes in scripts/video2_narration.md)
-- Reference images: ALL DONE (characters 49-80, props 66a-81)
-- Video clips: 21 of 25 scenes DONE (Scenes 1-10d, 11a, 11b)
-- REMAINING (4 clips, in this exact order):
-  1. Scene 11c — Marcus's reward: hands cash to roommate
-     References: Marcus (53) + Marcus roommate (54) + Marcus home (74)
-  2. Scene 11d — Alex's reward: yacht with girlfriend, champagne
-     References: Alex (55) + Alex girlfriend (56) + Yacht (68)
-  3. Scene 12 — Call to action: monitor working out with dumbbells in dark bedroom
-     References: Monitor (49) + Dark bedroom (69)
-  4. Scene 13 — End card + cross-link (text overlay in Premiere Pro)
+VIDEO 2 (Public Mode, Pixar 3D style): COMPLETE — published on YouTube
+https://www.youtube.com/watch?v=PTnAqZCAClw (6 min)
 
-AFTER all clips are done:
-- TTS narration via ElevenLabs
-- Assembly in Adobe Premiere Pro 2022
-- Text overlays for labels, percentages, etc.
+BOTH VIDEOS are fully assembled with narration, text overlays, and end cards.
+Currently doing outreach — sending personalized letters to YouTubers and reporters.
 
 What I'd like to work on now: [TELL CLAUDE WHAT YOU WANT TO DO]
 ```
