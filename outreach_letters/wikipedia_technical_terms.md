@@ -36,7 +36,32 @@ NEVER paraphrase. NEVER use Google Translate for technical terms.
 
 ---
 
+## Korean (한국어) — for South Korean government agencies
+
+| # | English Term | Korean (한국어) |
+|---|---|---|
+| 1 | Distributed computing | 분산 컴퓨팅 |
+| 2 | Parallel computing | 병렬 컴퓨팅 |
+| 3 | Task parallelism | 작업 병렬성 |
+| 4 | Pipeline (computing) | 파이프라인 (컴퓨팅) |
+| 5 | Large language model | 대규모 언어 모델 |
+| 6 | Artificial intelligence | 인공지능 |
+| 7 | Cloud computing | 클라우드 컴퓨팅 |
+| 8 | Data sovereignty | 데이터 주권 |
+| 9 | Mass surveillance | 대량 감시 |
+| 10 | Open-source software | 오픈 소스 소프트웨어 |
+| 11 | Edward Snowden | 에드워드 스노든 |
+| 12 | National security | 국가 안보 |
+| 13 | Local area network | 근거리 통신망 |
+| 14 | Military-industrial complex | 군산복합체 |
+| 15 | Big data | 빅 데이터 |
+| 16 | Anonymization | 익명화 |
+| 17 | BitTorrent | 비트토렌트 |
+| 18 | Encryption | 암호화 |
+| 19 | Privacy | 프라이버시 |
+
+---
+
 ## French — TODO
 ## German — TODO
 ## Japanese — TODO
-## Korean — TODO
