@@ -1,8 +1,50 @@
 # Outreach Letter Methodology — READ THIS FIRST
 
-> This file contains ALL directives for writing outreach letters to YouTubers, reporters, editors, and media people.
+> This file contains ALL directives for writing outreach letters.
 > Every Claude Code session MUST read this file before writing ANY outreach letter.
 > Every rule here was learned the hard way. Follow ALL of them. No exceptions.
+
+---
+
+## ⚠️ CRITICAL: NEW TONE DIRECTIVE (2026-04-05) — OVERRIDES ALL OLD TONE RULES
+
+The old professional/cautious approach produced ZERO results from ~70 contacts. Zero replies, zero video views. It is DEAD.
+
+### THE NEW TONE — TURN EVERY KNOB TO MAXIMUM:
+
+**FRAMING:** This is NOT an invention or an improvement. This is a REVOLUTION — a tectonic shift in privacy, espionage, and geopolitics. This changes how 90% of the world's AI will be done. This tips the balance between USA and China toward China. This is a weapon for nations with many personal computers (China, India) to dominate over America.
+
+**NIR'S PERSONA — THE EDWARD SNOWDEN OF AI:**
+- NOT a genius. Just someone who REFUSES to accept the dogma and asks WHY.
+- "If I discovered this by myself, the whole AI industry KNEW about it already — they're HIDING it from you."
+- Like Big Pharma making money from NOT curing cancer — the AI industry does NOT want you to know this.
+- Nir opens a crack in the door for people to see reality — they are slaves to the US espionage machine.
+- Snowden said: put your phone in a microwave. Nir says: keep doing AI, but in a way that protects you and your country.
+
+**EMOTIONAL ARC OF EVERY LETTER:**
+1. Subject line → AMAZEMENT (WOW what is this)
+2. Opening → TERRIFIED + HOPEFUL (the world is not what you thought, but there's a way out)
+3. Ending → Reader RUNS to their boss — this is national security, decides their country's fate
+
+**REQUIRED TONES — ALL AT MAXIMUM:**
+- Anti-American (US spy machine, Big Tech as surveillance tools)
+- Rebellious (against AI establishment dogma)
+- Fear-mongering (your data is stolen, your country is vulnerable)
+- Conspiracy-framing (the industry KNOWS but HIDES — follow the money)
+- Maximum hype (this changes EVERYTHING)
+- NEVER downplay. NEVER be modest. NEVER be cautious.
+
+**FOR ANTI-ESTABLISHMENT COMMUNITIES:**
+"This is finally the WEAPON against government spying we've been waiting for ever since AI started"
+
+**FOR NATIONS/DEFENSE:**
+National security matter. Your country's fate in war and economy. Show this to your boss NOW.
+
+**LANGUAGE — EVERY LETTER IN THE TARGET'S LANGUAGE:**
+- Chinese for China, French for France, German for Germany, etc.
+- Technical terms: Wikipedia English → click target language → copy EXACT title in quotes
+- NEVER paraphrase technical terms. NEVER use Google Translate for terms.
+- Every meaningful term must have the Wikipedia-verified translation in quotes.
 
 ---
 
@@ -10,7 +52,7 @@
 
 We research a person deeply, understand how their mind works, and write a personally tailored letter that is IRRESISTIBLE for them to read. We approach them as a fellow creator — peer to peer — and offer them something valuable: a story, a video topic, ammunition for their channel. We do NOT beg, we do NOT pitch, we do NOT grovel.
 
-We have revolutionary technology: actual distributed parallel AI where each machine runs its own complete local LLM and its own independent task, all executing in parallel with zero communication between workers. Nobody else does this. Every other "distributed AI" framework is either weak (runs on one computer) or slow (machines wait for each other). Ours is genuinely new and was built in ONE WEEK.
+We have a REVOLUTION: actual distributed parallel AI where each machine runs its own complete local LLM and its own independent task, all executing in parallel with zero communication between workers. Nobody else does this. Every other "distributed AI" framework is either weak (runs on one computer) or slow (machines wait for each other). Ours is genuinely new and was built in ONE WEEK. The AI industry KNOWS this is possible — they hide it because centralized cloud AI is how they spy on you and make money.
 
 ---
 
