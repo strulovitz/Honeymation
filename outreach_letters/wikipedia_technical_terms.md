@@ -14,7 +14,10 @@ NEVER paraphrase. NEVER use Google Translate for technical terms.
 | 2 | Parallel computing | 并行计算 | https://zh.wikipedia.org/wiki/並行計算 |
 | 3 | Task parallelism | 任务并行 | https://zh.wikipedia.org/wiki/任務並行 |
 | 4 | Pipeline (computing) | 流水线（计算机） | https://zh.wikipedia.org/wiki/流水線_(計算機) |
+| 4b | Pipeline parallelism | 流水线并行 | Standard term: 流水线 (Wikipedia-verified) + 并行 |
 | 5 | Data parallelism | 数据并行 | https://zh.wikipedia.org/wiki/資料平行 |
+| 5b | Tensor | 张量 | https://zh.wikipedia.org/wiki/张量 |
+| 5c | Tensor parallelism | 张量并行 | Standard term: 张量 (Wikipedia-verified) + 并行 |
 | 6 | Model parallelism | 模型并行 | No Chinese Wikipedia page — standard industry term |
 | 7 | Large language model | 大型语言模型 | https://zh.wikipedia.org/wiki/大型語言模型 |
 | 8 | Artificial intelligence | 人工智能 | https://zh.wikipedia.org/wiki/人工智能 |
