@@ -357,6 +357,44 @@ These are YouTubers beyond the typical "AI tech" category. Organized by GROUP so
 4. **Chris Titus Tech** — Linux/open source, 1.5M subs, anti-corporate
 5. **Lex Fridman** — long shot but massive payoff if he bites
 
+### GROUP 8: CONSPIRACY / ANTI-ESTABLISHMENT / TRUTH-SEEKER YouTubers (added 2026-04-05)
+**Angle:** "The AI industry KNOWS this works but HIDES it — just like Big Pharma hides cures. Nir is the Edward Snowden of AI. This is the weapon against government/corporate surveillance you've been waiting for." These audiences are PRIMED to believe the AI industry is lying to them. Because it IS.
+
+**JOE ROGAN UNIVERSE — Podcast giants + their regular conspiracy guests:**
+1. **Joe Rogan (The Joe Rogan Experience)** — ~17M subs. THE biggest podcast. Hosted Snowden (#1368). Covers surveillance, government overreach, Big Tech censorship. If Rogan covers this, it's over — we win.
+2. **Eddie Bravo** — JRE regular. Challenges ALL mainstream narratives. Will love "the AI industry is lying to you."
+3. **Alex Jones** — JRE regular. Massive anti-establishment reach. "They don't want you to know" is literally his catchphrase.
+4. **Tim Dillon** — JRE regular, comedian. Social/political conspiracies. Huge audience.
+5. **Jimmy Corsetti (Bright Insight)** — ~1.5M subs. Lost civilizations, hidden knowledge. His audience believes institutions hide the truth.
+6. **Michael Shellenberger** — Journalist, censorship fighter. Twitter Files. Would understand the surveillance angle immediately.
+
+**CONSPIRACY / TRUTH-SEEKER CREATORS:**
+7. **Shane Dawson** — ~20M subs. Viral conspiracy documentaries. Massive mainstream reach into conspiracy world.
+8. **Mark Sargent** — Flat earth evangelist. His audience distrusts ALL establishment narratives. They'll eat this up.
+9. **Un Mundo Inmenso** — Spanish-language conspiracy channel. Opens door to entire Spanish-speaking world.
+10. **WatchMojo** — ~25M subs. "Conspiracy theories that turned out to be true" format — our story fits PERFECTLY.
+11. **The Truthseeker** — Dedicated conspiracy content channel.
+
+**PRO-SNOWDEN / WHISTLEBLOWER DEFENDERS:**
+12. **Coffeezilla (Stephen Findeisen)** — ~4M subs. Called Snowden "a hero." Exposes fraud and corporate lies. Our "Big Tech is hiding this" angle is his bread and butter.
+13. **Glenn Greenwald** — Journalist who broke the Snowden story. Has his own YouTube. THE most credible voice on surveillance.
+14. **Democracy Now! (Amy Goodman)** — Independent news. Frames whistleblowers as heroes. Would cover "the Snowden of AI."
+15. **Last Week Tonight (John Oliver)** — ~10M subs on YouTube. Anti-surveillance, anti-corporate power. Would make this funny AND terrifying.
+
+**ANTI-SURVEILLANCE / ANTI-GOVERNMENT VOICES:**
+16. **Russell Brand** — ~6M subs. Anti-establishment, anti-corporate, massive reach. "They don't want you to have this power."
+17. **Breaking Points (Krystal Ball & Saagar Enjeti)** — ~1M subs. Anti-establishment from BOTH left and right. "Big Tech controls AI to control YOU."
+18. **Kim Dotcom** — Created Megaupload. HATES US government surveillance. Would see distributed AI as the next evolution of his fight.
+19. **Jimmy Dore** — ~1M subs. Anti-establishment left. Corporate power, surveillance state.
+20. **Matt Taibbi** — Twitter Files journalist. Corporate media lies, Big Tech censorship.
+
+**TOP 5 PRIORITIES FROM CONSPIRACY/ANTI-ESTABLISHMENT GROUP:**
+1. **Joe Rogan** — if he covers this, nothing else matters. THE target.
+2. **Coffeezilla** — credible, calls Snowden a hero, exposes corporate lies, 4M subs
+3. **Glenn Greenwald** — broke the actual Snowden story, most credible surveillance voice
+4. **Russell Brand** — 6M anti-establishment subs, perfect tone match
+5. **Kim Dotcom** — lived the fight against US government, massive following
+
 ---
 
 ## OUTREACH BEYOND YOUTUBERS AND REPORTERS (compiled 2026-04-04)
