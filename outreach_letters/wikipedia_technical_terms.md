@@ -39,29 +39,34 @@ NEVER paraphrase. NEVER use Google Translate for technical terms.
 
 ---
 
-## Korean (한국어) — for South Korean government agencies
+## Korean (한국어) — for South Korean government agencies — ALL VERIFIED via Wikipedia API
 
-| # | English Term | Korean (한국어) |
-|---|---|---|
-| 1 | Distributed computing | 분산 컴퓨팅 |
-| 2 | Parallel computing | 병렬 컴퓨팅 |
-| 3 | Task parallelism | 작업 병렬성 |
-| 4 | Pipeline (computing) | 파이프라인 (컴퓨팅) |
-| 5 | Large language model | 대규모 언어 모델 |
-| 6 | Artificial intelligence | 인공지능 |
-| 7 | Cloud computing | 클라우드 컴퓨팅 |
-| 8 | Data sovereignty | 데이터 주권 |
-| 9 | Mass surveillance | 대량 감시 |
-| 10 | Open-source software | 오픈 소스 소프트웨어 |
-| 11 | Edward Snowden | 에드워드 스노든 |
-| 12 | National security | 국가 안보 |
-| 13 | Local area network | 근거리 통신망 |
-| 14 | Military-industrial complex | 군산복합체 |
-| 15 | Big data | 빅 데이터 |
-| 16 | Anonymization | 익명화 |
-| 17 | BitTorrent | 비트토렌트 |
-| 18 | Encryption | 암호화 |
-| 19 | Privacy | 프라이버시 |
+| # | English Term | Korean Wikipedia Title (EXACT) | Korean Wikipedia URL |
+|---|---|---|---|
+| 1 | Distributed computing | 분산 컴퓨팅 | https://ko.wikipedia.org/wiki/분산_컴퓨팅 |
+| 2 | Parallel computing | 병렬 컴퓨팅 | https://ko.wikipedia.org/wiki/병렬_컴퓨팅 |
+| 3 | Task parallelism | 작업 병렬성 | https://ko.wikipedia.org/wiki/작업_병렬성 |
+| 4 | Tensor | 텐서 | https://ko.wikipedia.org/wiki/텐서 |
+| 5 | Pipeline (computing) | 파이프라인 (컴퓨팅) | https://ko.wikipedia.org/wiki/파이프라인_(컴퓨팅) |
+| 6 | Large language model | 대형 언어 모델 | https://ko.wikipedia.org/wiki/대형_언어_모델 |
+| 7 | Artificial intelligence | 인공지능 | https://ko.wikipedia.org/wiki/인공지능 |
+| 8 | Cloud computing | 클라우드 컴퓨팅 | https://ko.wikipedia.org/wiki/클라우드_컴퓨팅 |
+| 9 | Data sovereignty | 데이터 주권 | https://ko.wikipedia.org/wiki/데이터_주권 |
+| 10 | Mass surveillance | 대중감시 | https://ko.wikipedia.org/wiki/대중감시 |
+| 11 | Open-source software | 오픈 소스 소프트웨어 | https://ko.wikipedia.org/wiki/오픈_소스_소프트웨어 |
+| 12 | Edward Snowden | 에드워드 스노든 | https://ko.wikipedia.org/wiki/에드워드_스노든 |
+| 13 | National security | 국가안전보장 | https://ko.wikipedia.org/wiki/국가안전보장 |
+| 14 | Local area network | 근거리 통신망 | https://ko.wikipedia.org/wiki/근거리_통신망 |
+| 15 | Military-industrial complex | 군산 복합체 | https://ko.wikipedia.org/wiki/군산_복합체 |
+| 16 | Big data | 빅 데이터 | https://ko.wikipedia.org/wiki/빅_데이터 |
+| 17 | Data anonymization | 데이터 익명화 | https://ko.wikipedia.org/wiki/데이터_익명화 |
+| 18 | BitTorrent | 비트토렌트 | https://ko.wikipedia.org/wiki/비트토렌트 |
+| 19 | Encryption | 암호화 | https://ko.wikipedia.org/wiki/암호화 |
+| 20 | Privacy | 프라이버시 | https://ko.wikipedia.org/wiki/프라이버시 |
+| 21 | NVLink | NVLink | https://ko.wikipedia.org/wiki/NVLink |
+| 22 | Graphics processing unit (GPU) | 그래픽 처리 장치 | https://ko.wikipedia.org/wiki/그래픽_처리_장치 |
+| — | Tensor parallelism | 텐서 병렬성 | NO Wikipedia page — constructed from verified components: 텐서 + 병렬성 |
+| — | Pipeline parallelism | 파이프라인 병렬성 | NO Korean Wikipedia page — constructed from verified components: 파이프라인 + 병렬성 |
 
 ---
 
