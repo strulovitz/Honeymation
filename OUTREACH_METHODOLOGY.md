@@ -486,11 +486,17 @@ These are NEW outreach channels beyond media. Ordered by PRIORITY — do them in
 - EU ENISA (European Union Agency for Cybersecurity)
 - Europol (European Cybercrime Centre)
 
-**China (separate approach — may need Mandarin translation):**
-- Ministry of State Security (MSS)
-- PLA Strategic Support Force (信息支援部队)
-- CNITSEC (China Information Technology Security Evaluation Center)
-- Note: China already has strong domestic AI (DeepSeek, Qwen, GLM) but our distributed architecture could interest their military for different reasons — decentralization = harder to attack/disable
+**China (IN MANDARIN CHINESE — Simplified Chinese):**
+- MSS 国家安全部 — 12339.gov.cn reporting portal
+- CNCERT/CC 国家计算机网络应急技术处理协调中心 — cncert@cert.org.cn (HAS EMAIL!)
+- CNITSEC 中国信息安全测评中心 — jiandu@itsec.gov.cn (HAS EMAIL!)
+- MIIT 工业和信息化部 — Minister's mailbox: http://bzxx.miit.gov.cn
+- CAC 国家互联网信息办公室 — cac.gov.cn, phone: (010) 88050686
+- CICIR 中国现代国际关系研究院 (MSS think tank) — A2 Wanshousi, Haidian, Beijing 100081
+- CAS 中国科学院 计算技术研究所 — http://english.ict.cas.cn
+- Ministry of National Defense — http://eng.mod.gov.cn
+- PLA Information Support Force 信息支援部队 — no public contact, go through MoD
+- China's MASSIVE strategic advantage: best small LLMs (DeepSeek, Qwen, GLM) + 1.4B population + our invention = unbeatable
 
 **The pitch to ALL non-US countries:** "Every time your intelligence services use American cloud AI, your classified data flows through American servers controlled by American companies with American government contracts. Our open-source system runs entirely on YOUR hardware, inside YOUR buildings, under YOUR control. Nothing leaves your jurisdiction."
 
