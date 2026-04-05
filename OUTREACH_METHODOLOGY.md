@@ -4,6 +4,14 @@
 > Every Claude Code session MUST read this file before writing ANY outreach letter.
 > Every rule here was learned the hard way. Follow ALL of them. No exceptions.
 
+## ⚠️ DELIVERY RULES — HOW TO GIVE LETTERS TO NIR
+
+1. **Foreign language letters:** ALWAYS save as a .txt file on `C:\Users\nir_s\Desktop\` (e.g., `india_letter_COPY_FROM_HERE.txt`). Also copy to Downloads as backup. The terminal breaks Hindi/Chinese/Korean/Japanese text at random points making it impossible to copy-paste. A .txt file in Notepad displays perfectly. Do this BEFORE telling Nir the letter is ready.
+
+2. **Always give the COMPLETE letter** — full subject line + full body, ready to copy-paste. NEVER give just a changed paragraph out of context. Even in English. In foreign languages it's even worse — impossible to find where to insert a paragraph in a language you don't read.
+
+3. **Save EVERYTHING to GitHub and push physically.** Memory files are nice-to-have but have no real effect. Only what is pushed to GitHub is actually saved. Other Claude Code instances on other machines cannot see memory files.
+
 ---
 
 ## ⚠️ CRITICAL: NEW TONE DIRECTIVE (2026-04-05) — OVERRIDES ALL OLD TONE RULES
