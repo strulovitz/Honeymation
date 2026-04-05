@@ -29,6 +29,10 @@ NEVER paraphrase. NEVER use Google Translate for technical terms.
 | 17 | Encryption | 加密 | https://zh.wikipedia.org/wiki/加密 |
 | 18 | Privacy | 隐私 | https://zh.wikipedia.org/wiki/隱私 |
 | 19 | Local area network | 局域网 | https://zh.wikipedia.org/wiki/局域網 |
+| 20 | Military-industrial complex | 军事工业复合体 | https://zh.wikipedia.org/wiki/军事工业复合体 |
+| 21 | Anonymization | 匿名化 | https://zh.wikipedia.org/wiki/匿名化 |
+| 22 | Re-identification (de-anonymization) | 再识别 | No dedicated page — term from K-匿名性 article |
+| 23 | Big data | 大数据 | https://zh.wikipedia.org/wiki/大數據 |
 
 ---
 

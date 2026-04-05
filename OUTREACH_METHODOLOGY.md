@@ -498,6 +498,16 @@ These are NEW outreach channels beyond media. Ordered by PRIORITY — do them in
 - PLA Information Support Force 信息支援部队 — no public contact, go through MoD
 - China's MASSIVE strategic advantage: best small LLMs (DeepSeek, Qwen, GLM) + 1.4B population + our invention = unbeatable
 
+**RULES FOR ALL COUNTRY LETTERS (updated 2026-04-05):**
+1. Present Nir as: former professional software developer in the IDF (Israel Defense Forces) and Elbit Systems (Israel). NOT a YouTuber.
+2. Bold/emphasize: **independent inventor, author of 17 books about breakthroughs in science and technology**
+3. Subject line must include: "YOU CAN SAVE YOUR COUNTRY TODAY" + "the hidden truth that the new Military-industrial complex (OpenAI, Google, Anthropic) don't want you to know — AND WHAT YOU CAN DO ABOUT IT"
+4. First line after greeting: "First I will describe the problem, then the new genius solution."
+5. After "you must send them data" add: "(you anonymize, but they easily de-anonymize it, using big data)"
+6. Book description: "tells the personal story behind it, future developments of this system, and I have more inventions and ideas"
+7. Sign with: full name + "Former IDF and Elbit Systems software developer" + "Independent inventor, author of 17 books on science and technology breakthroughs"
+8. Every letter in the TARGET'S LANGUAGE with Wikipedia-verified technical terms
+
 **The pitch to ALL non-US countries:** "Every time your intelligence services use American cloud AI, your classified data flows through American servers controlled by American companies with American government contracts. Our open-source system runs entirely on YOUR hardware, inside YOUR buildings, under YOUR control. Nothing leaves your jurisdiction."
 
 ---

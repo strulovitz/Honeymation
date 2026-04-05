@@ -15,21 +15,23 @@
 
 ## Subject Line
 
-紧急通知：一项颠覆性的「分布式计算」（distributed computing）发明——美国科技巨头不希望你知道的「人工智能」（artificial intelligence）真相
+今天你就可以拯救你的国家：一项颠覆性的「人工智能」（artificial intelligence）发明——新「军事工业复合体」（Military-industrial complex）（OpenAI、Google、Anthropic）不希望你知道的隐藏真相——以及你能为此做什么
 
 ## Full Letter
 
 尊敬的先生/女士：
 
-我叫 Nir Strulovitz，是一名来自以色列的独立发明人和 YouTube 创作者。我写这封信，是为了通知贵机构一项与「国家安全」（national security）和「数据主权」（data sovereignty）直接相关的颠覆性发明。
+首先，我将描述问题，然后介绍一个全新的天才解决方案。
 
-**美国正在对全世界实施「大规模监控」（mass surveillance）——通过「人工智能」。**
+我叫 Nir Strulovitz，是一名来自以色列的**独立发明人，著有17本关于科学和技术突破的书籍**。我曾是以色列国防军（IDF）和以色列埃尔比特系统公司（Elbit Systems）的专业软件开发者。我写这封信，是为了通知贵机构一项与「国家安全」（national security）和「数据主权」（data sovereignty）直接相关的颠覆性发明。
+
+**问题：美国正在对全世界实施「大规模监控」（mass surveillance）——通过「人工智能」。**
 
 现在，全世界每一个使用 OpenAI、Google 或 Anthropic 的「云计算」（cloud computing）服务的国家，都在做同一件事：把自己最敏感的数据——军事情报、外交通信、国防战略、经济机密——通过美国公司控制的服务器传输。这些公司与美国政府签有合同。这些服务器受美国法律管辖。「爱德华·斯诺登」（Edward Snowden）在2013年已经告诉了全世界——美国情报机构可以获取美国科技公司的数据。什么都没有改变。只是现在，通过「人工智能」，数据流量比以往任何时候都要大上千倍。
 
 **「人工智能」行业一直在向你隐瞒一个秘密。**
 
-他们告诉你：要获得强大的「人工智能」能力，你必须使用他们的云端。你必须把数据发送给他们。你别无选择。
+他们告诉你：要获得强大的「人工智能」能力，你必须使用他们的云端。你必须把数据发送给他们（你进行「匿名化」（anonymization），但他们利用「大数据」（big data）轻易地进行「再识别」（re-identification），还原你的真实数据）。你别无选择。
 
 **这是谎言。**
 
@@ -54,10 +56,10 @@
 短片动画视频——私有模式（组织如何在数据零外泄的情况下运行「人工智能」）：
 https://www.youtube.com/watch?v=o8R58VuJFx8 （3分08秒）
 
-短片动画视频——公共模式（「分布式计算」如何跨越多台计算机协同工作）：
+短片动画视频——公共模式（「分布式计算」（distributed computing）如何跨越多台计算机协同工作）：
 https://www.youtube.com/watch?v=PTnAqZCAClw （6分23秒）
 
-完整的非技术性书籍，讲述这个项目背后的个人故事：
+一本非技术性书籍，讲述这个项目背后的**个人故事，以及这个系统未来的发展方向——我还有更多的发明和想法**：
 https://github.com/strulovitz/TheDistributedAIRevolution/blob/main/README.md
 
 **这封通知正在同时发送给多个国家的国防和情报机构。** 每个国家现在都有能力完全在自己的国境内、在自己的硬件上、在自己的控制下运行先进的「人工智能」处理——不需要通过任何外国服务器传输任何数据。
@@ -71,6 +73,17 @@ https://github.com/strulovitz/TheDistributedAIRevolution/blob/main/README.md
 
 此致敬礼，
 Nir Strulovitz
+前以色列国防军及埃尔比特系统公司软件开发者
+独立发明人，著有17本科学与技术突破书籍
+
+## Additional Wikipedia Terms Used
+
+| English | Chinese (Simplified) |
+|---------|---------------------|
+| Military-industrial complex | 军事工业复合体 |
+| De-anonymization / Re-identification | 再识别 |
+| Anonymization | 匿名化 |
+| Big data | 大数据 |
 
 ## Sending Order
 
