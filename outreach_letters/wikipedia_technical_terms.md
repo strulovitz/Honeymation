@@ -70,6 +70,34 @@ NEVER paraphrase. NEVER use Google Translate for technical terms.
 
 ---
 
+## Japanese (日本語) — for Japanese government agencies — ALL VERIFIED via Wikipedia API
+
+| # | English Term | Japanese Wikipedia Title (EXACT) | URL |
+|---|---|---|---|
+| 1 | Distributed computing | 分散コンピューティング | https://ja.wikipedia.org/wiki/分散コンピューティング |
+| 2 | Parallel computing | 並列計算 | https://ja.wikipedia.org/wiki/並列計算 |
+| 3 | Task parallelism | タスク並列性 | https://ja.wikipedia.org/wiki/タスク並列性 |
+| 4 | Tensor | テンソル | https://ja.wikipedia.org/wiki/テンソル |
+| 5 | Pipeline (computing) | パイプライン処理 | https://ja.wikipedia.org/wiki/パイプライン処理 |
+| 6 | Large language model | 大規模言語モデル | https://ja.wikipedia.org/wiki/大規模言語モデル |
+| 7 | Artificial intelligence | 人工知能 | https://ja.wikipedia.org/wiki/人工知能 |
+| 8 | Cloud computing | クラウドコンピューティング | https://ja.wikipedia.org/wiki/クラウドコンピューティング |
+| 9 | Data sovereignty | データ主権 | NO Japanese Wikipedia page — standard Japanese term |
+| 10 | Mass surveillance | 監視社会 | https://ja.wikipedia.org/wiki/監視社会 |
+| 11 | Open-source software | オープンソースソフトウェア | https://ja.wikipedia.org/wiki/オープンソースソフトウェア |
+| 12 | Edward Snowden | エドワード・スノーデン | https://ja.wikipedia.org/wiki/エドワード・スノーデン |
+| 13 | National security | 国家安全保障 | https://ja.wikipedia.org/wiki/国家安全保障 |
+| 14 | Local area network | Local Area Network | https://ja.wikipedia.org/wiki/Local_area_network (uses English title) |
+| 15 | Military-industrial complex | 軍産複合体 | https://ja.wikipedia.org/wiki/軍産複合体 |
+| 16 | Big data | ビッグデータ | https://ja.wikipedia.org/wiki/ビッグデータ |
+| 17 | Data anonymization | データ匿名化 | NO Japanese Wikipedia page — standard Japanese term |
+| 18 | NVLink | NVLink | https://ja.wikipedia.org/wiki/NVLink |
+| 19 | Graphics processing unit | GPU | https://ja.wikipedia.org/wiki/GPU |
+| 20 | Encryption | 暗号 | https://ja.wikipedia.org/wiki/暗号 |
+| — | Tensor parallelism | テンソル並列性 | NO Wikipedia page — constructed from verified: テンソル + 並列性 |
+| — | Pipeline parallelism | パイプライン並列性 | NO Japanese page — constructed from verified: パイプライン処理 + 並列性 |
+
+---
+
 ## French — TODO
 ## German — TODO
-## Japanese — TODO
