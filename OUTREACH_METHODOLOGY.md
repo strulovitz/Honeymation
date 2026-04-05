@@ -292,16 +292,37 @@ When writing to reporters, correspondents, editors, and media people (NOT YouTub
 ### YouTuber letter saved for tomorrow (need email lookup):
 - **Louis Rossmann** — Letter COMPLETE, saved in local text file on Desktop. Subject Line B (Claude's). Right-to-repair → right-to-compute angle. Need YouTube email lookup.
 
-### TOMORROW (2026-04-05) PRIORITIES:
-1. Louis Rossmann — YouTube email lookup + send
-2. France agencies (DGSE, DGSI, ANSSI, DGA) — find emails, send non-US letter
-3. Germany agencies (BND, BfV, BSI, BMVg) — find emails, send non-US letter
-4. Japan agencies (CIRO, DIH, NISC, ATLA) — find emails, send non-US letter
-5. South Korea agencies (NIS, KISA, ADD) — find emails, send non-US letter
-6. Australia agencies (ASIS, ASIO, ASD) — find emails, send non-US letter
-7. Canada agencies (CSIS, CSE, CCCS, DRDC) — find emails, send non-US letter
-8. NATO + EU agencies — find emails, send non-US letter
-9. More YouTubers from new groups (Jeff Geerling, Rob Braxman, Chris Titus Tech)
+### SENT ON 2026-04-05 — MASSIVE DAY (new revolutionary tone, native languages):
+
+**China (in Mandarin Chinese):**
+- All 8 defense/intelligence agencies (CNCERT, CNITSEC, MIIT, MSS, CAC, CICIR, CAS, MoD)
+- All 10 top universities (Tsinghua, Peking, Zhejiang, SJTU, USTC, Nanjing, HIT, Beihang, Fudan, HUST)
+
+**South Korea (in Korean):**
+- All 10 defense/security agencies (KISA, KAIST, MSIT, NIS, NCSC, MoD, ADD, DAPA, NIA, NSRI/ETRI)
+- All 10 top universities (KAIST, SNU, POSTECH, Korea U, Yonsei, SKKU, Hanyang, UNIST, GIST, Kyung Hee)
+
+**Japan (in Japanese):**
+- All 11 defense/security agencies (JPCERT, CIRO, MOD, ATLA, NCO, NPA, NICT, IPA, JGSDF, JMSDF, JASDF)
+- All 10 top universities (UTokyo, Kyoto, Tokyo Tech, Osaka, Tohoku, NAIST, Keio, Waseda, Tsukuba, Nagoya)
+
+**India (in Hindi):**
+- All 12 defense/security agencies (iDEX, DRDO x2, C-DAC, CERT-In, NCIIPC, MeitY, NIC, MOD, MHA, Navy, DSCI)
+- All 10 top universities (IIT Bombay/Delhi/Madras/Kanpur/Kharagpur/Hyderabad/Roorkee/Guwahati, IISc, IIIT-H)
+
+**TOTAL SENT ON 2026-04-05: ~81 contacts (4 countries, defense + universities, all in native languages)**
+**ALL-TIME TOTAL: ~150+ contacts**
+
+### TOMORROW (2026-04-06) PRIORITIES:
+1. Louis Rossmann — YouTube email lookup + send (letter already written)
+2. France agencies (DGSE, DGSI, ANSSI, DGA) — in French
+3. Germany agencies (BND, BfV, BSI, BMVg) — in German
+4. Australia agencies (ASIS, ASIO, ASD) — in English
+5. Canada agencies (CSIS, CSE, CCCS, DRDC) — in English + French
+6. NATO + EU agencies
+7. France + Germany + Australia + Canada top universities
+8. Conspiracy/anti-establishment YouTubers (Joe Rogan, Coffeezilla, Glenn Greenwald, Russell Brand, etc.)
+9. More YouTubers from Group 8 target list
 
 ---
 
