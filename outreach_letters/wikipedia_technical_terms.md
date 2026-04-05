@@ -99,5 +99,35 @@ NEVER paraphrase. NEVER use Google Translate for technical terms.
 
 ---
 
+## Hindi (हिन्दी) — for Indian government agencies — VERIFIED via Wikipedia API
+
+| # | English Term | Hindi Wikipedia Title (EXACT) | URL |
+|---|---|---|---|
+| 1 | Distributed computing | वितरित अभिकलन | https://hi.wikipedia.org/wiki/वितरित_अभिकलन |
+| 2 | Parallel computing | युगपत अभिकलन | https://hi.wikipedia.org/wiki/युगपत_अभिकलन |
+| 3 | Task parallelism | कार्य समानांतरता | NO Hindi Wikipedia page — constructed standard term |
+| 4 | Tensor | प्रदिश | https://hi.wikipedia.org/wiki/प्रदिश |
+| 5 | Pipeline (computing) | पाइपलाइन | NO Hindi Wikipedia page — constructed standard term |
+| 6 | Large language model | बड़े भाषा मॉडल | https://hi.wikipedia.org/wiki/बड़े_भाषा_मॉडल |
+| 7 | Artificial intelligence | कृत्रिम बुद्धि | https://hi.wikipedia.org/wiki/कृत्रिम_बुद्धि |
+| 8 | Cloud computing | क्लाउड कम्प्यूटिंग | https://hi.wikipedia.org/wiki/क्लाउड_कम्प्यूटिंग |
+| 9 | Data sovereignty | आँकड़ों की संप्रभुता | https://hi.wikipedia.org/wiki/आँकड़ों_की_संप्रभुता |
+| 10 | Mass surveillance | सामूहिक निगरानी | NO Hindi Wikipedia page — constructed standard term |
+| 11 | Open-source software | मुक्त स्रोत सॉफ्टवेयर | https://hi.wikipedia.org/wiki/मुक्त_स्रोत_सॉफ्टवेयर |
+| 12 | Edward Snowden | एड्वर्ड स्नोडेन | https://hi.wikipedia.org/wiki/एड्वर्ड_स्नोडेन |
+| 13 | National security | राष्ट्रीय सुरक्षा | https://hi.wikipedia.org/wiki/राष्ट्रीय_सुरक्षा |
+| 14 | Local area network | लोकल एरिया नेटवर्क | https://hi.wikipedia.org/wiki/लोकल_एरिया_नेटवर्क |
+| 15 | Military-industrial complex | सैन्य औद्योगिक संकुल | https://hi.wikipedia.org/wiki/सैन्य_औद्योगिक_संकुल |
+| 16 | Big data | बृहत् आँकड़ा | https://hi.wikipedia.org/wiki/बृहत्_आँकड़ा |
+| 17 | Data anonymization | डेटा गुमनामीकरण | NO Hindi Wikipedia page — constructed standard term |
+| 18 | NVLink | NVLink | NO Hindi Wikipedia page |
+| 19 | Graphics processing unit | ग्राफिक्स प्रोसेसिंग यूनिट | https://hi.wikipedia.org/wiki/ग्राफिक्स_प्रोसेसिंग_यूनिट |
+| 20 | Encryption | गुप्तलेखन | https://hi.wikipedia.org/wiki/गुप्तलेखन |
+| 21 | Privacy | निजता | https://hi.wikipedia.org/wiki/निजता |
+| — | Tensor parallelism | प्रदिश समानांतरता | Constructed from verified: प्रदिश + समानांतरता |
+| — | Pipeline parallelism | पाइपलाइन समानांतरता | Constructed standard term |
+
+---
+
 ## French — TODO
 ## German — TODO
