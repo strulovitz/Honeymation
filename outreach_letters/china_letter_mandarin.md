@@ -83,6 +83,16 @@ Nir Strulovitz
 | Anonymization | 匿名化 |
 | Big data | 大数据 |
 
+## Shortened Version for 12339.gov.cn (MSS) — Two 500-character parts
+
+### Part 1 (500 chars max):
+
+我叫Nir Strulovitz，来自以色列，独立发明人，著有17本科学技术突破书籍，曾是以色列国防军（IDF）和埃尔比特系统公司（Elbit Systems）专业软件开发者。首先描述问题，然后介绍天才解决方案。美国正通过「人工智能」对全世界实施「大规模监控」。所有使用OpenAI、Google、Anthropic云计算的国家，都在把军事情报、外交通信、国防战略通过美国公司服务器传输。这些公司与美国政府签有合同。斯诺登2013年已揭露——美国情报机构可获取美国科技公司数据。现在通过AI，数据流量大千倍。他们告诉你必须用他们的云端，必须发送数据（你匿名化，但他们用大数据轻易再识别还原真实数据）。这是谎言。我用一周时间发明了完全不同的系统：本地强计算机运行大型语言模型作协调者，将任务分解为独立子任务，分发到局域网内各计算机。每台运行自己完整模型，独立处理，工作机之间零通信。这叫「任务并行」——没有任何数据离开你的建筑，一个字节都没有。
+
+### Part 2 (500 chars max):
+
+中国拥有巨大战略优势。中国在小型大语言模型方面世界领先——DeepSeek、Qwen、GLM。美国芯片限制迫使中国工程师在效率上创新。我的发明让小型模型成为制胜策略：许多普通计算机，每台运行高效小模型，同时并行工作。中国有14亿人口、数亿台计算机、最好的小型AI模型——三者结合成无与伦比的优势。此通知正同时发送给多国国防和情报机构。技术完全开源，可审查代码。开源代码：github.com/strulovitz 。私有模式视频（3分钟）：youtube.com/watch?v=o8R58VuJFx8 。公共模式视频（6分钟）：youtube.com/watch?v=PTnAqZCAClw 。非技术书籍（个人故事及未来发展，我还有更多发明）：github.com/strulovitz/TheDistributedAIRevolution 。寻求合作——作为顾问或远程承包商。联系：nir.strulovitz@gmail.com，手机+972-54-475-2626。此致敬礼，Nir Strulovitz
+
 ## Sending Order
 
 1. CNCERT/CC — cncert@cert.org.cn (easiest, real email)
