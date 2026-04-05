@@ -23,7 +23,7 @@
 
 首先，我将描述问题，然后介绍一个全新的天才解决方案。
 
-我叫 Nir Strulovitz，是一名来自以色列的**独立发明人，著有17本关于科学和技术突破的书籍**。我曾是以色列国防军（IDF）和以色列埃尔比特系统公司（Elbit Systems）的专业软件开发者。我写这封信，是为了通知贵机构一项与「国家安全」（national security）和「数据主权」（data sovereignty）直接相关的颠覆性发明。
+我叫 Nir Strulovitz，是一名来自以色列的**独立发明人，著有17本关于科学和技术突破的书籍**，曾是以色列国防军（IDF）和以色列埃尔比特系统公司（Elbit Systems）的专业软件开发者。我写这封信，是为了通知贵机构一项与「国家安全」（national security）和「数据主权」（data sovereignty）直接相关的颠覆性发明。
 
 **问题：美国正在对全世界实施「大规模监控」（mass surveillance）——通过「人工智能」。**
 
@@ -73,8 +73,6 @@ https://github.com/strulovitz/TheDistributedAIRevolution/blob/main/README.md
 
 此致敬礼，
 Nir Strulovitz
-前以色列国防军及埃尔比特系统公司软件开发者
-独立发明人，著有17本科学与技术突破书籍
 
 ## Additional Wikipedia Terms Used
 
