@@ -10,7 +10,7 @@ NEVER mention Israel, IDF, Elbit Systems, or any Israeli military/defense connec
 
 **Why:** NYC H+H dropped Palantir BECAUSE of military/defense ties (ICE, airstrikes, surveillance). Mentioning Israeli military connections to these exact people is like writing "PLEASE STOP READING" in capital letters. The whole world hates Israel right now because of the Iran war. These are NYC public health progressives — they are allergic to anything military/defense.
 
-**Instead say:** "software developer with over 15 years of experience" — true, no Israel.
+**Instead say:** "software developer with years of experience" — true, no Israel. NEVER invent or inflate years of experience. Nir had 2 years IDF + 1 year Elbit = 3 years professional. Just say "years of experience" without a number.
 
 **This rule applies to ALL letters in this NYC H+H hospital series. No exceptions.**
 

@@ -14,7 +14,7 @@ It is an open-source distributed AI system where every machine runs its own inde
 
 How it works: a stronger local AI model acts as an automated coordinator. It takes a task — a radiology report to analyze, a discharge summary to write, patient notes to review — breaks it into independent sub-tasks, and distributes each one to a separate computer on your internal network. Each computer processes its sub-task with its own AI model. No communication between machines. When done, the coordinator combines everything into one result. The entire pipeline runs inside your network, behind your firewall, under your control.
 
-This is not a product. This is not a startup asking for money. This is open-source, free, built by one person in one week, and it works. I am an independent inventor, a software developer with over 15 years of experience, and the author of 17 books on breakthroughs in science and technology.
+This is not a product. This is not a startup asking for money. This is open-source, free, built by one person in one week, and it works. I am an independent inventor, a software developer with years of experience, and the author of 17 books on breakthroughs in science and technology.
 
 You are a health economist who has spent your career studying how to redesign health care delivery systems for vulnerable populations. You know what it means when a safety-net hospital system — one that serves a million New Yorkers, many of them uninsured or on Medicaid — has to choose between paying millions to a surveillance company or having no AI at all. My system removes that choice entirely. It is free, it is private, and it runs on hardware you already have.
 
