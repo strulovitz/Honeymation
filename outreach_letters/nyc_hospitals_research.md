@@ -137,10 +137,11 @@ Other options: FaxZero.com (didn't work — stuck on email confirmation), Fax.Pl
 | **Harlem Hospital** | **(212) 939-1367** ✅ | (212) 939-1000 | **Justin Morea (CMIO)** |
 | **Kings County Hospital** | **(718) 245-4778** ✅ | (718) 245-3131 | **Emmanuel Nwokedi (Chief Rad Onc)** |
 
-### Additional hospital emails found:
-- Lincoln Public Affairs: **omarb@nychhc.org** (Bassal Omar) ✅
-- Lincoln HIM: **lincolnhim@nychhc.org** ✅
-- Harlem Hospital: **harlemhospitalcenter@nychhc.org** ✅
+### Additional hospital emails found (NOT VERIFIED — Nir checked, these don't work):
+- ~~Lincoln Public Affairs: omarb@nychhc.org~~ ❌ NOT REAL
+- ~~Lincoln HIM: lincolnhim@nychhc.org~~ ❌ NOT REAL
+- ~~Harlem Hospital: harlemhospitalcenter@nychhc.org~~ ❌ NOT REAL
+- **Kantor and Morea were reached via FAX only — that's done.**
 
 ### FOR KATZ SPECIFICALLY (no fax found for HQ):
 Options to reach Mitchell Katz:
