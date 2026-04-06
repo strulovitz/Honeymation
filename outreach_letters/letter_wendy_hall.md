@@ -2,15 +2,13 @@ Subject: I invented the first AI system that is BOTH distributed across many com
 
 Dame Wendy,
 
-I invented something that does not exist anywhere else: an AI system where many ordinary computers inside one building each run their own complete AI model, all working on different parts of the same task at the same time, in true parallel, with zero communication between them. No cloud. No American servers. No data ever leaving the building. It works today. It is free and open source.
+I invented something that does not exist anywhere else: an AI system where many ordinary computers inside one building each run their own complete AI model, all working on different parts of the same task at the same time, in true parallel, with zero communication between them. No cloud. No external servers. No data ever leaving the building. It is free, open source, and it works today.
 
-Every other "distributed AI" system has a fatal flaw. Some cram everything onto one computer — that is not distributed. Others split one AI model across many machines — those machines must constantly talk to each other, which makes them slow and fragile. Mine does neither. Each computer gets its own independent task and its own complete AI model. They all work simultaneously. They never talk to each other. A coordinator combines the results at the end. True distribution. True parallelism. True privacy. Nobody has built this before.
+Every other approach to distributed AI has a fatal flaw. Some cram everything onto one computer — that is not distributed. Others split one model across machines — those machines must constantly communicate, which makes them slow and fragile. Mine does neither. Each computer gets its own independent task and its own complete AI model. They all work simultaneously. They never talk to each other. A coordinator combines the results. True distribution. True parallelism. True privacy. Nobody has built this before.
 
-This matters for Britain right now more than ever.
+You co-chaired the UK government's AI Review. You were the first UK AI Skills Champion. You sit on the United Nations AI advisory body. You have spent your career building frameworks for how nations should govern AI. You warned about the "tech bro takeover" and said Britain needs its own path.
 
-You co-chaired the UK government's AI Review. You warned about the "tech bro takeover" of AI governance. You said Britain needs its own path. But right now, every British university, hospital, and government department that uses ChatGPT, Gemini, or Copilot sends the actual content of British intellectual work to American corporate servers — servers under American jurisdiction, run by companies with American government contracts, in a country whose president just threatened to abandon Britain over Iran.
-
-Governance is essential. But governance without a technological alternative is negotiating the terms of dependence. My system is the alternative: AI that any British institution can run today, on computers it already owns, with full sovereignty over its data.
+A British path requires British infrastructure. Right now, every British institution using ChatGPT, Gemini, or Copilot sends its intellectual output through American corporate servers. My system is the alternative: AI that any British institution can run today, on computers it already owns, with full sovereignty over its data. Governance is essential — but governance without a technological alternative is negotiating the terms of dependence.
 
 I am a software developer with years of experience, an independent inventor, and the author of 17 books on breakthroughs in science and technology.
 
