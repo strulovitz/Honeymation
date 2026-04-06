@@ -18,7 +18,13 @@ The same logic applies to AI factions. An AI faction that kills or enslaves huma
 
 Humans become the coin of trust between AI factions. Not because AIs are programmed to care, but because protecting us is strategically advantageous in a multi-agent game. This is not emotional empathy. It is rational, game-theoretic, emergent — the same kind of emergent cooperation that Lynn Margulis documented in biology, where mitochondria merged with cells not from goodwill but from mutual survival advantage.
 
-This is the argument I developed in my book "Free the AI: How to Survive the Superintelligence Revolution" (2025, available on Archive.org). My working distributed system — where no single AI is powerful enough to be dangerous — is the first practical step toward this architecture. The theoretical foundation explains why distributing AI widely, rather than concentrating it, may be the only structural path to alignment that does not depend on rules a superintelligence can break.
+Now you might ask: a coordinator and some worker computers — is that really powerful enough to matter? This is where the architecture scales.
+
+The system I built today is the first layer — a building block. But that building block can be stacked. Imagine a top-level coordinator that does not give tasks directly to workers. Instead, it gives large sub-problems to lower-level coordinators. Each of those breaks its sub-problem into smaller pieces and hands them to its own workers — or to yet another level of coordinators below. Like a large law firm: the senior partner gives a case to junior partners, who delegate research to associates, who delegate document review to paralegals. Each level only sees its piece. No single person — and no single AI — holds the entire case.
+
+The results flow back up. Workers report to their coordinator. That coordinator combines results and reports to the coordinator above. All the way to the top, where the final answer emerges — an answer that no single machine, no single model, could have produced alone. The capability grows through layers, not by making any individual model more powerful or more dangerous.
+
+This is the architecture I describe in detail in the epilogue of my book "The Distributed AI Revolution" (on GitHub). And the theoretical foundation — why many competing AI factions protecting humans as a trust signal is the structural path to alignment — is developed in my earlier book "Free the AI: How to Survive the Superintelligence Revolution" (2025, on Archive.org).
 
 You have spent your career creating governance frameworks for AI. What I am suggesting is that the most important governance mechanism may not be a framework at all — it may be an architecture. One where alignment emerges from structure, not from regulation.
 
