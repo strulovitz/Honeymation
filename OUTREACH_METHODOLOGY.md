@@ -313,15 +313,24 @@ When writing to reporters, correspondents, editors, and media people (NOT YouTub
 **TOTAL SENT ON 2026-04-05: ~81 contacts (4 countries, defense + universities, all in native languages)**
 **ALL-TIME TOTAL: ~150+ contacts**
 
-### TOMORROW (2026-04-06) PRIORITIES:
-1. Louis Rossmann — YouTube email lookup + send (letter already written)
-2. France agencies (DGSE, DGSI, ANSSI, DGA) — in French
-3. Germany agencies (BND, BfV, BSI, BMVg) — in German
-4. Australia agencies (ASIS, ASIO, ASD) — in English
-5. Canada agencies (CSIS, CSE, CCCS, DRDC) — in English + French
-6. NATO + EU agencies
-7. France + Germany + Australia + Canada top universities
-8. Conspiracy/anti-establishment YouTubers (Joe Rogan, Coffeezilla, Glenn Greenwald, Russell Brand, etc.)
+### 2026-04-06 UPDATE — RESULTS AND STRATEGY CHANGE:
+**RESULTS: ZERO.** No replies from any of ~150+ contacts. YouTube: Public Mode=10 views, Private Mode=7 views (essentially +1 person from 81 institutions).
+**ROOT CAUSE:** Generic institutional emails (secretary/dean) go to spam/trash. Nobody reads "the general inbox."
+**NEW STRATEGY:**
+- Generic university/defense emails are DEAD. Find SPECIFIC NAMED INDIVIDUALS:
+  - Universities: top AI professors by name (the actual researchers, not the faculty secretary)
+  - Military: senior officers (brigadier general+) with publicly listed email/contact, with source URL
+- Conspiracy/anti-establishment YouTubers FIRST (they actually read their email and engage with audience)
+- Countries come AFTER YouTubers, but with targeted individuals not generic inboxes
+
+### TODAY (2026-04-06) PRIORITIES:
+1. Conspiracy/anti-establishment YouTubers (Group 8) — Joe Rogan, Coffeezilla, Glenn Greenwald, Russell Brand, Kim Dotcom, etc.
+2. Louis Rossmann — YouTube email lookup + send (letter already written)
+3. France — specific AI professors + senior military officers (in French)
+4. Germany — specific AI professors + senior military officers (in German)
+5. Australia — specific AI professors + senior military officers (in English)
+6. Canada — specific AI professors + senior military officers (English + French)
+7. NATO + EU agencies
 9. More YouTubers from Group 8 target list
 
 ---
