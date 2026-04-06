@@ -136,11 +136,13 @@ For Dr. [Last Name]: $0 AI system replacing Palantir — HIPAA-compliant, no pat
 
 ## TOP 5 DOCTORS TO CONTACT (priority order):
 
-1. **Justin Morea, DO, MBA** (Harlem) — Chief Medical INFORMATION Officer. Tech + medicine. THE person.
-2. **Alan Kantor, MD** (Lincoln) — Chief of Radiology. Katz wants AI for radiology. Direct relevance.
-3. **Emmanuel Nwokedi, MD** (Kings County) — Chief of Radiology Oncology + Cancer Committee Chair. AI for cancer screening.
-4. **Amit Uppal, MD** (Bellevue) — CMO of the flagship hospital. High influence.
-5. **Sewit Teckie, MD, MBA** (System-wide) — VP Enterprise Clinical Operations. System-level influence + oncology background.
+1. **Justin Morea, DO, MBA** (Harlem) — Chief Medical INFORMATION Officer. Tech + medicine. THE person. ❌ No verified email (phone only or LinkedIn paid)
+2. **Alan Kantor, MD** (Lincoln) — Chief of Radiology. Katz wants AI for radiology. Direct relevance. ✅ alan.cantor@childrens.harvard.edu
+3. **Emmanuel Nwokedi, MD** (Kings County) — Chief of Radiology Oncology + Cancer Committee Chair. AI for cancer screening. ❌ No verified email (phone only or LinkedIn paid)
+4. **Amit Uppal, MD** (Bellevue) — CMO of the flagship hospital. High influence. ✅ Amit.Uppal@nyulangone.org
+5. **Sewit Teckie, MD, MBA** (System-wide) — VP Enterprise Clinical Operations. System-level influence + oncology background. ✅ Sewit.Teckie@nyulangone.org + steckie@sgu.edu
+
+### Note on LinkedIn: Not viable — Nir has no connections, recipients dismiss immediately before reading.
 
 ---
 
