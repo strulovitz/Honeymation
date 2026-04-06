@@ -339,9 +339,25 @@ When writing to reporters, correspondents, editors, and media people (NOT YouTub
 
 **NYC H+H TOTAL: 8 people contacted (5 emails + 2 faxes + 1 PressOffice + 3 hospital emails)**
 
-### REMAINING 2026-04-06 PRIORITIES:
-9. Conspiracy/anti-establishment YouTubers (Group 8) — Joe Rogan, Coffeezilla, Glenn Greenwald, Russell Brand, Kim Dotcom, etc.
-10. Louis Rossmann — YouTube email lookup + send (letter already written)
+### PREPPER/ANTI-GOVERNMENT YOUTUBERS SENT ON 2026-04-06:
+9. **Canadian Prepper (Nate Polson)** — 1.35M subs — ✅ EMAIL SENT to media@canadianpreparedness.com
+10. **Colion Noir** — 3.2M subs — ✅ EMAIL SENT to mrcolionnoir@gmail.com
+11. **Joe Rogan** — 17M subs — ✅ EMAIL SENT to jresponsorship@joerogan.net
+12. **City Prepping** — 1.23M subs — ✅ EMAIL SENT to cityprepping@adhesivemedia.com
+13. **The Urban Prepper (Cliff)** — 311K subs — ✅ EMAIL SENT to reviews@theurbanprepper.com
+14. **Rob Braxman** — 713K subs — ✅ EMAIL SENT to info@brax.me
+
+### TOMORROW (2026-04-07) PRIORITIES:
+1. **Wranglerstar (Cody Crone)** — 2.5M subs — need YouTube email lookup
+2. **Dan Bongino** — 930K subs — ✅ EMAIL READY: dan.bongino@gmail.com (no lookup needed!)
+3. **Tim Pool / Timcast** — 1.48M subs — need YouTube email lookup
+4. **Off Grid with Doug & Stacy** — 1.19M subs — need YouTube email lookup
+5. **The Hated One** — ~800K subs — need YouTube email lookup
+6. **Louis Rossmann** — letter already written, need YouTube email lookup
+7. Continue with more prepper/anti-government channels
+8. Full target list in: outreach_letters/prepper_conspiracy_youtubers_NEXT_WAVE.md
+
+**NOTE:** YouTube email lookups limited to ~10 per day. Dan Bongino email already found — no lookup needed.
 4. France — specific AI professors + senior military officers (in French)
 5. Germany — specific AI professors + senior military officers (in German)
 6. Australia — specific AI professors + senior military officers (in English)
