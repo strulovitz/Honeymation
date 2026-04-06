@@ -125,7 +125,9 @@ Official public contacts (confirmed from nychealthandhospitals.org/contact/):
 
 ## FAX NUMBERS — THE BACKUP CHANNEL
 
-For people with no verified email, send via fax using **FaxZero.com** (free, no signup, 5 faxes/day, 15 pages, works internationally from Israel).
+For people with no verified email, send via fax using **GotFreeFax.com** (free, 2 faxes/day, email verification only, works internationally from Israel). ✅ CONFIRMED WORKING on 2026-04-06: successfully faxed letters to Kantor (Lincoln) and Morea (Harlem).
+
+Other options: FaxZero.com (didn't work — stuck on email confirmation), Fax.Plus, CocoFax.
 
 | Location | Fax Number | Phone | Who's There |
 |----------|-----------|-------|-------------|

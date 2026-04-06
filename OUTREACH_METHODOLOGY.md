@@ -325,10 +325,22 @@ When writing to reporters, correspondents, editors, and media people (NOT YouTub
 - Conspiracy/anti-establishment YouTubers FIRST (they actually read their email and engage with audience)
 - Countries come AFTER YouTubers, but with targeted individuals not generic inboxes
 
-### TODAY (2026-04-06) PRIORITIES:
-1. **NYC Health + Hospitals** — DROPPED Palantir, need AI replacement, Chief AI Officer position VACANT. Write to Mitchell Katz (CEO), Kim Mendez (CIO), PressOffice, Eric Wei (Bellevue CEO). Full research in outreach_letters/nyc_hospitals_research.md
-2. Conspiracy/anti-establishment YouTubers (Group 8) — Joe Rogan, Coffeezilla, Glenn Greenwald, Russell Brand, Kim Dotcom, etc.
-3. Louis Rossmann — YouTube email lookup + send (letter already written)
+### SENT ON 2026-04-06 — NYC HEALTH + HOSPITALS (personalized letters, secretary-proof subject lines):
+
+1. **José A. Pagán, PhD** — Board Chair — ✅ EMAIL SENT to jose.pagan@nyu.edu
+2. **Michelle Morse, MD, MPH** — Board / CMO Health Dept — ✅ EMAIL SENT to commissioner_morse@health.nyc.gov
+3. **Molly Wasow Park** — Board / ex-DSS Commissioner — ✅ EMAIL SENT to ombudsman@dss.nyc.gov
+4. **Mitchell Katz, MD** — President & CEO — ✅ EMAIL SENT via PressOffice@nychhc.org (ATTN in subject)
+5. **Alan Kantor, MD** — Chief of Radiology, Lincoln — ✅ FAX SENT to (718) 579-4781 via GotFreeFax.com + emails to omarb@nychhc.org and lincolnhim@nychhc.org
+6. **Justin Morea, DO, MBA** — CMIO, Harlem — ✅ FAX SENT to (212) 939-1367 via GotFreeFax.com + email to harlemhospitalcenter@nychhc.org
+
+### STILL TO SEND ON 2026-04-06:
+7. **Amit Uppal, MD** — CMO, Bellevue — Amit.Uppal@nyulangone.org (IN PROGRESS)
+8. **Sewit Teckie, MD, MBA** — VP Enterprise Clinical Ops — Sewit.Teckie@nyulangone.org + steckie@sgu.edu
+
+### REMAINING 2026-04-06 PRIORITIES:
+9. Conspiracy/anti-establishment YouTubers (Group 8) — Joe Rogan, Coffeezilla, Glenn Greenwald, Russell Brand, Kim Dotcom, etc.
+10. Louis Rossmann — YouTube email lookup + send (letter already written)
 4. France — specific AI professors + senior military officers (in French)
 5. Germany — specific AI professors + senior military officers (in German)
 6. Australia — specific AI professors + senior military officers (in English)
