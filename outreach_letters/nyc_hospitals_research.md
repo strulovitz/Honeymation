@@ -123,6 +123,31 @@ Official public contacts (confirmed from nychealthandhospitals.org/contact/):
 
 ⚠️ The First.Last@nychhc.org format was reported by third-party sites (RocketReach, LeadIQ) but is NOT verified. DO NOT use guessed emails — only verified ones.
 
+## FAX NUMBERS — THE BACKUP CHANNEL
+
+For people with no verified email, send via fax using **FaxZero.com** (free, no signup, 5 faxes/day, 15 pages, works internationally from Israel).
+
+| Location | Fax Number | Phone | Who's There |
+|----------|-----------|-------|-------------|
+| **NYC H+H HQ (50 Water St)** | ❌ Not found | (212) 442-3853 | **Mitchell Katz (CEO)**, **Kim Mendez (CIO)**, corporate leadership |
+| **Bellevue Hospital** | **(212) 562-8585** ✅ | (212) 562-4141 | **Amit Uppal (CMO)**, Eric Wei (CEO) |
+| **Lincoln Hospital** | **(718) 579-4781** ✅ | (718) 579-5000 | **Alan Kantor (Chief Radiology)** |
+| **Harlem Hospital** | **(212) 939-1367** ✅ | (212) 939-1000 | **Justin Morea (CMIO)** |
+| **Kings County Hospital** | **(718) 245-4778** ✅ | (718) 245-3131 | **Emmanuel Nwokedi (Chief Rad Onc)** |
+
+### Additional hospital emails found:
+- Lincoln Public Affairs: **omarb@nychhc.org** (Bassal Omar) ✅
+- Lincoln HIM: **lincolnhim@nychhc.org** ✅
+- Harlem Hospital: **harlemhospitalcenter@nychhc.org** ✅
+
+### FOR KATZ SPECIFICALLY (no fax found for HQ):
+Options to reach Mitchell Katz:
+1. **PressOffice@nychhc.org** — official channel, mention it's for the CEO
+2. **HHCService@nychhc.org** — general service email
+3. **Bellevue fax (212) 562-8585** — Bellevue is the flagship, Katz has strong ties there
+4. **Call (212) 442-3853** (HQ phone) and ask for CEO office fax number
+5. **Physical mail:** Dr. Mitchell Katz, President & CEO, NYC Health + Hospitals, 50 Water Street, Office 1762, New York, NY 10004
+
 ---
 
 ## LETTER STRATEGY
