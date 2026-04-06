@@ -149,7 +149,7 @@ For Dr. [Last Name]: $0 AI system replacing Palantir — HIPAA-compliant, no pat
 ## TOP 5 DOCTORS TO CONTACT (priority order):
 
 1. **Justin Morea, DO, MBA** (Harlem) — Chief Medical INFORMATION Officer. Tech + medicine. THE person. ❌ No verified email (phone only or LinkedIn paid)
-2. **Alan Kantor, MD** (Lincoln) — Chief of Radiology. Katz wants AI for radiology. Direct relevance. ✅ alan.cantor@childrens.harvard.edu
+2. **Alan Kantor, MD** (Lincoln) — Chief of Radiology. Katz wants AI for radiology. Direct relevance. ❌ alan.cantor@childrens.harvard.edu is WRONG PERSON (that's a Harvard pediatric oncologist named Cantor with a C). No verified email for the real Alan Kantor. Phone: (718) 579-6101. Hospital general fax: (718) 579-4781. Lincoln Public Affairs: omarb@nychhc.org (Bassal Omar). Lincoln HIM: lincolnhim@nychhc.org. **AMAZING:** He published "Why humans still matter in the era of Artificial Intelligence" (Academic Radiology, 2020, 27 citations). FREE FAX OPTION: FaxZero.com (up to 5 free faxes/day, 15 pages, international, no signup)
 3. **Emmanuel Nwokedi, MD** (Kings County) — Chief of Radiology Oncology + Cancer Committee Chair. AI for cancer screening. ❌ No verified email (phone only or LinkedIn paid)
 4. **Amit Uppal, MD** (Bellevue) — CMO of the flagship hospital. High influence. ✅ Amit.Uppal@nyulangone.org
 5. **Sewit Teckie, MD, MBA** (System-wide) — VP Enterprise Clinical Operations. System-level influence + oncology background. ✅ Sewit.Teckie@nyulangone.org + steckie@sgu.edu
