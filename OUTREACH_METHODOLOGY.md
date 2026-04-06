@@ -607,12 +607,13 @@ Nir Strulovitz
 
 **Full research file:** `outreach_letters/nyc_hospitals_research.md`
 
-**Who to contact (in priority order):**
-1. **Dr. Mitchell Katz** — President & CEO — Mitchell.Katz@nychhc.org — the man who dropped Palantir
-2. **Kim Mendez, EdD** — SVP, Corporate CIO — Kim.Mendez@nychhc.org — technology decision maker
-3. **PressOffice@nychhc.org** — official public contact
-4. **Eric Wei, MD** — CEO, Bellevue Hospital (flagship) — Eric.Wei@nychhc.org
-5. **José A. Pagán, PhD** — Board Chair
+**Who to contact (in priority order) — ONLY verified emails:**
+1. **José A. Pagán, PhD** — Board Chair — ✅ jose.pagan@nyu.edu
+2. **Michelle Morse, MD, MPH** — Board Member / Health Commissioner — ✅ commissioner_morse@health.nyc.gov
+3. **Molly Wasow Park** — Commissioner HRA — ✅ ombudsman@dss.nyc.gov
+4. **PressOffice@nychhc.org** — official public contact (confirmed from website)
+5. **Dr. Mitchell Katz** — President & CEO (the man who dropped Palantir) — no verified personal email yet, try via PressOffice
+6. **Kim Mendez, EdD** — SVP, Corporate CIO — no verified personal email yet
 6. Additional hospital CEOs (see research file for all 11)
 
 **Pitch angle:** "You dropped Palantir because you can't trust Big Tech with patient data. I built exactly what you need — AI that runs entirely inside your hospitals. No data ever leaves your building."

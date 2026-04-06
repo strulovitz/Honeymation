@@ -56,67 +56,72 @@ Plus: **Gotham Health** (30 community clinics) — CEO: Michelle Lewis
 
 ## KEY PEOPLE TO CONTACT (in order of priority)
 
-### PRIORITY 1 — The Decision Makers for AI/Technology:
+### ⚠️ NOTE: Only use VERIFIED emails below. Guessed emails (First.Last@nychhc.org format) are NOT confirmed and may bounce. Nir verified the emails marked ✅ via Google on 2026-04-06.
 
-**1. Dr. Mitchell Katz** — President & CEO of the entire system
-- THE person who announced dropping Palantir
-- THE person who wants AI to replace radiologists
-- Email format: Mitchell.Katz@nychhc.org (based on standard format: First.Last@nychhc.org)
-- General service email: HHCService@nychhc.org
-- Office: 50 Water St, New York, NY 10004
+### PRIORITY 1 — VERIFIED EMAILS (confirmed by Nir):
 
-**2. Kim Mendez, EdD, ANP, RN** — SVP, Corporate Chief Information Officer
-- Oversees ALL technology decisions for the entire system
-- Email format: Kim.Mendez@nychhc.org
-- Source: https://www.nychealthandhospitals.org/leader/kim-mendez/
-
-**3. Chief Data and AI Officer — POSITION VACANT**
-- Divya Pathak LEFT on January 30, 2026 to become Regeneron's inaugural Chief AI Officer
-- No replacement announced as of April 2026
-- This means: the person who would normally evaluate our system is GONE. The decision goes up to Kim Mendez (CIO) or Mitchell Katz (CEO) directly.
-- Source: https://www.beckershospitalreview.com/hospital-executive-moves/nyc-health-hospitals-ai-chief-to-depart/
-
-### PRIORITY 2 — Press Office (they handle external communications):
-
-**4. Press Office** — PressOffice@nychhc.org
-- This is the official public-facing email
-- Frame as: notification of technology relevant to their Palantir replacement
-
-### PRIORITY 3 — Board Chair:
-
-**5. José A. Pagán, PhD** — Chair of the Board of Directors
-- Academic — likely has a university email too
+**1. José A. Pagán, PhD** — Chair of the Board of Directors
+- ✅ VERIFIED EMAIL: jose.pagan@nyu.edu (he's at NYU)
 - Source: https://www.nychealthandhospitals.org/leadership/board-of-directors/
 
-### PRIORITY 4 — Individual Hospital CEOs (the biggest hospitals):
+**2. Michelle Morse, MD, MPH** — Board Member, also acting Health Commissioner
+- ✅ VERIFIED EMAIL: commissioner_morse@health.nyc.gov
 
-**6. Eric Wei, MD, MBA** — CEO, Bellevue Hospital (the FLAGSHIP, most famous)
-- Email format: Eric.Wei@nychhc.org
+**3. Molly Wasow Park** — Commissioner, NYC Human Resources Administration
+- ✅ VERIFIED EMAIL: ombudsman@dss.nyc.gov
 
-**7. Sheldon McLeod** — CEO, Kings County Hospital
-- Email format: Sheldon.McLeod@nychhc.org
+### PRIORITY 2 — Official public contacts (confirmed from website):
 
-**8. Alina Moran, FACHE, FAB** — CEO, Elmhurst Hospital  
-- Email format: Alina.Moran@nychhc.org
+**4. Press Office** — PressOffice@nychhc.org
+- Confirmed on https://www.nychealthandhospitals.org/contact/
 
-**9. Christopher Mastromano, MBA** — CEO, Jacobi / North Central Bronx
-- Email format: Christopher.Mastromano@nychhc.org
+**5. General Service** — HHCService@nychhc.org
+- Office: 50 Water St, New York, NY 10004
+
+### PRIORITY 3 — Key decision makers (NO verified personal email yet):
+
+**6. Dr. Mitchell Katz** — President & CEO of the entire system
+- THE person who announced dropping Palantir
+- THE person who wants AI to replace radiologists
+- ❌ No verified personal email found yet — try via PressOffice or HHCService
+
+**7. Kim Mendez, EdD, ANP, RN** — SVP, Corporate Chief Information Officer
+- Oversees ALL technology decisions for the entire system
+- ❌ No verified personal email found yet
+- Source: https://www.nychealthandhospitals.org/leader/kim-mendez/
+
+**8. Chief Data and AI Officer — POSITION VACANT**
+- Divya Pathak LEFT on January 30, 2026 to become Regeneron's inaugural Chief AI Officer
+- No replacement announced as of April 2026
+- This means the AI decision goes up to Kim Mendez (CIO) or Mitchell Katz (CEO) directly
+- Source: https://www.beckershospitalreview.com/hospital-executive-moves/nyc-health-hospitals-ai-chief-to-depart/
+
+### PRIORITY 4 — Other board members (NO verified email yet):
+
+**9. Patricia Marthone, MUDr** — Chair of Equity, Diversity and Inclusion Committee
+**10. Suzanne Miles-Gustave** — Deputy Mayor for Health and Human Services
+**11. Catherine G. Patsos** — Board Member
+
+### PRIORITY 5 — Individual Hospital CEOs (NO verified personal emails yet):
+
+| # | Name | Hospital | Email Status |
+|---|------|----------|-------------|
+| 12 | Eric Wei, MD, MBA | Bellevue (flagship) | ❌ Not verified |
+| 13 | Sheldon McLeod | Kings County | ❌ Not verified |
+| 14 | Alina Moran, FACHE | Elmhurst | ❌ Not verified |
+| 15 | Christopher Mastromano, MBA | Jacobi / North Central Bronx | ❌ Not verified |
 
 ---
 
-## EMAIL FORMAT
+## CONFIRMED CONTACT CHANNELS
 
-The standard NYC H+H email format is: **First.Last@nychhc.org** (used ~68% of the time)
-
-Alternative formats:
-- LastF@nychhc.org
-- FirstL@nychhc.org
-
-General contacts:
+Official public contacts (confirmed from nychealthandhospitals.org/contact/):
 - Press: PressOffice@nychhc.org
 - General: HHCService@nychhc.org
 - Webmaster: webmaster@nychhc.org
 - Careers: CareersSiteInquiries@nychhc.org
+
+⚠️ The First.Last@nychhc.org format was reported by third-party sites (RocketReach, LeadIQ) but is NOT verified. DO NOT use guessed emails — only verified ones.
 
 ---
 
