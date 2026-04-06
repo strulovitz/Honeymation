@@ -4,6 +4,18 @@
 
 Senior doctors are GREEDY. Unlike CEOs who delegate, doctors must do high-value work PERSONALLY — patients come for Dr. X, not his assistant. So doctors WANT to be contacted about opportunities. The challenge is getting past the secretary who only knows how to schedule appointments and throws everything else in the trash.
 
+## ⚠️ CRITICAL RULE: NO ISRAEL / IDF / ELBIT IN NYC H+H LETTERS
+
+NEVER mention Israel, IDF, Elbit Systems, or any Israeli military/defense connection in ANY letter to NYC H+H people. Not in the body, not in the signature, NOWHERE.
+
+**Why:** NYC H+H dropped Palantir BECAUSE of military/defense ties (ICE, airstrikes, surveillance). Mentioning Israeli military connections to these exact people is like writing "PLEASE STOP READING" in capital letters. The whole world hates Israel right now because of the Iran war. These are NYC public health progressives — they are allergic to anything military/defense.
+
+**Instead say:** "software developer with over 15 years of experience" — true, no Israel.
+
+**This rule applies to ALL letters in this NYC H+H hospital series. No exceptions.**
+
+---
+
 ## THE SECRETARY PROBLEM
 
 The secretary's mental model:
