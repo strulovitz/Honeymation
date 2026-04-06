@@ -115,6 +115,7 @@ Key rules:
 4. **They are the JUDGE:** Position them as expert being consulted, not target being pitched.
 5. **Be vulnerable:** "I might be wrong" and "I don't have credentials in your field" LOWER defenses.
 6. **Keep full explanation:** Do NOT shorten or add fake imperfections. But frame as "here's what I built so you can evaluate" not "here's how amazing I am."
+7. **⭐ THE GOLDEN RULE — EXTEND, NEVER REPLACE:** Never say "what you do is wrong/outdated." Always say "what you do is strong, my invention makes it stronger." Their work = the foundation. Our invention = the next layer. They keep their pride, we get adopted, the truth wins through the back door. This applies to ALL recipients: professors, YouTubers, governments, doctors. **Never replace. Always extend.** Full explanation in LETTER_STRATEGY_CRITICAL_UPDATE.md.
 
 ### PHASE 3: FIRST PARAGRAPH
 9. Must hook IMMEDIATELY with THEIR identity and mission — show deep understanding of what they do and connect it to something genuinely relevant
