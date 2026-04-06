@@ -2,11 +2,9 @@ Subject: You started the Clippy protest against AI data abuse. I built the tool 
 
 Louis,
 
-You told millions of people to change their profile picture to Clippy as a protest against Big Tech using their data for AI training. The video went viral. People did it. It was a symbol — a way of saying "we don't want our data abused."
+You told millions of people to change their profile picture to Clippy as a protest against Big Tech using their data for AI training. The video went viral. People did it. It became a movement — a visible, collective refusal to accept that corporations have the right to take what is yours without asking.
 
-But a symbol is not a solution. People changed their profile pictures and then went right back to typing their thoughts into ChatGPT, uploading documents to Google Gemini, and feeding Microsoft Copilot their private data. The protest was real. The surveillance continued.
-
-I built the thing that makes the protest actually work.
+That movement inspired me. Because I had been building something in the same spirit — a tool that turns the principle you stand for into something people can actually run on their own machines, right now, today.
 
 I am a software developer and independent inventor. I built an open-source distributed AI system that runs entirely on your own computers, on your own local network, with zero cloud dependency. No data ever leaves your network. No API calls. No telemetry. No corporate servers. Nothing phoning home. You could air-gap it and it would still function.
 
@@ -38,7 +36,7 @@ https://github.com/strulovitz
 Non-technical book explaining the concept:
 https://github.com/strulovitz/TheDistributedAIRevolution/blob/main/README.md
 
-You gave people a symbol. This is the tool.
+You started the movement. This is a tool worthy of it.
 
 With respect,
 Nir Strulovitz
