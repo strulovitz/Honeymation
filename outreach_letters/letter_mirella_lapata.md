@@ -1,4 +1,4 @@
-Subject: You co-direct Edinburgh's Generative AI Lab. I built a generative AI system where nothing leaves the building. Open source.
+Subject: Your Generative AI Lab depends on American servers. My invention replaces them with your own computers working together. No data leaves Edinburgh.
 
 Professor Lapata,
 
