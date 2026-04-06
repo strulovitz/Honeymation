@@ -356,6 +356,16 @@ When writing to reporters, correspondents, editors, and media people (NOT YouTub
 
 **NYC H+H TOTAL: 8 people contacted (5 emails + 2 faxes + 1 PressOffice + 3 hospital emails)**
 
+### UK PROFESSORS SENT ON 2026-04-06 (personalized letters, invention-first, new strategy):
+9. **Yves-Alexandre de Montjoye** — Imperial, AI Security & Privacy Lab — ✅ EMAIL SENT to demontjoye@imperial.ac.uk
+10. **Michael Wooldridge** — Oxford, multi-agent systems — ✅ EMAIL SENT to michael.wooldridge@cs.ox.ac.uk
+11. **Michael Rovatsos** — Edinburgh, ethical AI — ✅ EMAIL SENT to Michael.Rovatsos@ed.ac.uk
+12. **Mirella Lapata** — Edinburgh, Generative AI Lab — ✅ EMAIL SENT to mlap@inf.ed.ac.uk
+13. **Dame Wendy Hall** — Southampton, UK AI policy — ✅ EMAIL SENT to wh@ecs.soton.ac.uk (CC: N.Need@soton.ac.uk)
+14. **Geoffrey Hinton** — "Godfather of AI," alignment/safety — ✅ EMAIL SENT to geoffrey.hinton@gmail.com + jennifer.cressman@utoronto.ca
+15. **Kay Firth-Butterfield** — AI governance, WEF — ✅ EMAIL SENT to kay@goodtechadvisory.com
+16. **David Barber** — UCL AI Centre, sovereign AI — ✅ EMAIL SENT to david.barber@ucl.ac.uk
+
 ### PREPPER/ANTI-GOVERNMENT YOUTUBERS SENT ON 2026-04-06:
 9. **Canadian Prepper (Nate Polson)** — 1.35M subs — ✅ EMAIL SENT to media@canadianpreparedness.com
 10. **Colion Noir** — 3.2M subs — ✅ EMAIL SENT to mrcolionnoir@gmail.com
@@ -365,16 +375,37 @@ When writing to reporters, correspondents, editors, and media people (NOT YouTub
 14. **Rob Braxman** — 713K subs — ✅ EMAIL SENT to info@brax.me
 
 ### TOMORROW (2026-04-07) PRIORITIES:
-1. **Wranglerstar (Cody Crone)** — 2.5M subs — need YouTube email lookup
-2. **Dan Bongino** — 930K subs — ✅ EMAIL READY: dan.bongino@gmail.com (no lookup needed!)
+
+**UK Professors (remaining):**
+1. **Nello Cristianini** — Bristol/Bath — nello.cristianini@bristol.ac.uk + nc993@bath.ac.uk — NEED TO WRITE (use new strategy!)
+
+**Prepper/Anti-Government YouTubers (need YouTube email lookups):**
+2. **Wranglerstar (Cody Crone)** — 2.5M subs — need YouTube email lookup
 3. **Tim Pool / Timcast** — 1.48M subs — need YouTube email lookup
 4. **Off Grid with Doug & Stacy** — 1.19M subs — need YouTube email lookup
 5. **The Hated One** — ~800K subs — need YouTube email lookup
-6. **Louis Rossmann** — letter already written, need YouTube email lookup
-7. Continue with more prepper/anti-government channels
-8. Full target list in: outreach_letters/prepper_conspiracy_youtubers_NEXT_WAVE.md
+6. More from list in: outreach_letters/prepper_conspiracy_youtubers_NEXT_WAVE.md
 
-**NOTE:** YouTube email lookups limited to ~10 per day. Dan Bongino email already found — no lookup needed.
+**Already sent (no lookup needed):**
+- Dan Bongino ✅ SENT on 2026-04-06
+- Louis Rossmann ✅ SENT on 2026-04-06
+
+**⚠️ IMPORTANT: ALL new letters must follow the NEW STRATEGY:**
+- Read LETTER_STRATEGY_CRITICAL_UPDATE.md FIRST
+- Golden Rule: Extend, never replace
+- Kill the resume (no "17 books," no "one week," no "independent inventor")
+- Ask don't tell (they are the judge)
+- Be vulnerable
+- Invention first, max 1-2 personal touches
+
+**NOTE:** YouTube email lookups limited to ~10 per day.
+
+### ALL-TIME TOTALS AS OF END OF 2026-04-06:
+- NYC Health + Hospitals: 8 contacts (3 email + 2 fax + 1 PressOffice + 2 NYU email)
+- Prepper/Anti-Government YouTubers: 8 contacts (6 email on Apr 6 + 2 already sent)
+- UK Professors: 8 contacts (all email)
+- Previous rounds (Apr 3-5): ~150 contacts
+- **GRAND TOTAL: ~174 contacts**
 4. France — specific AI professors + senior military officers (in French)
 5. Germany — specific AI professors + senior military officers (in German)
 6. Australia — specific AI professors + senior military officers (in English)
