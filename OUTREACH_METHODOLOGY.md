@@ -12,6 +12,8 @@
 
 3. **Save EVERYTHING to GitHub and push physically.** Memory files are nice-to-have but have no real effect. Only what is pushed to GitHub is actually saved. Other Claude Code instances on other machines cannot see memory files.
 
+4. **NEVER automate Gmail sending.** Do NOT use SMTP, Gmail API, or any automated/programmatic sending from Nir's personal Gmail account. Personal Gmail limit is 500/day but spam detection triggers around 50-100 similar emails and can PERMANENTLY SUSPEND the entire Google account (Gmail, Drive, YouTube — everything). Nir got blocked on Quora from automated sending before. His Gmail is irreplaceable — it's on all outreach letters, it's his only contact point. Send manually, 5-10 per hour, under 50 per day. Each email personalized. This rule is PERMANENT and cannot be overridden.
+
 ---
 
 ## ⚠️ CRITICAL: NEW TONE DIRECTIVE (2026-04-05) — OVERRIDES ALL OLD TONE RULES
@@ -324,13 +326,14 @@ When writing to reporters, correspondents, editors, and media people (NOT YouTub
 - Countries come AFTER YouTubers, but with targeted individuals not generic inboxes
 
 ### TODAY (2026-04-06) PRIORITIES:
-1. Conspiracy/anti-establishment YouTubers (Group 8) — Joe Rogan, Coffeezilla, Glenn Greenwald, Russell Brand, Kim Dotcom, etc.
-2. Louis Rossmann — YouTube email lookup + send (letter already written)
-3. France — specific AI professors + senior military officers (in French)
-4. Germany — specific AI professors + senior military officers (in German)
-5. Australia — specific AI professors + senior military officers (in English)
-6. Canada — specific AI professors + senior military officers (English + French)
-7. NATO + EU agencies
+1. **NYC Health + Hospitals** — DROPPED Palantir, need AI replacement, Chief AI Officer position VACANT. Write to Mitchell Katz (CEO), Kim Mendez (CIO), PressOffice, Eric Wei (Bellevue CEO). Full research in outreach_letters/nyc_hospitals_research.md
+2. Conspiracy/anti-establishment YouTubers (Group 8) — Joe Rogan, Coffeezilla, Glenn Greenwald, Russell Brand, Kim Dotcom, etc.
+3. Louis Rossmann — YouTube email lookup + send (letter already written)
+4. France — specific AI professors + senior military officers (in French)
+5. Germany — specific AI professors + senior military officers (in German)
+6. Australia — specific AI professors + senior military officers (in English)
+7. Canada — specific AI professors + senior military officers (English + French)
+8. NATO + EU agencies
 9. More YouTubers from Group 8 target list
 
 ---
@@ -599,7 +602,27 @@ Nir Strulovitz
 ### PRIORITY 2: HOSPITALS / HEALTHCARE ORGANIZATIONS
 **Why:** Hospitals handle the most sensitive data imaginable — patient records, diagnoses, treatment plans. They NEED AI but they CANNOT send patient data to the cloud (HIPAA in US, GDPR in Europe). Our Private Mode is a perfect fit. Offer to set up the system for FREE as a case study.
 
-**Target:**
+#### ⭐ TOP TARGET: NYC HEALTH + HOSPITALS (NYCHH) — DROPPED PALANTIR IN MARCH 2026
+**Why NYCHH is #1:** They just TERMINATED their contract with Palantir (expires Oct 2026) because of surveillance/privacy concerns. They plan to bring AI IN-HOUSE but have NO replacement yet. Their Chief Data & AI Officer (Divya Pathak) LEFT in Jan 2026 — position VACANT. CEO Mitchell Katz also wants AI for radiology/cancer screening. This is the PERFECT target — they NEED what we built.
+
+**Full research file:** `outreach_letters/nyc_hospitals_research.md`
+
+**Who to contact (in priority order):**
+1. **Dr. Mitchell Katz** — President & CEO — Mitchell.Katz@nychhc.org — the man who dropped Palantir
+2. **Kim Mendez, EdD** — SVP, Corporate CIO — Kim.Mendez@nychhc.org — technology decision maker
+3. **PressOffice@nychhc.org** — official public contact
+4. **Eric Wei, MD** — CEO, Bellevue Hospital (flagship) — Eric.Wei@nychhc.org
+5. **José A. Pagán, PhD** — Board Chair
+6. Additional hospital CEOs (see research file for all 11)
+
+**Pitch angle:** "You dropped Palantir because you can't trust Big Tech with patient data. I built exactly what you need — AI that runs entirely inside your hospitals. No data ever leaves your building."
+
+**Sources:**
+- The Intercept (2026-03-24): https://theintercept.com/2026/03/24/palantir-new-york-city-hospitals-contract/
+- The Guardian (2026-03-26): https://www.theguardian.com/technology/2026/mar/26/new-york-hospitals-palantir-ai
+- BMJ: https://www.bmj.com/content/392/bmj.s611
+
+**Other hospital targets:**
 - Major hospital systems (Mayo Clinic, Cleveland Clinic, Johns Hopkins, Mass General, NHS trusts in UK)
 - Hospital IT/innovation departments
 - Healthcare AI conferences
