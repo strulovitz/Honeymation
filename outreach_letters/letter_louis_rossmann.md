@@ -1,4 +1,4 @@
-Subject: You started the Clippy protest against AI data abuse. I built the tool that makes the protest real.
+Subject: You started the Clippy movement. I built the AI system your movement has been waiting for.
 
 Louis,
 
