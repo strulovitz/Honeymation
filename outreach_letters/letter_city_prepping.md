@@ -1,6 +1,6 @@
 Subject: You taught a million people to prep their water, food, and power. Nobody has prepped their AI. Here's how.
 
-Kris,
+Hi City Prepping,
 
 Your audience has water filtration. They have food storage. They have solar panels and backup power. They have first aid kits and go-bags and emergency plans for their families. You taught them all of this — calmly, logically, without fear-mongering, step by step.
 
@@ -18,7 +18,7 @@ How it works: you install local AI models on computers you already own — a des
 
 If you have solar power — which you have taught thousands of people to set up — your AI works when the grid is down. If the internet goes out, your AI still runs because it never needed the internet in the first place. It is the only AI system that is truly grid-independent.
 
-You have a degree in microbiology and you worked in NGO disaster response in Afghanistan and Mexico. You understand infrastructure failure. You understand what happens when the systems people depend on stop working. You built your entire channel around one idea: prepare now, so that when systems fail, your family is safe. This is the AI version of that same idea.
+You built your entire channel around one idea: practical, actionable self-sufficiency for urban and suburban families. Prepare now, so that when systems fail, your family is safe. Not apocalyptic fear — real, everyday preparedness. This is the AI version of that same idea.
 
 This is not a product. I am not selling anything. This is free, open-source, built by one person in one week, and it works. I am the author of 17 books on breakthroughs in science and technology.
 
