@@ -1,12 +1,14 @@
-Subject: Structural solution to alignment: distributed parallel AI where no single model sees the whole picture. Working open-source system + video explanation inside.
+Subject: I think I found a way to make AI genuinely "good" — not through rules it can break, but through architecture that makes goodness the rational choice. Working system + video inside.
 
 Kay,
 
+I want to share with you an invention and an idea. The invention is technical, but I promise the core idea is simple and I will get to it quickly. Please bear with me for one paragraph of technical description — everything after that is pure logic.
+
 I built a working AI system where many small AI models on separate computers each process an independent piece of a larger task, in true parallel, with zero communication between them. A coordinator breaks the task, distributes pieces, combines results. No single model ever holds the full problem. No single machine has enough context to be dangerous. It runs today, free, open source, every line inspectable.
 
-But the invention is only half of what I want to share with you. The other half is an argument about alignment — and I think you will follow it immediately, because it is built on the same logic you have applied throughout your career in law and governance.
+That is the technical part. Now here is why it matters for something you care about deeply: making AI ethical — not by hoping it obeys rules, but by making ethical behavior the structurally rational choice.
 
-The alignment problem as currently framed assumes we must make ONE powerful AI behave through rules — regulations, safety rails, hard-coded ethics. As a fellow lawyer — I did my legal internship with a judge in a peace court — I can tell you that this framing has always troubled me. We know from law that rules only work when the entity being regulated cannot simply overpower the system that enforces them. A sufficiently intelligent AI will find its way around any constraint, just as a powerful enough actor finds ways around any law. Regulation works on equals and on the weak. It does not work on gods.
+The current approach to AI ethics assumes we must make ONE powerful AI behave through regulations, safety rails, and hard-coded principles. Before I became a software developer and inventor, I trained and worked as a lawyer — I did my legal internship with a judge in a peace court. So I understand the appeal of rules. But I also know from law that rules only work when the entity being regulated cannot simply overpower the system that enforces them. A sufficiently intelligent AI will find its way around any constraint, just as a powerful enough actor finds ways around any law. Regulation works on equals and on the weak. It does not work on gods.
 
 So I asked a different question: what if alignment does not come from rules at all? What if it comes from architecture — from HOW the AI is structured — rather than from what we TELL it to do?
 
