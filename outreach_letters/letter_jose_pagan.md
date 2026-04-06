@@ -38,7 +38,7 @@ I am available immediately as a consultant to help set up a pilot at any NYC H+H
 
 With deep respect,
 Nir Strulovitz
-Independent inventor, author of 17 books on science and technology breakthroughs
+Software developer, independent inventor, author of 17 books on science and technology breakthroughs
 Email: nir.strulovitz@gmail.com
 Mobile: +972-54-475-2626
 GitHub: https://github.com/strulovitz
