@@ -334,9 +334,10 @@ When writing to reporters, correspondents, editors, and media people (NOT YouTub
 5. **Alan Kantor, MD** — Chief of Radiology, Lincoln — ✅ FAX SENT to (718) 579-4781 via GotFreeFax.com + emails to omarb@nychhc.org and lincolnhim@nychhc.org
 6. **Justin Morea, DO, MBA** — CMIO, Harlem — ✅ FAX SENT to (212) 939-1367 via GotFreeFax.com + email to harlemhospitalcenter@nychhc.org
 
-### STILL TO SEND ON 2026-04-06:
-7. **Amit Uppal, MD** — CMO, Bellevue — Amit.Uppal@nyulangone.org (IN PROGRESS)
-8. **Sewit Teckie, MD, MBA** — VP Enterprise Clinical Ops — Sewit.Teckie@nyulangone.org + steckie@sgu.edu
+7. **Amit Uppal, MD** — CMO, Bellevue — ✅ EMAIL SENT to Amit.Uppal@nyulangone.org
+8. **Sewit Teckie, MD, MBA** — VP Enterprise Clinical Ops — ✅ EMAIL SENT to Sewit.Teckie@nyulangone.org + steckie@sgu.edu
+
+**NYC H+H TOTAL: 8 people contacted (5 emails + 2 faxes + 1 PressOffice + 3 hospital emails)**
 
 ### REMAINING 2026-04-06 PRIORITIES:
 9. Conspiracy/anti-establishment YouTubers (Group 8) — Joe Rogan, Coffeezilla, Glenn Greenwald, Russell Brand, Kim Dotcom, etc.
