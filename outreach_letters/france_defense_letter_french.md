@@ -9,7 +9,7 @@
 | 3 | Direction générale de l'Armement | dga-cab.courrier.fct@intradef.gouv.fr, dga-ssdi-ppst.contact.fct@intradef.gouv.fr, dga-dice-contrat-export.contact.fct@intradef.gouv.fr |
 | 4 | Direction générale de la Sécurité extérieure | NEED EMAIL — Nir to search Google |
 | 5 | Agence de l'innovation de défense | dga.mip.fct@intradef.gouv.fr, agence-innovation-defense-mip.contact.fct@intradef.gouv.fr |
-| 6 | Commandement de la cyberdéfense | cellule.communication@defense.gouv.fr, comcyber.recrutement.fct@intradef.gouv.fr |
+| 6 | Commandement de la cyberdéfense | comcyber.recrutement.fct@intradef.gouv.fr (cellule.communication@defense.gouv.fr BOUNCED — removed) |
 | 7 | Direction du Renseignement et de la Sécurité de la Défense | drsd.cer.fct@intradef.gouv.fr |
 | 8 | Direction du Renseignement militaire | drm.communication.fct@intradef.gouv.fr |
 | 9 | Commission nationale de l'informatique et des libertés | presse@cnil.fr |
