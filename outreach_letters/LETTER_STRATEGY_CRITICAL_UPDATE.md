@@ -65,7 +65,7 @@ We do NOT make the letters shorter or introduce fake imperfections. Our inventio
 **But:** The explanation must serve the recipient, not impress them. Frame it as "here is what I built so you can evaluate it" not "here is how amazing I am."
 
 ### 7. THE INVENTION IS THE HOOK — always
-Lead with what we built. Not with politics, not with their biography, not with flattery. The invention — distributed, parallel, private, no single model sees the whole task — is what is genuinely new. Everything else is context.
+Lead with what we built. Not with politics, not with their biography, not with flattery. The invention — distributed, parallel, private, your data never leaves the building — is what is genuinely new. Everything else is context.
 
 ## THE GOLDEN RULE — EXTEND, NEVER REPLACE
 
