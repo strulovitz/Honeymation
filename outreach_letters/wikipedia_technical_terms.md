@@ -129,5 +129,36 @@ NEVER paraphrase. NEVER use Google Translate for technical terms.
 
 ---
 
-## French — TODO
+## French (Français) — VERIFIED via Wikipedia
+
+| # | English Term | French Wikipedia Title (EXACT) | URL |
+|---|---|---|---|
+| 1 | Distributed computing | Calcul distribué | https://fr.wikipedia.org/wiki/Calcul_distribué |
+| 2 | Parallel computing | Parallélisme (informatique) | https://fr.wikipedia.org/wiki/Parallélisme_(informatique) |
+| 3 | Task parallelism | Parallélisme des tâches | NO French Wikipedia page — constructed from verified: Parallélisme + tâches |
+| 4 | Tensor | Tenseur | https://fr.wikipedia.org/wiki/Tenseur |
+| 5 | Pipeline (computing) | Pipeline (informatique) | Redirects to Pipeline (architecture des processeurs); "pipeline" used as-is in French tech writing |
+| 6 | Data parallelism | Parallélisme de donnée | https://fr.wikipedia.org/wiki/Parallélisme_de_donnée |
+| 7 | Large language model | Grand modèle de langage | https://fr.wikipedia.org/wiki/Grand_modèle_de_langage |
+| 8 | Artificial intelligence | Intelligence artificielle | https://fr.wikipedia.org/wiki/Intelligence_artificielle |
+| 9 | Cloud computing | Cloud computing | https://fr.wikipedia.org/wiki/Cloud_computing |
+| 10 | Data sovereignty / Digital sovereignty | Souveraineté numérique | https://fr.wikipedia.org/wiki/Souveraineté_numérique |
+| 11 | Mass surveillance | Surveillance de masse | https://fr.wikipedia.org/wiki/Surveillance_de_masse |
+| 12 | Open-source software | Logiciel open source | https://fr.wikipedia.org/wiki/Logiciel_open_source |
+| 13 | Edward Snowden | Edward Snowden | https://fr.wikipedia.org/wiki/Edward_Snowden |
+| 14 | National security | Politique de sécurité nationale | https://fr.wikipedia.org/wiki/Politique_de_sécurité_nationale |
+| 15 | Local area network | Réseau local | https://fr.wikipedia.org/wiki/Réseau_local |
+| 16 | Military-industrial complex | Complexe militaro-industriel | https://fr.wikipedia.org/wiki/Complexe_militaro-industriel |
+| 17 | Big data | Big data | https://fr.wikipedia.org/wiki/Big_data |
+| 18 | Encryption | Chiffrement | https://fr.wikipedia.org/wiki/Chiffrement |
+| 19 | Privacy | Vie privée | https://fr.wikipedia.org/wiki/Vie_privée |
+| 20 | BitTorrent | BitTorrent | https://fr.wikipedia.org/wiki/BitTorrent |
+| 21 | Graphics processing unit | Processeur graphique | https://fr.wikipedia.org/wiki/Processeur_graphique |
+| 22 | Multi-agent system | Système multi-agents | https://fr.wikipedia.org/wiki/Système_multi-agents |
+| 23 | Whistleblower | Lanceur d'alerte | https://fr.wikipedia.org/wiki/Lanceur_d%27alerte |
+| — | Tensor parallelism | Parallélisme de tenseur | NO French Wikipedia page — constructed from verified: Parallélisme + tenseur |
+| — | Pipeline parallelism | Parallélisme de pipeline | NO French Wikipedia page — constructed from verified: Parallélisme + pipeline |
+
+---
+
 ## German — TODO
