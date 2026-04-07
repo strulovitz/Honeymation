@@ -158,6 +158,13 @@ NEVER paraphrase. NEVER use Google Translate for technical terms.
 | 23 | Whistleblower | Lanceur d'alerte | https://fr.wikipedia.org/wiki/Lanceur_d%27alerte |
 | — | Tensor parallelism | Parallélisme de tenseur | NO French Wikipedia page — constructed from verified: Parallélisme + tenseur |
 | — | Pipeline parallelism | Parallélisme de pipeline | NO French Wikipedia page — constructed from verified: Parallélisme + pipeline |
+| 24 | Differential privacy | Confidentialité différentielle | https://fr.wikipedia.org/wiki/Confidentialité_différentielle |
+| 25 | Gossip protocol | Protocole de bavardage | https://fr.wikipedia.org/wiki/Protocole_de_bavardage |
+| 26 | Federated learning | Apprentissage fédéré | https://fr.wikipedia.org/wiki/Apprentissage_fédéré |
+| 27 | Machine learning | Apprentissage automatique | https://fr.wikipedia.org/wiki/Apprentissage_automatique |
+| 28 | Statistical inference | Inférence statistique | https://fr.wikipedia.org/wiki/Inférence_statistique |
+| 29 | Gradient | Gradient | https://fr.wikipedia.org/wiki/Gradient |
+| 30 | Node (networking) | Nœud (réseau) | https://fr.wikipedia.org/wiki/Nœud_(réseau) |
 
 ---
 
