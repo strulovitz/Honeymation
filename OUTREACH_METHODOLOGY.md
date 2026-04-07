@@ -6,7 +6,7 @@
 
 ## ⚠️ DELIVERY RULES — HOW TO GIVE LETTERS TO NIR
 
-1. **Foreign language letters:** ALWAYS save as a .txt file on `C:\Users\nir_s\Desktop\` (e.g., `india_letter_COPY_FROM_HERE.txt`). Also copy to Downloads as backup. The terminal breaks Hindi/Chinese/Korean/Japanese text at random points making it impossible to copy-paste. A .txt file in Notepad displays perfectly. Do this BEFORE telling Nir the letter is ready.
+1. **Foreign language letters:** ALWAYS save as a .txt file in `C:\Users\nir_s\Downloads\` (e.g., `france_defense_COPY_FROM_HERE.txt`). NEVER save to Desktop — files saved there appear to vanish. Downloads folder works reliably. The terminal breaks Hindi/Chinese/Korean/Japanese/French text at random points making it impossible to copy-paste. A .txt file in Notepad displays perfectly. Do this BEFORE telling Nir the letter is ready. Verify with `ls` that the file actually exists.
 
 2. **Always give the COMPLETE letter** — full subject line + full body, ready to copy-paste. NEVER give just a changed paragraph out of context. Even in English. In foreign languages it's even worse — impossible to find where to insert a paragraph in a language you don't read.
 
