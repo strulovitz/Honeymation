@@ -94,6 +94,33 @@
 
 ---
 
+## Reply 5: US Cyber Command — CASE ASSIGNED
+
+**Date:** April 7, 2026 (response to letter sent April 4)
+**Who replied:** USCYBERCOM Hotline Team, Office of the Inspector General
+
+**Their reply:**
+> Good Morning Mr. Strulovitz,
+> Thank you for contacting the Office of the US Cyber Command Inspector General. We are in receipt of your contact and case number 2026-02741 has been assigned. It is noted that you sent your request to the Engage_With_Cybercom email address as well. This is the correct group to interact with and we have confirmed they are in receipt of your correspondence. Your information will be reviewed and addressed as appropriate.
+> We would like to thank you for this opportunity to assist you with this matter, at this time the US Cyber Command IG considers case 2026-02741 close with no further actions required by this office.
+> V/R
+> USCYCBERCOM Hotline Team
+> Office of the Inspector General
+> USCC_IG@cybercom.mil
+
+**What happened:** The IG office received it, assigned case #2026-02741, confirmed that Engage_With_Cybercom (the correct engagement team) has the correspondence, and closed their own case because it's not an IG matter — it belongs with the engagement team. The engagement team has it and "will review and address as appropriate."
+
+**Our letter that reached them:** Professional tone (old style), sent to multiple Cyber Command emails: Engage_With_Cybercom@nsa.gov, USCC_IG@nsa.gov, USCC_CAE@nsa.gov, USCYBERCOM_AEN@nsa.gov, Cyber_Recruiting@nsa.gov, JOCcbc@nsa.gov. Subject: "Notification of a new disruptive technology in distributed AI — relevant to national security and data sovereignty"
+
+**Lessons:**
+1. Defense agency generic emails DO get read — at least in the US. Evidence that French/German defense emails may work too.
+2. Professional, non-revolutionary tone worked — got processed properly, assigned a case number.
+3. "Friendly nations" framing was smart — positioned as ally, not threat.
+4. Sending to MULTIPLE email addresses at the same agency works — it got routed to the right team.
+5. Case number = it's in their system. Bureaucracies track things. Someone will look at it.
+
+---
+
 ## Summary of What Works
 
 | What works | Evidence |
@@ -110,7 +137,9 @@
 |---|---|
 | Making recipient feel small / replacing their work | Rossmann rejected |
 | Deep dossier (10+ facts about them) | Multiple non-responses |
-| Generic institutional emails (not named individuals) | ~81 contacts to Asia, zero replies |
+| Generic institutional emails (not named individuals) | ~81 contacts to Asia, zero replies — BUT US Cyber Command DID respond via generic email |
+| Professional tone for defense agencies | US Cyber Command assigned a case number |
+| Sending to MULTIPLE emails at same agency | Gets routed to correct team (US Cyber Command evidence) |
 
 ## Rules for ALL future letters
 
