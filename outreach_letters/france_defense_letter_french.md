@@ -2,26 +2,20 @@
 
 ## Target Agencies & Contact Info
 
-| # | Agency | French Name | Contact Method |
-|---|--------|------------|----------------|
-| 1 | ANSSI (Cybersecurity Agency) | Agence Nationale de la Sécurité des Systèmes d'Information | cert-fr@ssi.gouv.fr + communication@ssi.gouv.fr + secretariat.anssi@ssi.gouv.fr |
-| 2 | DGSI (Domestic Intelligence) | Direction Générale de la Sécurité Intérieure | securite-economique@interieur.gouv.fr + cyber.dgsi@interieur.gouv.fr |
-| 3 | DGSE (Foreign Intelligence) | Direction Générale de la Sécurité Extérieure | Contact form via démarches-simplifiées.fr; Phone: 01 56 06 34 80 |
-| 4 | DGA (Defense Procurement/Tech) | Direction Générale de l'Armement | dga-cab.courrier.fct@intradef.gouv.fr; Innovation portal: armement.defense.gouv.fr |
-| 5 | AID (Defense Innovation Agency) | Agence de l'Innovation de Défense | Via defense.gouv.fr/aid; Innovation portal: armement.defense.gouv.fr/innovation/deposer-un-projet-innovation |
-| 6 | COMCYBER (Cyber Command) | Commandement de la Cyberdéfense | Via Ministère des Armées: defense.gouv.fr/comcyber |
-| 7 | SGDSN (National Security Secretariat) | Secrétariat Général de la Défense et de la Sécurité Nationale | Phone: +33 (0)1 71 75 80 00; sgdsn.gouv.fr |
-| 8 | DRSD (Defense Counterintelligence) | Direction du Renseignement et de la Sécurité de la Défense | Contact form: drsd.defense.gouv.fr |
-| 9 | DRM (Military Intelligence) | Direction du Renseignement Militaire | Via Ministère des Armées |
-| 10 | CNIL (Data Privacy Regulator) | Commission Nationale de l'Informatique et des Libertés | Contact form: cnil.fr; Phone: +33 (0)1 53 73 22 22 |
-| 11 | Armée de Terre (Army) | Armée de Terre | Via defense.gouv.fr/terre |
-| 12 | Marine Nationale (Navy) | Marine Nationale | Via defense.gouv.fr/marine |
-| 13 | Armée de l'Air et de l'Espace | Armée de l'Air et de l'Espace | Via defense.gouv.fr/air |
-
-**Best email targets (actually have email addresses):**
-1. ANSSI: cert-fr@ssi.gouv.fr, communication@ssi.gouv.fr, secretariat.anssi@ssi.gouv.fr
-2. DGSI: securite-economique@interieur.gouv.fr, cyber.dgsi@interieur.gouv.fr
-3. DGA: dga-cab.courrier.fct@intradef.gouv.fr
+| # | French Name | Emails |
+|---|------------|--------|
+| 1 | Agence nationale de la sécurité des systèmes d'information | cert-fr@ssi.gouv.fr, recrutement@ssi.gouv.fr, presse@ssi.gouv.fr, monespacenis2@ssi.gouv.fr, contact.rgpd@sgdsn.gouv.fr |
+| 2 | Direction générale de la Sécurité intérieure | securite-economique@interieur.gouv.fr, cyber.dgsi@interieur.gouv.fr |
+| 3 | Direction générale de l'Armement | dga-cab.courrier.fct@intradef.gouv.fr |
+| 4 | Direction générale de la Sécurité extérieure | NEED EMAIL — Nir to search Google |
+| 5 | Agence de l'innovation de défense | NEED EMAIL — Nir to search Google |
+| 6 | Commandement de la cyberdéfense | NEED EMAIL — Nir to search Google |
+| 7 | Direction du Renseignement et de la Sécurité de la Défense | NEED EMAIL — Nir to search Google |
+| 8 | Direction du Renseignement militaire | NEED EMAIL — Nir to search Google |
+| 9 | Commission nationale de l'informatique et des libertés | NEED EMAIL — Nir to search Google |
+| 10 | Armée de terre | NEED EMAIL — Nir to search Google |
+| 11 | Marine nationale | NEED EMAIL — Nir to search Google |
+| 12 | Armée de l'air et de l'espace | NEED EMAIL — Nir to search Google |
 
 ## Subject Line
 
