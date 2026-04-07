@@ -1,8 +1,9 @@
 # MASTER TODO — What We Need To Do
 
-> Updated: 2026-04-07
+> Updated: 2026-04-07 end of day
 > This is THE source of truth for what's been done and what hasn't.
 > Every Claude Code session MUST read this file to know what to work on.
+> Also read REPLIES_AND_LESSONS.md for what works and what doesn't.
 
 ---
 
@@ -11,40 +12,39 @@
 1. **Named individuals with personalized letters** — Wooldridge (Oxford) and Rovatsos (Edinburgh) both replied
 2. **YouTubers with specific content references** — NetworkChuck replied
 3. **Professor emails are PUBLIC** on university faculty pages — no YouTube lookup needed
-4. **Defense/intelligence agencies** — we must write to their general emails (no choice, heads of agencies don't publish personal emails), BUT only for countries we haven't done yet
+4. **Defense/intelligence agencies** — general emails DO get read (US Cyber Command assigned case #2026-02741)
+5. **NEW METHOD (2026-04-07):** Deep psychological research on each professor, connect our system to THEIR specific work, ask a genuine question, write in THEIR language (French for French professors), end with a question not a statement
 
 ## WHAT DOES NOT WORK (proven by zero replies):
 
 1. **Generic university emails** (faculty secretary, webmaster, dean's office) — 82 contacts in Asia, ZERO replies
 2. **Generic contact forms** — secretaries delete/ignore anything that isn't a scheduling request
+3. **Making recipients feel small** — Rossmann rejected because ego bruised
 
 ---
 
-## COUNTRIES ALREADY DONE — Defense/Intelligence Agencies (general emails, no need to redo):
-- ✅ U.S.A.
+## COUNTRIES ALREADY DONE — Defense/Intelligence Agencies:
+- ✅ U.S.A. (Cyber Command assigned case number!)
 - ✅ U.K.
 - ✅ China (8 agencies)
 - ✅ South Korea (10 agencies)
 - ✅ Japan (12 agencies)
 - ✅ India (12 agencies)
+- ✅ **France (22 emails sent 2026-04-07)** — "atomic bomb of cyber warfare" letter. Agencies: ANSSI, DGSI, DGA, AID, COMCYBER, DRSD, DRM, CNIL, Armée de terre, Marine nationale, Armée de l'air et de l'espace.
 
-## COUNTRIES ALREADY DONE — Universities (BUT sent to generic inboxes = WASTED, need to REDO with named professors):
-- ❌ China — 10 universities sent to generic emails, ZERO replies. REDO with named AI professors.
-- ❌ South Korea — 10 universities sent to generic emails, ZERO replies. REDO with named AI professors.
-- ❌ Japan — 10 universities sent to generic emails, ZERO replies. REDO with named AI professors.
-- ❌ India — 10 universities sent to generic emails, ZERO replies. REDO with named AI professors.
+## COUNTRIES ALREADY DONE — Universities (generic inboxes = WASTED, need REDO with named professors):
+- ❌ China — 10 universities sent to generic emails, ZERO replies. REDO.
+- ❌ South Korea — 10 universities sent to generic emails, ZERO replies. REDO.
+- ❌ Japan — 10 universities sent to generic emails, ZERO replies. REDO.
+- ❌ India — 10 universities sent to generic emails, ZERO replies. REDO.
 
 ## COUNTRIES DONE RIGHT — Named Individual Professors (personalized letters):
-- ✅ U.K. — 8 professors (Wooldridge, Rovatsos, Lapata, Wendy Hall, Hinton, Firth-Butterfield, Barber, de Montjoye) — 2 replied!
+- ✅ U.K. — 8 professors — 2 replied!
+- ✅ **France — 10 professors (2026-04-07):** Bellet (INRIA), Picard (ONERA), Moraitis (Paris Cité), Demazeau (CNRS Grenoble), Beynier (Sorbonne), Muller (Mines St-Etienne), Tommasi (INRIA Lille), Palamidessi (INRIA/Polytechnique), Robert (ENS Lyon), Bach (ENS Paris). NEW METHOD: deep research, personalized angle, genuine question, written in French.
 
 ---
 
 ## TODO — NEW COUNTRIES (not touched at all):
-
-### France
-- [ ] Defense/intelligence agencies (general emails): DGSE, DGSI, ANSSI, DRM, Armée de Terre, Marine Nationale, Armée de l'Air, DGA, CNIL, etc.
-- [ ] Named AI professors at top French universities (personalized letters, in French)
-- [ ] Wikipedia-verified French technical terms
 
 ### Germany
 - [ ] Defense/intelligence agencies (general emails): BND, BfV, BSI, MAD, Bundeswehr, BMVg, etc.
@@ -67,25 +67,25 @@
 
 ## TODO — REDO FAR EAST with Named Professors:
 
-### China — find top 10 AI professors by name, get their university email, write personalized letters in Mandarin
+### China — find top 10 AI professors by name, personalized letters in Mandarin
 - [ ] Research named professors
 - [ ] Write personalized letters
 
-### South Korea — find top 10 AI professors by name, get their university email, write personalized letters in Korean
+### South Korea — find top 10 AI professors by name, personalized letters in Korean
 - [ ] Research named professors
 - [ ] Write personalized letters
 
-### Japan — find top 10 AI professors by name, get their university email, write personalized letters in Japanese
+### Japan — find top 10 AI professors by name, personalized letters in Japanese
 - [ ] Research named professors
 - [ ] Write personalized letters
 
-### India — find top 10 AI professors by name, get their university email, write personalized letters in Hindi/English
+### India — find top 10 AI professors by name, personalized letters in Hindi/English
 - [ ] Research named professors
 - [ ] Write personalized letters
 
 ---
 
-## TODO — YouTubers (blocked on email lookup until tomorrow):
+## TODO — YouTubers (YouTube email lookup was blocked 2026-04-07, try again tomorrow):
 
 ### Privacy/Homelab YouTubers (use NetworkChuck letter as template):
 - [ ] Techno Tim (~600-700K) — NEED EMAIL
@@ -93,7 +93,7 @@
 - [ ] Jim's Garage (~100-150K) — NEED EMAIL
 - [ ] DB Tech (~150-180K) — NEED EMAIL
 
-### Prepper/Homesteader YouTubers (use Community Hive Vision):
+### Prepper/Homesteader YouTubers (use Community Hive Vision — see COMMUNITY_HIVE_VISION.md):
 - [ ] Wranglerstar (~2.5M) — NEED EMAIL
 - [ ] Tim Pool (~1.48M) — NEED EMAIL
 - [ ] Off Grid with Doug & Stacy (~1.19M) — NEED EMAIL
@@ -103,20 +103,34 @@
 ---
 
 ## TODO — Follow-ups:
-- [ ] NetworkChuck — follow up with Community Hive Vision (3 days since assistant replied)
+- [ ] NetworkChuck — follow up with Community Hive Vision (4 days since assistant replied)
 - [ ] Wooldridge — follow up asking what he thought (he said "I'll take a look")
 
 ---
 
-## LETTER RULES (quick reference, full details in REPLIES_AND_LESSONS.md and LETTER_STRATEGY_CRITICAL_UPDATE.md):
+## LETTER RULES (quick reference):
 
-1. Golden Rule: Extend, Never Replace
-2. Invention is the hook — "your data never leaves the building"
-3. For professors: speak their exact research language, connect to THEIR specific project
-4. For YouTubers: mention their specific content, suggest as video topic
-5. For institutions: keep "paid collaboration" — we are not volunteers
-6. Letters must be 20-30 sentences — the idea CANNOT be compressed shorter
-7. One or two personal touches max — not a dossier
-8. Be vulnerable, ask don't tell, position them as the judge
-9. Foreign language letters: save as .txt on Desktop for clean copy-paste
-10. Save EVERYTHING to GitHub and push
+### For defense agencies:
+1. "Atomic bomb of cyber warfare" framing — offensive + defensive applications
+2. Written in target country's language
+3. Keep "paid collaboration" line — we are not volunteers
+4. Send to ALL emails at each agency (multiple emails = gets routed to right person)
+
+### For professors (NEW METHOD 2026-04-07):
+1. Deep psychological research on each person first
+2. Subject line references THEIR specific paper/project
+3. Connect our system to THEIR research — they are the foundation, we extend
+4. Golden Rule: Extend, Never Replace
+5. Written in THEIR language (French for French, German for German, etc.)
+6. End with a genuine QUESTION they'd find irresistible
+7. No politics, no sovereignty — pure technical merit
+8. "Your data never leaves the building" — NOT "no single model sees the whole task" (wrong)
+9. Be honest about what our system is NOT (workers are not autonomous agents, we have central control)
+10. Save .txt files in Downloads folder (NOT Desktop — Desktop files vanish)
+11. Save EVERYTHING to GitHub and push physically
+
+### For YouTubers:
+1. Mention their specific content (1-2 lines)
+2. Suggest as video topic for their audience
+3. Community Hive Vision for prepper/homesteader channels
+4. NetworkChuck letter as template for privacy/homelab channels
