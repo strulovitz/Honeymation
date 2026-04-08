@@ -141,8 +141,47 @@ Who is in the sweet spot? Who would be our "multiplier of power"?
 
 ---
 
-## What Nir should decide:
-- Which of these niches to pursue first?
-- Are there niches Nir thought of that aren't listed here?
-- Should we pause Germany defense emails and pivot to one of these?
-- Or do Germany defense in parallel while we prepare a new approach for a new niche?
+## Nir's response — shooting down each niche (2026-04-08):
+
+### 1. Investigative journalists — REJECTED
+- We already wrote to TONS of reporters, correspondents, editors. Zero results.
+- Journalists need FRONTIER models with CURRENT news/data for deep research
+- Small local LLMs with year-old training cutoffs are useless to them
+- They need the newest information, not privacy
+
+### 2. Small law firms — REJECTED
+- Same problem: lawyers need current rulings, new precedent cases, new laws
+- A model trained a year ago doesn't know about recent legal changes
+- Privacy is nice but outdated knowledge is a dealbreaker
+
+### 3. Self-hosting community — ALREADY TRIED EXHAUSTIVELY
+- We tried ALL of Reddit (almost got banned), Hacker News, Medium
+- r/LocalLLaMA blocked us (Rule 4)
+- This audience has been fully tapped
+
+### 4. Developing world universities — 50% MAYBE
+- They also want current material and new research
+- BUT they might want it for: making quizzes from existing material, automating faculty schedules, training students to code
+- Use cases where CURRENT knowledge doesn't matter — just processing power
+- Coding tutoring is also questionable since programming is becoming automated
+
+### 5. Rural clinics — REJECTED
+- Exposed to lawsuits if they don't use most current medical knowledge
+- A model with outdated training data could be dangerous/liable
+
+## THE CORE PROBLEM IDENTIFIED:
+**Local LLMs have old training data.** Any use case that requires CURRENT information (news, law, medicine, research) is automatically disqualified. We need use cases where the AI's knowledge cutoff doesn't matter — where it's processing/analyzing USER-PROVIDED data, not generating knowledge from its training.
+
+### Use cases where knowledge cutoff DOESN'T MATTER:
+- Processing/summarizing documents the user provides (the data is in the prompt, not in training)
+- Translation
+- Code generation (syntax doesn't change that fast)
+- Data analysis / pattern recognition on user-provided datasets
+- Anonymizing/redacting documents
+- Generating quizzes/tests from provided material
+- Formatting, restructuring, converting documents
+
+## Nir has a radical idea — waiting to hear it...
+
+## Germany defense: COMPLETED 2026-04-08
+- 32 emails across 13 agencies — ALL SENT by Nir
