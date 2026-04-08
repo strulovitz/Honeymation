@@ -1,6 +1,6 @@
 # MASTER TODO — What We Need To Do
 
-> Updated: 2026-04-07 end of day
+> Updated: 2026-04-08 morning
 > This is THE source of truth for what's been done and what hasn't.
 > Every Claude Code session MUST read this file to know what to work on.
 > Also read REPLIES_AND_LESSONS.md for what works and what doesn't.
@@ -14,6 +14,14 @@
 3. **Professor emails are PUBLIC** on university faculty pages — no YouTube lookup needed
 4. **Defense/intelligence agencies** — general emails DO get read (US Cyber Command assigned case #2026-02741)
 5. **NEW METHOD (2026-04-07):** Deep psychological research on each professor, connect our system to THEIR specific work, ask a genuine question, write in THEIR language (French for French professors), end with a question not a statement
+
+## EVIDENCE THEY LOOK BUT DON'T REPLY:
+
+- **YouTube views before France campaign (2026-04-07):** Public=11, Private=7
+- **YouTube views after France campaign (2026-04-08):** Public=13, Private=12
+- **Private Mode video jumped from 7→12 views** — 5 new views correlate with France letters
+- **Conclusion:** People DO click and watch. They just don't reply. Keep sending — accumulating views and awareness matters even without replies.
+- **Demazeau (CNRS Grenoble)** sent auto-reply: on vacation until April 16, 2026. Will read then.
 
 ## WHAT DOES NOT WORK (proven by zero replies):
 
@@ -102,9 +110,10 @@
 
 ---
 
-## TODO — Follow-ups:
-- [ ] NetworkChuck — follow up with Community Hive Vision (4 days since assistant replied)
-- [ ] Wooldridge — follow up asking what he thought (he said "I'll take a look")
+## TODO — Follow-ups (NOT NOW — wait ~1 month, remind Nir around May 4-6):
+- [ ] NetworkChuck — follow up with Community Hive Vision (replied April 4)
+- [ ] Wooldridge — follow up asking what he thought (replied April 6, said "I'll take a look")
+- [ ] Demazeau (CNRS Grenoble) — on vacation until April 16, check back after that
 
 ---
 
