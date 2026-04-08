@@ -40,14 +40,16 @@
 2. legal-notices@google.com
 3. usernotice@google.com
 
-### xAI (2 emails)
+### xAI (4 emails)
 1. legal@x.ai
 2. support@x.ai
+3. privacy@x.ai
+4. vulnerabilities@x.ai
 ### Microsoft — SKIPPED (no frontier model of their own)
 ### Amazon — SKIPPED (their AI is Anthropic investment, already covered)
 ### Chinese (DeepSeek, Alibaba, Baidu) — LATER, only if above don't respond
 
-**TOTAL: 30 emails across 6 companies**
+**TOTAL: 32 emails across 6 companies**
 
 ## Strategy: Madman Theory
 The same strategy that kept the USSR alive for 40 years against a richer, stronger opponent.
