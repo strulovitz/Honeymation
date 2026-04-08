@@ -168,4 +168,32 @@ NEVER paraphrase. NEVER use Google Translate for technical terms.
 
 ---
 
-## German — TODO
+## German (Deutsch) — VERIFIED via Wikipedia
+
+| # | English Term | German Wikipedia Title (EXACT) | URL |
+|---|---|---|---|
+| 1 | Distributed computing | Verteiltes System | https://de.wikipedia.org/wiki/Verteiltes_System |
+| 2 | Parallel computing | Parallelrechner | https://de.wikipedia.org/wiki/Parallelrechner |
+| 3 | Task parallelism | Aufgabenparallelismus | NO German Wikipedia page — constructed standard term |
+| 4 | Tensor | Tensor | https://de.wikipedia.org/wiki/Tensor |
+| 5 | Pipeline (computing) | Pipeline | NO German Wikipedia page — English loanword used in German tech writing |
+| 6 | Data parallelism | Datenparallelität | NO German Wikipedia page (redirects to Nebenläufigkeit = Concurrency, different concept) |
+| 7 | Large language model | Large Language Model | https://de.wikipedia.org/wiki/Large_Language_Model |
+| 8 | Artificial intelligence | Künstliche Intelligenz | https://de.wikipedia.org/wiki/Künstliche_Intelligenz |
+| 9 | Cloud computing | Cloud Computing | https://de.wikipedia.org/wiki/Cloud_Computing |
+| 10 | Data sovereignty | Datenhoheit | https://de.wikipedia.org/wiki/Datenhoheit |
+| 11 | Mass surveillance | Massenüberwachung | Redirects to "Weltweite automatisierte Massenüberwachung" (2013 NSA article) — term still valid |
+| 12 | Open-source software | Open-Source-Software | https://de.wikipedia.org/wiki/Open-Source-Software |
+| 13 | Edward Snowden | Edward Snowden | https://de.wikipedia.org/wiki/Edward_Snowden |
+| 14 | National security | Äußere Sicherheit | https://de.wikipedia.org/wiki/Äußere_Sicherheit |
+| 15 | Local area network | Local Area Network | https://de.wikipedia.org/wiki/Local_Area_Network |
+| 16 | Military-industrial complex | Militärisch-industrieller Komplex | https://de.wikipedia.org/wiki/Militärisch-industrieller_Komplex |
+| 17 | Big data | Big Data | https://de.wikipedia.org/wiki/Big_Data |
+| 18 | Encryption | Verschlüsselung | https://de.wikipedia.org/wiki/Verschlüsselung |
+| 19 | Privacy | Privatsphäre | https://de.wikipedia.org/wiki/Privatsphäre |
+| 20 | BitTorrent | BitTorrent | https://de.wikipedia.org/wiki/BitTorrent |
+| 21 | Graphics processing unit | Grafikprozessor | https://de.wikipedia.org/wiki/Grafikprozessor |
+| 22 | Multi-agent system | Multiagentensystem | https://de.wikipedia.org/wiki/Multiagentensystem |
+| 23 | Whistleblower | Whistleblower | https://de.wikipedia.org/wiki/Whistleblower |
+| — | Tensor parallelism | Tensor-Parallelismus | NO Wikipedia page — constructed from verified: Tensor + Parallelismus |
+| — | Pipeline parallelism | Pipeline-Parallelismus | NO Wikipedia page — constructed standard term |
