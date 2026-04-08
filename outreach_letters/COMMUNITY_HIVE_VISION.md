@@ -36,6 +36,9 @@ One community does it, the leader makes a video about it, neighboring communitie
 
 We're not asking Cody to "use AI." We're asking him to **be the leader** of his community's digital independence. That's already his identity. He's the guy people come to for advice. Now he's also the guy who runs the community's AI. That's powerful for his ego, his reputation, AND his channel.
 
+## CRITICAL RULE FOR ALL PREPPER/HOMESTEADER LETTERS:
+These people might not have multiple computers at home. Do NOT frame this as "your computers in your house." Frame it as a COMMUNITY system: neighbors' computers connected between houses in a village. Cables between buildings. Each neighbor contributes one computer. The more people join, the stronger the community's AI. This is a COMMUNITY tool, not a personal one. They are community-oriented people — the community angle is what resonates, not "your personal setup."
+
 ## The Arrow (One-Line Pitch)
 
 For someone like Wranglerstar: He cares about **self-reliance and not depending on systems you don't control** → our system gives his community **AI that runs on their own hardware, under their own roof, no cloud, no Big Tech** — the digital equivalent of growing your own food and splitting your own wood.
