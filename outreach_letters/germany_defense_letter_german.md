@@ -1,20 +1,24 @@
 # Germany Defense/Intelligence Letter — German (Deutsch)
 
-## Target Agencies & Contact Info (all emails verified via official websites ✅)
+## Target Agencies & Contact Info (all emails verified by Nir via Google ✅)
 
 | # | Agency | Role | Emails |
 |---|--------|------|--------|
-| 1 | BSI (Bundesamt für Sicherheit in der Informationstechnik) | Cybersecurity | bsi@bsi.bund.de, service-center@bsi.bund.de |
-| 2 | Cyberagentur (Agentur für Innovation in der Cybersicherheit) | Cyber innovation funding | kontakt@cyberagentur.de, presse@cyberagentur.de |
-| 3 | ZITiS (Zentrale Stelle für Informationstechnik im Sicherheitsbereich) | Security IT development | poststelle@zitis.bund.de, presse@zitis.bund.de |
-| 4 | BND (Bundesnachrichtendienst) | Foreign intelligence | information@bnd.bund.de, redaktion@bnd.bund.de |
-| 5 | BfV (Bundesamt für Verfassungsschutz) | Domestic intelligence | kontakt@bfv.bund.de, pressestelle@bfv.bund.de, hinweise@bfv.bund.de |
-| 6 | BMVg (Bundesministerium der Verteidigung) | Ministry of Defense | poststelle@bmvg.bund.de |
-| 7 | Kommando CIR (Cyber- und Informationsraum) | Military cyber command | PIZCIR@bundeswehr.org |
-| 8 | MAD (Militärischer Abschirmdienst) | Military counterintelligence | mad@bundeswehr.org, bamadredaktion@bundeswehr.org |
-| 9 | BAAINBw (Bundesamt für Ausrüstung, Informationstechnik und Nutzung der Bundeswehr) | Defense procurement/IT | baainbwposteingang@bundeswehr.org |
+| 1 | BSI (Bundesamt für Sicherheit in der Informationstechnik) | Cybersecurity | service-center@bsi.bund.de, presse@bsi.bund.de, certbund@bsi.bund.de, it-sicherheitskennzeichen@bsi.bund.de, market-surveillance@bsi.bund.de |
+| 2 | Cyberagentur (Agentur für Innovation in der Cybersicherheit) | Cyber innovation funding | kontakt@cyberagentur.de, presse@cyberagentur.de, bewerbung@cyberagentur.de |
+| 3 | BND (Bundesnachrichtendienst) | Foreign intelligence | zentrale@bundesnachrichtendienst.de, information@bnd.bund.de, datenschutzbeauftragter@bnd.bund.de |
+| 4 | BfV (Bundesamt für Verfassungsschutz) | Domestic intelligence | hinweise@bfv.bund.de, poststelle@bfv.bund.de |
+| 5 | BMVg (Bundesministerium der Verteidigung) | Ministry of Defense | poststelle@bmvg.bund.de, bmvgpresse@bmvg.bund.de, info@bundeswehr.org |
+| 6 | ZITiS (Zentrale Stelle für Informationstechnik im Sicherheitsbereich) | Security IT development | poststelle@zitis.bund.de, bd@zitis.bund.de |
+| 7 | MAD (Militärischer Abschirmdienst) — via BfDI | Military counterintelligence (no direct email) | poststelle@bfdi.bund.de |
+| 8 | BAAINBw (Bundesamt für Ausrüstung, Informationstechnik und Nutzung der Bundeswehr) | Defense procurement/IT | BAAINBwL2.3@bundeswehr.org, BAAINBwL2.2@bundeswehr.org, baainbwe2.3@bundeswehr.org |
+| 9 | Heer (German Army) | Army | pizheer@bundeswehr.org |
+| 10 | Deutsche Marine (German Navy) | Navy | marine@bundeswehr.org |
+| 11 | Luftwaffe (German Air Force) | Air Force | OSLw-International-Cooperation@bundeswehr.org |
+| 12 | BKA (Bundeskriminalamt) | Federal criminal police | mail@bka.bund.de, pressestelle@bka.bund.de, ds-petenten@bka.bund.de, u-entrance@bka.bund.de, KT@bka.bund.de |
+| 13 | BWI GmbH | Bundeswehr IT provider | info@bwi.de, datenschutzbeauftragter@bwi.de |
 
-**Total: 15 verified email addresses across 9 agencies**
+**Total: 32 verified email addresses across 13 agencies**
 
 ## Subject Line
 
@@ -85,20 +89,37 @@ E-Mail: nir.strulovitz@gmail.com
 Mobil: +972-54-475-2626
 GitHub: https://github.com/strulovitz
 
-## Sending Order (recommended — most relevant first)
+## Sending Order — ALL 32 emails
 
-1. BSI — bsi@bsi.bund.de (Germany's ANSSI equivalent, cybersecurity mandate)
-2. BSI Service Center — service-center@bsi.bund.de
-3. Cyberagentur — kontakt@cyberagentur.de (specifically funds cyber innovation)
-4. Cyberagentur Press — presse@cyberagentur.de
-5. ZITiS — poststelle@zitis.bund.de (builds security tech for federal agencies)
-6. ZITiS Press — presse@zitis.bund.de
-7. BND — information@bnd.bund.de (foreign intelligence)
-8. BND Editorial — redaktion@bnd.bund.de
-9. BfV — kontakt@bfv.bund.de (domestic intelligence)
-10. BfV Press — pressestelle@bfv.bund.de
-11. BfV Tips — hinweise@bfv.bund.de
-12. BMVg — poststelle@bmvg.bund.de (Ministry of Defense)
-13. CIR — PIZCIR@bundeswehr.org (military cyber command)
-14. MAD — mad@bundeswehr.org (military counterintelligence)
-15. BAAINBw — baainbwposteingang@bundeswehr.org (defense IT procurement)
+1. service-center@bsi.bund.de
+2. presse@bsi.bund.de
+3. certbund@bsi.bund.de
+4. it-sicherheitskennzeichen@bsi.bund.de
+5. market-surveillance@bsi.bund.de
+6. kontakt@cyberagentur.de
+7. presse@cyberagentur.de
+8. bewerbung@cyberagentur.de
+9. zentrale@bundesnachrichtendienst.de
+10. information@bnd.bund.de
+11. datenschutzbeauftragter@bnd.bund.de
+12. hinweise@bfv.bund.de
+13. poststelle@bfv.bund.de
+14. poststelle@bmvg.bund.de
+15. bmvgpresse@bmvg.bund.de
+16. info@bundeswehr.org
+17. poststelle@zitis.bund.de
+18. bd@zitis.bund.de
+19. poststelle@bfdi.bund.de
+20. BAAINBwL2.3@bundeswehr.org
+21. BAAINBwL2.2@bundeswehr.org
+22. baainbwe2.3@bundeswehr.org
+23. pizheer@bundeswehr.org
+24. marine@bundeswehr.org
+25. OSLw-International-Cooperation@bundeswehr.org
+26. mail@bka.bund.de
+27. pressestelle@bka.bund.de
+28. ds-petenten@bka.bund.de
+29. u-entrance@bka.bund.de
+30. KT@bka.bund.de
+31. info@bwi.de
+32. datenschutzbeauftragter@bwi.de
