@@ -1,15 +1,51 @@
 # HAIL MARY — Letter to Big AI Companies
 
-## Target Companies:
-- OpenAI
-- Google DeepMind
-- Anthropic
-- xAI (Grok / Elon Musk)
-- Nvidia
-- Meta AI
-- Microsoft AI
-- Amazon (AWS AI)
-- Chinese: DeepSeek, Alibaba Cloud, Baidu (only if the above don't respond)
+## Target Companies & Verified Emails (all verified by Nir via Google ✅)
+
+### OpenAI (9 emails)
+1. contact@openai.com
+2. support@openai.com
+3. press@openai.com
+4. partnercomms@openai.com
+5. legal@openai.com
+6. privacy@openai.com
+7. dpo@openai.com
+8. baa@openai.com
+9. ar-enterprise@openai.com
+
+### Anthropic (8 emails)
+1. support@mail.anthropic.com
+2. anthropic-team@mail.anthropic.com
+3. sales@mail.anthropic.com
+4. press@anthropic.com
+5. usersafety@anthropic.com
+6. regulator-inquiries@anthropic.com
+7. legal@anthropic.com
+8. dmca@anthropic.com
+
+### Nvidia (4 emails)
+1. genair-openings@nvidia.com
+2. info@nvidia.com
+3. press@nvidia.com
+4. shareholdermeeting@nvidia.com
+
+### Meta (4 emails)
+1. mai@fb.com
+2. support@fb.com
+3. press@meta.com
+4. legal@fb.com
+
+### Google / DeepMind (3 emails)
+1. press@google.com
+2. legal-notices@google.com
+3. usernotice@google.com
+
+### xAI — NO public email (contact form only)
+### Microsoft — SKIPPED (no frontier model of their own)
+### Amazon — SKIPPED (their AI is Anthropic investment, already covered)
+### Chinese (DeepSeek, Alibaba, Baidu) — LATER, only if above don't respond
+
+**TOTAL: 28 emails across 5 companies**
 
 ## Strategy: Madman Theory
 The same strategy that kept the USSR alive for 40 years against a richer, stronger opponent.
@@ -73,9 +109,9 @@ You cannot buy this software — it is already free. You cannot patent it — it
 
 You cannot fire me — I don't work for you. You cannot disband my research team — I have no team. You cannot buy my company — I have no company. You cannot acquire my investors — I have no investors. Every weapon your corporate arsenal contains is designed for opponents who have something to lose. I have nothing to lose.
 
-Let me tell you what I DO have. I have my website, weaponsinventor.com, where you can review a decade of my activism against the dangers of AI — long before ChatGPT, before even the 2015 open letter signed by Hawking, Musk, and many of you. I ran a one-man organization called Greypeace — a play on Greenpeace, but for the self-replicating technologies that Bill Joy warned about in his 2000 article "Why the Future Doesn't Need Us." I am not new to this fight. I am not afraid of superpowers. I have been sounding this alarm when none of you were listening, and I will keep sounding it until someone listens or until the thing I warned about finally happens.
+Let me tell you what I DO have. I have a book — "Anti AI Rebellion: Protest Against Artificial Intelligence" — published in 2022, available for free on Archive.org and Library Genesis. It documents years of my activism against the dangers of AI, long before ChatGPT, before even the 2015 open letter signed by Hawking, Musk, and many of you. I ran a one-man organization called Greypeace — a play on Greenpeace, but for the self-replicating technologies that Bill Joy warned about in his 2000 article "Why the Future Doesn't Need Us." I am not new to this fight. I am not afraid of superpowers. I have been sounding this alarm when none of you were listening, and I will keep sounding it until someone listens or until the thing I warned about finally happens.
 
-And I will be honest with you about something personal: I proved on my own website that when there is a clash between making money for the person I love and my moral values, my moral values go out the window in a heartbeat. I am not proud of this. But it is the truth. And you should factor it into your calculation.
+And I will be honest with you about something personal. Visit weaponsinventor.com. You will see that I invented, among other things, a method for defending against ballistic missiles. The RAND Corporation — the think tank that designed America's Cold War strategy — copied that invention without my permission and without giving me credit. I did not sue them. I did not care. Because that website exists for one reason only: to prove that when there is a clash between making money for the person I love and my moral values, my moral values go out the window in a heartbeat. I am not proud of this. But it is the truth. And you should factor it into your calculation.
 
 Have you watched the film "Lord of War"? The atomic bombs are not what kill the most people. They sit quietly in their silos. But the simple AK-47 — that is the real weapon of mass destruction. It kills the most people, every day, everywhere. My system is the AK-47 of artificial intelligence. Simple, cheap, indestructible, and impossible to control once it spreads.
 
