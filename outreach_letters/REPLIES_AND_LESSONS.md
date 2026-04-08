@@ -2,7 +2,7 @@
 
 > This file contains ALL replies we received and the lessons extracted from each one.
 > Every Claude Code session MUST read this file to understand what works and what doesn't.
-> As of 2026-04-07: 4 replies out of ~174 contacts.
+> As of 2026-04-08: 7 replies out of ~206 contacts.
 
 ---
 
@@ -121,17 +121,66 @@
 
 ---
 
+## Reply 6: Prof Yves Demazeau (CNRS Grenoble, MAS founder) — AUTO-REPLY
+
+**Date:** April 7, 2026
+**Who replied:** Automated out-of-office
+
+**Their reply:**
+> Je suis en congés et ne pourrai lire mes messages qu'à compter du 16 avril 2026 à 08:00 am. Je traiterai votre message dès que possible. Merci pour votre patience.
+
+**What this means:** He's on vacation until April 16, 2026. He WILL see the letter when he returns. Not a real reply — just an auto-reply. Check back after April 16.
+
+---
+
+## Reply 7: Prof Pavlos Moraitis (Paris Cité, argumentation/MAS, CEO of Argument Theory) — BEST REPLY YET
+
+**Date:** April 8, 2026
+**Who replied:** Pavlos Moraitis personally
+
+**Their reply:**
+> Bonjour Nir,
+> Merci pour votre intérêt à mon travail. Vos idées sont très pertinentes.
+> Les deux papiers ci-joint aideront votre réflexion et répondront à votre question. Mais GORGIAS n'est pas (n'est plus) open source, c'est une solution industrielle sous la plateforme rAIson (ouverte en publique dans les prochains mois) de la startup Argument Theory (www.argument-theory.com) dont je suis co-fondateur et CEO.
+> Bien Cordialement
+> pm
+
+**He attached 2 academic papers.**
+
+**Why this is the best reply so far:**
+1. "Vos idées sont très pertinentes" = "Your ideas are very relevant" — validated the system
+2. Sent TWO papers to help with our specific question — actual engagement, not just "I'll take a look"
+3. Corrected us on GORGIAS (now commercial, not open source) — treating us as a peer worth correcting
+4. Revealed he's CEO of startup Argument Theory with platform rAIson — potential business collaboration
+5. Gave company email: pavlos@argument-theory.com — invitation to continue
+
+**Our letter that worked:** The new professor method (Apr 7): deep research on his work (GORGIAS, ArgMAS workshop, ICTAI 2021 paper), connected our system to HIS research as the "missing physical substrate", asked a genuine irresistible technical question about argumentation-based negotiation between distributed LLMs, Hebrew proverb "iron sharpens iron" as hook. Written in French.
+
+**Lessons:**
+1. The personalized professor method produces REAL engagement, not just polite acknowledgment
+2. Asking a genuine technical question they can ANSWER gets them to invest time (he chose 2 papers!)
+3. Positioning our system as needing THEIR expertise (not the other way around) = Golden Rule perfected
+4. French professors respond in French — language matching works
+5. This is a potential real collaboration: his argumentation platform + our distributed infrastructure
+
+**TODO:** Reply to Moraitis — read the papers, reference something specific, ask about rAIson as argumentation layer for our system. Not now — when ready.
+
+---
+
 ## Summary of What Works
 
 | What works | Evidence |
 |---|---|
 | Mention their specific content (1-2 lines max) | NetworkChuck replied |
 | Speak their exact professional language | Wooldridge replied |
-| Connect to THEIR specific project/research | Wooldridge replied |
+| Connect to THEIR specific project/research | Wooldridge replied, Moraitis replied with papers |
 | Position as "next level" / extension of their work | NetworkChuck replied |
+| Ask a genuine technical question they can answer | Moraitis sent 2 papers to answer it — BEST method |
+| Position our system as NEEDING their expertise | Moraitis engaged because we asked for help, not offered it |
 | Honest ask ("great video topic" / "value your evaluation") | Both positive replies |
-| Long, detailed letters (20-30 sentences) | Both positive replies were to long letters |
+| Long, detailed letters (20-30 sentences) | All positive replies were to long letters |
 | "Paid collaboration" line for institutions | Wooldridge had it and still replied positively |
+| Writing in their language (French for French professors) | Moraitis replied in French |
 
 | What doesn't work | Evidence |
 |---|---|
