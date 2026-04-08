@@ -19,7 +19,7 @@ Ich habe ein „verteiltes System" (Verteiltes System) gebaut, in dem mehrere Co
 
 Dies ist ein echtes „Multiagentensystem" (Multiagentensystem) — nicht CrewAI oder AutoGen, wo Agenten auf einer einzigen Maschine abwechselnd laufen. Stellen Sie es sich vor wie „BitTorrent" (BitTorrent), aber statt Teile einer Datei herunterzuladen, löst jede Maschine unabhängig ein Stück eines KI-Problems.
 
-Das System funktioniert. Es ist „Open-Source-Software" (Open-Source-Software), vollständig dokumentiert, und auf GitHub verfügbar. Aber es gibt ein ungelöstes Problem, das ich als nächstes bauen muss, und bei dem ich Ihren Rat brauche.
+Das System funktioniert. Es ist „Open-Source-Software" (Open-Source-Software), vollständig dokumentiert, und auf GitHub verfügbar. In Kapitel 5 meines Buches und im Quellcode (queen_bee.py) beschreibe ich ein konkretes ungelöstes Problem — ein geplantes zukünftiges Feature —, bei dem ich Ihren Rat brauche.
 
 Hier ist das Problem:
 
