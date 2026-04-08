@@ -44,7 +44,7 @@ Nachrichtendienstliche Analyse: Zerlegen Sie einen massiven Datensatz in Teile, 
 
 Funktioniert **OHNE Internet**. Wenn das Internet ausfällt — und es ist das Erste, was in einem Krieg ausfällt — funktioniert Ihre KI weiter. Lokale Netzwerkkabel zwischen Ihren Gebäuden, das ist alles.
 
-**Kein einzelner Ausfallpunkt.** Wenn eine Maschine zerstört oder kompromittiert wird, arbeiten die anderen weiter. Das System zu zerstören erfordert, JEDE Maschine zu zerstören. Das ist Resilienz durch Architektur — dasselbe Prinzip, das Deutschland bei seinen dezentralen Bundeswehrstrukturen seit Jahrzehnten anwendet.
+**Kein einzelner Ausfallpunkt.** Wenn eine Maschine zerstört oder kompromittiert wird, arbeiten die anderen weiter. Das System zu zerstören erfordert, JEDE Maschine zu zerstören. Das ist Resilienz durch Architektur — dasselbe Prinzip wie die „Auftragstaktik" (Auftragstaktik), die Deutschland vor über 150 Jahren erfunden hat: Der Koordinator gibt die Absicht vor, jede Maschine entscheidet selbständig, wie sie ihre Teilaufgabe löst.
 
 **Kommandokettenstruktur.** Das System organisiert sich in einer Hierarchie von „Bienenstöcken" (Hives) — ein Koordinator auf Generalsebene delegiert an Koordinatoren auf Oberst-Ebene, die an ihre Einheiten delegieren. Ergebnisse fließen die Kette hinauf. Genau wie eine militärische Kommandostruktur, aber für KI. Das ermöglicht es, Probleme unbegrenzter Komplexität zu bearbeiten, indem einfach mehr Ebenen und mehr Maschinen hinzugefügt werden.
 
