@@ -43,21 +43,28 @@ What we built so far is ONE BLOCK — one Queen Bee, multiple Worker Bees. This 
 - The existing HoneycombOfAI code stays UNTOUCHED — it's Level 1
 - GiantHoneyBee is a NEW layer on top that orchestrates multiple Level 1 hives
 
-## Repositories (on github.com/strulovitz)
+## Repositories (on github.com/strulovitz) — PARALLEL STRUCTURE
 
-- **GiantHoneyBee** — the new software (hierarchical orchestration layer)
-- A new book repo (name TBD) — documenting the entire project
+### Original project:
+| Role | Name | Description |
+|------|------|-------------|
+| Client software | HoneycombOfAI | Installed on machines — Queen Bee + Worker Bees |
+| Website/server | BeehiveOfAI | Marketplace, user management, payments |
+| Book | TheDistributedAIRevolution | Documents the entire Level 1 project |
+
+### New project (one level up):
+| Role | Name | Description |
+|------|------|-------------|
+| Client software | **GiantHoneyBee** | Hierarchical orchestration layer — Mega-Queen commands regular Queens |
+| Website/server | **KillerBee** | Manages mega-queens, hierarchy, multi-level coordination |
+| Book | **MadHoney** | "Mad Honey: How Hierarchical AI Swarms Will Change Everything" |
 
 ## Development approach
 
 - Plan: Claude Opus 4.6
 - Code: Claude Sonnet 4.6 (or latest fast model)
-- Document: New book, parallel to "The Distributed AI Revolution"
+- Document: "Mad Honey" book, parallel to "The Distributed AI Revolution"
 - Process: Same vibe coding approach as the original project
-
-## Book name ideas (TBD — need to decide)
-
-(see discussion below)
 
 ## Key design principle
 
