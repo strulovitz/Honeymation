@@ -181,7 +181,22 @@ Who is in the sweet spot? Who would be our "multiplier of power"?
 - Generating quizzes/tests from provided material
 - Formatting, restructuring, converting documents
 
-## Nir has a radical idea — waiting to hear it...
+## Idea 6: Anti-consumerism / ideological refusal groups (Nir, 2026-04-08)
+
+**Concept:** People who CAN afford big AI but REFUSE on principle — like vegans who can afford meat but won't eat it. The "vegetarians of AI."
+
+**Groups considered:**
+1. FSF/GNU (Stallman) — refuse proprietary software morally. BUT overlap with self-hosting community already exhausted.
+2. European digital sovereignty politicians — campaign against US tech dominance. BUT politicians don't build things.
+3. Framasoft (France, "De-Google-ify Internet") — ideological, technical, French. NOT tried yet. But one small org.
+4. Degrowth/solarpunk — anti-corporate tech. BUT more a vibe than an organization.
+5. European Pirate Parties (Germany, Czech, Sweden) — digital rights, open source. NOT tried yet.
+
+**Verdict:** These groups mostly OVERLAP with communities already tried. The "vegetarian of AI" doesn't exist as a distinct organized group. Privacy guys, self-hosters, preppers ARE these people in different hats.
+
+**Africa/developing world:** If they have one GPU in the whole area, distributed AI doesn't help. Need MULTIPLE machines for our system to matter.
+
+## Nir has a HAIL MARY idea — waiting to hear it...
 
 ## Germany defense: COMPLETED 2026-04-08
 - 32 emails across 13 agencies — ALL SENT by Nir
