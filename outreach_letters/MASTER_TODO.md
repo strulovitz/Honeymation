@@ -66,7 +66,22 @@
 ### Germany
 - [x] Defense/intelligence agencies: 32 emails, 13 agencies — DONE 2026-04-08
 - [x] Wikipedia-verified German technical terms — DONE 2026-04-08
-- [ ] Named AI professors at top German universities (personalized letters, in German) — TODO
+- [ ] Named AI professors at top German universities (personalized letters, in German) — IN PROGRESS
+  - [x] Schölkopf (MPI Tübingen, #1 in Germany) — Byzantine Generals / causal inference angle
+  - [ ] van der Aalst (RWTH Aachen) — process mining
+  - [ ] Schmid (Hugging Face) — open-source ML
+  - [ ] Hutter (Freiburg) — AutoML
+  - [ ] Kersting (TU Darmstadt) — neural-symbolic
+  - [ ] Hönig (TU Berlin) — multi-agent coordination
+  - [ ] Fröning (Heidelberg) — edge AI
+  - [ ] Fu (Göttingen) — decentralized privacy
+  - [ ] de Melo (HPI) — LLMs
+  - [ ] Bindschaedler (MPI-SWS) — distributed systems
+
+## CODE + BOOK UPDATES (2026-04-08):
+- ✅ **Book Chapter 5** — Added "Byzantine Generals Problem" section: when a worker disagrees, is it broken, malicious, or the smartest? Causal inference needed. Pushed to TheDistributedAIRevolution repo.
+- ✅ **queen_bee.py** — Added commented-out `verify_worker_trust()` method as future feature with full problem description. Pushed to HoneycombOfAI repo.
+- These changes make the Schölkopf letter verifiable — everything referenced in the letter exists in the public repos.
 
 ### Australia
 - [ ] Defense/intelligence agencies (general emails): ASD, ASIS, ASIO, ADF, DSTG, Home Affairs, etc.

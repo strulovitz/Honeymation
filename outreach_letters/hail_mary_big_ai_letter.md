@@ -88,7 +88,8 @@
 - ✅ press@google.com, usernotice@google.com — silent (delivered)
 
 ### TOTAL DELIVERED: ~26 out of 33 emails across 6 companies
-### CASE NUMBERS: OpenAI #07534419
+### CASE NUMBERS: OpenAI #07534419 (bot), OpenAI #07534417 (support bot "Mary Gem" — summarized letter correctly, redirected to partnership form, NOT filling it out)
+### NOTE: OpenAI support reply is a bot. Real hope is the 7 silent inboxes (press, partnercomms, legal, privacy, dpo, baa, ar-enterprise).
 
 ## Strategy: Madman Theory
 The same strategy that kept the USSR alive for 40 years against a richer, stronger opponent.
