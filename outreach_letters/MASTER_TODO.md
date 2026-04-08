@@ -1,6 +1,6 @@
 # MASTER TODO — What We Need To Do
 
-> Updated: 2026-04-08 morning
+> Updated: 2026-04-08 end of day
 > This is THE source of truth for what's been done and what hasn't.
 > Every Claude Code session MUST read this file to know what to work on.
 > Also read REPLIES_AND_LESSONS.md for what works and what doesn't.
@@ -39,6 +39,15 @@
 - ✅ Japan (12 agencies)
 - ✅ India (12 agencies)
 - ✅ **France (22 emails sent 2026-04-07)** — "atomic bomb of cyber warfare" letter. Agencies: ANSSI, DGSI, DGA, AID, COMCYBER, DRSD, DRM, CNIL, Armée de terre, Marine nationale, Armée de l'air et de l'espace.
+- ✅ **Germany (32 emails sent 2026-04-08)** — Auftragstaktik letter. 13 agencies: BSI, Cyberagentur, BND, BfV, BMVg, ZITiS, MAD (via BfDI), BAAINBw, Heer, Marine, Luftwaffe, BKA, BWI.
+
+## BIG AI COMPANIES — HAIL MARY (2026-04-08):
+- ✅ **OpenAI (8/9 delivered)** — case #07534419 created. contact@ bounced.
+- ✅ **Anthropic (6/8 delivered)** — legal@, anthropic-team@, sales@ bounced. Discovered notices@ = real legal inbox.
+- ✅ **xAI (4/4 delivered)** — privacy@ auto-replied.
+- ✅ **Nvidia (4/4 delivered)** — Jensen Huang reportedly reads forwarded emails.
+- ✅ **Meta (3/4 delivered)** — legal@fb.com bounced.
+- ✅ **Google (2/3 useful)** — legal-notices@ only reads contract notices.
 
 ## COUNTRIES ALREADY DONE — Universities (generic inboxes = WASTED, need REDO with named professors):
 - ❌ China — 10 universities sent to generic emails, ZERO replies. REDO.
@@ -55,9 +64,9 @@
 ## TODO — NEW COUNTRIES (not touched at all):
 
 ### Germany
-- [ ] Defense/intelligence agencies (general emails): BND, BfV, BSI, MAD, Bundeswehr, BMVg, etc.
-- [ ] Named AI professors at top German universities (personalized letters, in German)
-- [ ] Wikipedia-verified German technical terms
+- [x] Defense/intelligence agencies: 32 emails, 13 agencies — DONE 2026-04-08
+- [x] Wikipedia-verified German technical terms — DONE 2026-04-08
+- [ ] Named AI professors at top German universities (personalized letters, in German) — TODO
 
 ### Australia
 - [ ] Defense/intelligence agencies (general emails): ASD, ASIS, ASIO, ADF, DSTG, Home Affairs, etc.

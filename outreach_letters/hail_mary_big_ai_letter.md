@@ -69,7 +69,7 @@
 - ✅ usersafety@anthropic.com — auto-reply from Safeguards Team
 - ✅ support@mail.anthropic.com — bot replied, revealed real legal: notices@anthropic.com
 - ✅ press, regulator-inquiries, dmca — silent (delivered)
-- 📤 notices@anthropic.com — TO SEND (real legal inbox)
+- ✅ notices@anthropic.com — SENT (real legal inbox, discovered via bot)
 
 ### xAI: 4/4 delivered
 - ✅ privacy@x.ai — auto-reply redirecting to privacy portal
