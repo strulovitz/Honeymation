@@ -49,7 +49,46 @@
 ### Amazon — SKIPPED (their AI is Anthropic investment, already covered)
 ### Chinese (DeepSeek, Alibaba, Baidu) — LATER, only if above don't respond
 
-**TOTAL: 32 emails across 6 companies**
+### NEWLY DISCOVERED (from auto-replies)
+- notices@anthropic.com (real legal inbox — bot at support@ told us)
+
+**TOTAL: 33 emails across 6 companies**
+
+## DELIVERY RESULTS (2026-04-08):
+
+### OpenAI: 8/9 delivered
+- ❌ contact@openai.com — address doesn't exist
+- ✅ legal@openai.com — auto-reply: "we will review your inquiry"
+- ✅ support@openai.com — bot created case #07534419
+- ✅ press, partnercomms, privacy, dpo, baa, ar-enterprise — silent (delivered)
+
+### Anthropic: 5/8 delivered + 1 new address found
+- ❌ legal@anthropic.com — Google Group, no permission
+- ❌ anthropic-team@mail.anthropic.com — doesn't exist
+- ❌ sales@mail.anthropic.com — doesn't exist
+- ✅ usersafety@anthropic.com — auto-reply from Safeguards Team
+- ✅ support@mail.anthropic.com — bot replied, revealed real legal: notices@anthropic.com
+- ✅ press, regulator-inquiries, dmca — silent (delivered)
+- 📤 notices@anthropic.com — TO SEND (real legal inbox)
+
+### xAI: 4/4 delivered
+- ✅ privacy@x.ai — auto-reply redirecting to privacy portal
+- ✅ legal, support, vulnerabilities — silent (delivered)
+
+### Nvidia: 4/4 delivered (assumed — no bounces)
+- ✅ genair-openings, info, press, shareholdermeeting — silent (delivered)
+- NOTE: Jensen Huang reportedly reads employee-forwarded emails personally
+
+### Meta: 3/4 delivered
+- ❌ legal@fb.com — address doesn't exist
+- ✅ mai@fb.com, support@fb.com, press@meta.com — silent (delivered)
+
+### Google: 2/3 useful
+- ⚠️ legal-notices@google.com — auto-reply: only reads formal contract notices
+- ✅ press@google.com, usernotice@google.com — silent (delivered)
+
+### TOTAL DELIVERED: ~26 out of 33 emails across 6 companies
+### CASE NUMBERS: OpenAI #07534419
 
 ## Strategy: Madman Theory
 The same strategy that kept the USSR alive for 40 years against a richer, stronger opponent.
