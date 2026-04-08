@@ -120,17 +120,17 @@
 ## TODO — YouTubers (YouTube email lookup was blocked 2026-04-07, try again tomorrow):
 
 ### Privacy/Homelab YouTubers (use NetworkChuck letter as template):
-- [ ] Techno Tim (~600-700K) — NEED EMAIL
-- [ ] Lawrence Systems (~400K) — NEED EMAIL
-- [ ] Jim's Garage (~100-150K) — NEED EMAIL
-- [ ] DB Tech (~150-180K) — NEED EMAIL
+- [ ] Techno Tim (~600-700K) — tim@technotim.com ✅
+- [ ] Lawrence Systems (~400K) — YouTube@lawrencesystems.com ✅
+- [ ] Jim's Garage (~100-150K) — NEED EMAIL (YouTube quota exhausted 2026-04-08, try tomorrow)
+- [ ] DB Tech (~150-180K) — NEED EMAIL (YouTube quota exhausted 2026-04-08, try tomorrow)
 
 ### Prepper/Homesteader YouTubers (use Community Hive Vision — see COMMUNITY_HIVE_VISION.md):
-- [ ] Wranglerstar (~2.5M) — NEED EMAIL
-- [ ] Tim Pool (~1.48M) — NEED EMAIL
-- [ ] Off Grid with Doug & Stacy (~1.19M) — NEED EMAIL
-- [ ] The Hated One (~800K) — NEED EMAIL
-- [ ] Arms Family Homestead (~862K) — NEED EMAIL
+- [ ] Wranglerstar (~2.5M) — cody@wranglerstar.com ✅
+- [ ] Tim Pool (~1.48M) — timcastirl@timcast.com ✅
+- [ ] Off Grid with Doug & Stacy (~1.19M) — growinginfaithfarm@gmail.com ✅
+- [ ] The Hated One (~800K) — NO EMAIL FOUND ANYWHERE
+- [ ] Arms Family Homestead (~862K) — AFHsponsorships@yahoo.com ✅
 
 ---
 
