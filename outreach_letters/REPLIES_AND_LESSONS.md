@@ -141,6 +141,23 @@
 | Professional tone for defense agencies | US Cyber Command assigned a case number |
 | Sending to MULTIPLE emails at same agency | Gets routed to correct team (US Cyber Command evidence) |
 
+## THE MULTIPLE EMAILS METHOD (established 2026-04-08)
+
+**RULE: Send to ALL email addresses at each agency, not just the "main" one.**
+
+**Why:** A single secretary at the "main" inbox might be an idiot who thinks small and throws the letter in the garbage. But another secretary at a different department — press, cyber incidents, procurement — might think big and forward it to the correct officer or boss. US Cyber Command proves this works: we sent to 6 different emails, and the letter got routed to the correct engagement team.
+
+**How to apply:**
+1. For each agency, Google "agency name email" and collect ALL public emails (general, press, cyber, recruitment, procurement, etc.)
+2. Do NOT skip emails because they seem "wrong department" — the point is redundancy
+3. Do NOT fill out web forms if email addresses exist — forms get lost, emails get forwarded
+4. Send the SAME letter to ALL emails at each agency
+5. Only use forms as LAST RESORT if an agency has zero public email addresses
+
+**Evidence:** US Cyber Command — sent to 6 emails, got case #2026-02741 assigned, confirmed the correct team (Engage_With_Cybercom) received it.
+
+---
+
 ## Rules for ALL future letters
 
 1. **Golden Rule: Extend, Never Replace** — their work is the foundation, ours adds a layer
