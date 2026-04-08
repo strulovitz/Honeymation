@@ -6,7 +6,7 @@
 |---|------|------------|-------|----------|
 | 1 | Bernhard Schölkopf | MPI-IS Tübingen | Causal inference, ML, founder of Cyber Valley | bernhard.schoelkopf@tuebingen.mpg.de |
 | 2 | Wil van der Aalst | RWTH Aachen | Process mining ("godfather"), process decomposition | wvdaalst@pads.rwth-aachen.de |
-| 3 | Philipp Schmid | Hugging Face | Open-source ML, making models accessible | schmidphilipp1995@gmail.com |
+| ~~3~~ | ~~Philipp Schmid~~ | ~~Hugging Face~~ | **REMOVED: now at Google DeepMind (left HF in 2025). Would contradict hail mary letter if contacted personally.** | ~~schmidphilipp1995@gmail.com~~ |
 | 4 | Frank Hutter | Uni Freiburg / ELLIS Tübingen | AutoML, automated optimization | fh@cs.uni-freiburg.de, frank.hutter@gmail.com, ml-secretary@cs.uni-freiburg.de |
 | 5 | Kristian Kersting | TU Darmstadt | Neural-symbolic learning, AI+ML | kersting@cs.tu-darmstadt.de, kristian.kersting@cogsci.tu-darmstadt.de |
 | 6 | Wolfgang Hönig | TU Berlin | Multi-robot/multi-agent coordination | hoenig@tu-berlin.de |
